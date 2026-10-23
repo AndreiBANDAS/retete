@@ -123,7 +123,8 @@ def split_items(line):
                 rest = line[m.end():].lstrip()
                 # a quantity followed by a lowercase noun starts a new item
                 before = re.sub(r"[^\w]+$", "", line[start:i])
-                if rest[:1].islower() and not before.endswith(("sau", "și", "cu", "de", "la")):
+                if (rest[:1].islower() and not before.endswith(("sau", "și", "cu", "de", "la"))
+                        and not before.endswith(("-", "–"))):
                     out.append(line[start:i].strip(" ,"))
                     start, i = i, m.end()
                     continue
@@ -152,13 +153,17 @@ def parse_recipe(words):
         return None
     hdr_y = instr["y"]
     col = instr["x"] - COL_GAP
-    cut = min([w["y"] for w in words
-               if w["t"].upper().startswith(("SFATURI", "MACRO"))] or [1e9])
+    macro_hdr = min([w["y"] for w in words if w["t"].upper().startswith("MACRO")] or [1e9])
+    tips_hdr = min([w["y"] for w in words if w["t"].upper().startswith("SFATURI")] or [1e9])
+    # the macro block sits under the left column, except on pages where it was
+    # moved to the right one; there the ingredient list runs to the page bottom
+    macro_left = any(w["t"].upper().startswith("MACRO") and w["x"] < col for w in words)
+    left_cut = macro_hdr if macro_left else 1e9
 
-    left = [(y, t) for y, t in column_text(words, col, True) if hdr_y + 1 < y < cut]
-    right = [(y, t) for y, t in column_text(words, col, False) if hdr_y + 1 < y < cut]
-    below = [(y, t) for y, t in column_text(words, col, False) if y >= cut]
-    macro_rows = [(y, t) for y, t in column_text(words, col, True) if y >= cut]
+    left = [(y, t) for y, t in column_text(words, col, True) if hdr_y + 1 < y < left_cut]
+    right = [(y, t) for y, t in column_text(words, col, False) if hdr_y + 1 < y < tips_hdr]
+    below = [(y, t) for y, t in column_text(words, col, False) if y >= tips_hdr]
+    macro_rows = [(y, t) for y, t in column_text(words, col, True) if y >= macro_hdr]
 
     title = " ".join(w["t"] for w in sorted(words, key=lambda w: w["x"])
                      if hdr_y - 34 <= w["y"] < hdr_y - 4)
