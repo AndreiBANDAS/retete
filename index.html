@@ -109,28 +109,30 @@
     list-style: none; margin: 0; padding: 0;
     display: grid; gap: 1px; background: var(--line);
     border: 1px solid var(--line);
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
   }
-  @media (min-width: 720px) { ul.list { grid-template-columns: 1fr 1fr; } }
   ul.list li { margin: 0; }
   .card {
-    display: flex; align-items: center; justify-content: space-between;
-    gap: 16px; width: 100%; height: 100%; text-align: left;
+    display: flex; flex-direction: column;
+    width: 100%; height: 100%; text-align: left;
     background: var(--paper); border: 0; border-radius: 0;
-    padding: 14px 16px 14px 20px; cursor: pointer;
+    padding: 0; cursor: pointer; overflow: hidden;
   }
-  .card .txt { min-width: 0; }
-  .thumb {
-    flex: none; width: 104px; height: 62px; object-fit: cover;
-    border-radius: 2px; background: var(--chip);
+  .card .photo {
+    display: block; width: 100%; height: auto; aspect-ratio: 16 / 9;
+    object-fit: cover; background: var(--chip);
+    transition: transform .6s cubic-bezier(.2, .7, .3, 1);
   }
-  .card:hover { background: var(--chip); }
+  .card:hover .photo { transform: scale(1.04); }
+  .card .txt { flex: 1; padding: 18px 20px 20px; }
+  .card:hover .txt { background: var(--chip); }
   .kicker {
     font-size: 11px; letter-spacing: .1em; text-transform: uppercase;
     color: var(--muted); display: block;
   }
   .card h3 {
-    font-family: var(--serif); font-size: 21px; line-height: 1.2;
-    font-weight: 600; margin: 0 0 8px;
+    font-family: var(--serif); font-size: 20px; line-height: 1.25;
+    font-weight: 600; margin: 0 0 10px;
   }
   .meta {
     font-size: 13px; color: var(--muted);
@@ -151,7 +153,7 @@
     -webkit-backdrop-filter: blur(6px) saturate(.85);
   }
   .hero {
-    display: block; width: 100%; aspect-ratio: 16 / 9;
+    display: block; width: 100%; height: auto; aspect-ratio: 16 / 9;
     object-fit: cover; background: var(--chip);
   }
   .sheet { padding: 24px 26px 30px; }
@@ -240,7 +242,7 @@
 <script type="module">
 let RECIPES;
 try {
-  RECIPES = await (await fetch("retete.json")).json();
+  RECIPES = await (await fetch("retete.json", { cache: "no-cache" })).json();
 } catch (err) {
   document.body.innerHTML = `<div class="wrap"><p class="empty">Nu am putut încărca
     <code>retete.json</code>. Deschide pagina printr-un server local
@@ -307,11 +309,11 @@ function render() {
       <h2 class="sect">${c}<span>${rs.length}</span></h2>
       <ul class="list">${rs.map(r => `<li>
         <button class="card" type="button" data-id="${r.id}">
+          ${r.image ? `<img class="photo" src="${r.image}" alt="" loading="lazy" width="632" height="360">` : ""}
           <span class="txt">
             <h3>${sent(r.title)}</h3>
             <span class="meta">${metaLine(r)}</span>
           </span>
-          ${r.image ? `<img class="thumb" src="${r.image}" alt="" loading="lazy" width="104" height="62">` : ""}
         </button></li>`).join("")}</ul>
     </section>`).join("");
 }
