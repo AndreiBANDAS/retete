@@ -1,0 +1,347 @@
+<!doctype html>
+<html lang="ro">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rețete — 120 de rețete sănătoase</title>
+<meta name="robots" content="noindex, nofollow">
+<meta name="description" content="120 de rețete în română, cu ingrediente, mod de preparare și valori nutriționale. Caută după nume, categorie sau ingredient.">
+<style>
+  :root {
+    --paper: #fbf9f5;
+    --ink: #1b1917;
+    --muted: #6f6a62;
+    --line: #e2ddd3;
+    --accent: #3c6b4f;
+    --accent-ink: #fbf9f5;
+    --chip: #f1ede4;
+    --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+    --sans: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --paper: #171619;
+      --ink: #edE9e2;
+      --muted: #9c968c;
+      --line: #2e2c30;
+      --accent: #7fae8c;
+      --accent-ink: #14161a;
+      --chip: #242227;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font: 16px/1.55 var(--sans);
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 1080px; margin: 0 auto; padding: 0 20px; }
+
+  header { padding: 56px 0 28px; border-bottom: 1px solid var(--line); }
+  h1 {
+    font-family: var(--serif);
+    font-size: clamp(38px, 7vw, 64px);
+    line-height: .95;
+    letter-spacing: -.02em;
+    margin: 0 0 10px;
+    font-weight: 600;
+  }
+  .sub { margin: 0; color: var(--muted); max-width: 46ch; font-size: 15px; }
+
+  .controls {
+    display: flex; flex-wrap: wrap; gap: 10px;
+    padding: 22px 0 0;
+  }
+  input[type=search], input[type=text] {
+    flex: 1 1 220px; min-width: 0;
+    font: inherit; color: inherit;
+    background: transparent;
+    border: 1px solid var(--line);
+    border-radius: 2px;
+    padding: 10px 12px;
+  }
+  input:focus-visible, button:focus-visible, a:focus-visible {
+    outline: 2px solid var(--accent); outline-offset: 2px;
+  }
+  input::placeholder { color: var(--muted); }
+
+  button {
+    font: inherit; color: inherit; cursor: pointer;
+    background: transparent; border: 1px solid var(--line);
+    border-radius: 2px; padding: 10px 14px;
+  }
+  button:hover { border-color: var(--muted); }
+
+  nav.cats { display: flex; flex-wrap: wrap; gap: 8px; padding: 18px 0 0; }
+  nav.cats button {
+    font-size: 13px; letter-spacing: .04em; text-transform: uppercase;
+    padding: 7px 11px; border-radius: 100px; border-color: var(--line);
+    color: var(--muted);
+  }
+  nav.cats button[aria-pressed=true] {
+    background: var(--accent); color: var(--accent-ink);
+    border-color: var(--accent);
+  }
+
+  .count { color: var(--muted); font-size: 13px; margin: 18px 0 0; }
+
+  section.group { margin-top: 34px; }
+  .sect {
+    display: flex; justify-content: space-between; align-items: baseline;
+    gap: 12px; margin: 0 0 10px; padding-bottom: 8px;
+    border-bottom: 1px solid var(--ink);
+    font-size: 11px; letter-spacing: .12em; text-transform: uppercase;
+    font-weight: 600;
+  }
+  .sect span { color: var(--muted); font-weight: 400; letter-spacing: .04em; }
+
+  ul.list {
+    list-style: none; margin: 0; padding: 0;
+    display: grid; gap: 1px; background: var(--line);
+    border: 1px solid var(--line);
+  }
+  @media (min-width: 720px) { ul.list { grid-template-columns: 1fr 1fr; } }
+  ul.list li { margin: 0; }
+  .card {
+    display: block; width: 100%; height: 100%; text-align: left;
+    background: var(--paper); border: 0; border-radius: 0;
+    padding: 18px 20px 16px; cursor: pointer;
+  }
+  .card:hover { background: var(--chip); }
+  .kicker {
+    font-size: 11px; letter-spacing: .1em; text-transform: uppercase;
+    color: var(--muted); display: block;
+  }
+  .card h3 {
+    font-family: var(--serif); font-size: 21px; line-height: 1.2;
+    font-weight: 600; margin: 0 0 8px;
+  }
+  .meta {
+    font-size: 13px; color: var(--muted);
+    font-variant-numeric: tabular-nums;
+  }
+  .meta b { color: var(--ink); font-weight: 600; }
+
+  dialog {
+    width: min(760px, calc(100vw - 32px));
+    max-height: calc(100vh - 48px);
+    overflow: auto;
+    padding: 0; border: 1px solid var(--line);
+    border-radius: 3px; background: var(--paper); color: var(--ink);
+  }
+  dialog::backdrop { background: rgba(0, 0, 0, .42); }
+  .sheet { padding: 26px 26px 30px; }
+  .sheet .top { display: flex; justify-content: space-between; gap: 16px; align-items: start; }
+  .sheet h2 {
+    font-family: var(--serif); font-size: clamp(24px, 4vw, 33px);
+    line-height: 1.1; margin: 4px 0 10px; font-weight: 600;
+  }
+  .sheet .close { border: 0; font-size: 22px; line-height: 1; padding: 2px 6px; color: var(--muted); }
+  .desc { color: var(--muted); margin: 0 0 22px; max-width: 62ch; }
+
+  .cols { display: grid; gap: 28px; }
+  @media (min-width: 640px) { .cols { grid-template-columns: 1fr 1.15fr; } }
+  .sheet h3 {
+    font-size: 11px; letter-spacing: .12em; text-transform: uppercase;
+    color: var(--muted); margin: 0 0 10px; font-weight: 600;
+  }
+  ul.ing { list-style: none; margin: 0; padding: 0; font-size: 15px; }
+  ul.ing li { padding: 5px 0; border-bottom: 1px dotted var(--line); }
+  ul.ing li.group {
+    border: 0; padding-top: 12px; font-weight: 600; color: var(--ink);
+  }
+  ol.steps { margin: 0; padding-left: 20px; font-size: 15px; }
+  ol.steps li { padding: 4px 0 8px; }
+
+  .numbers {
+    display: flex; flex-wrap: wrap; gap: 0; margin: 26px 0 0;
+    border-top: 1px solid var(--line); border-bottom: 1px solid var(--line);
+    font-variant-numeric: tabular-nums;
+  }
+  .numbers div { padding: 12px 18px 12px 0; margin-right: 18px; }
+  .numbers div + div { border-left: 1px solid var(--line); padding-left: 18px; }
+  .numbers b { display: block; font-family: var(--serif); font-size: 22px; font-weight: 600; }
+  .numbers span { font-size: 11px; letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+
+  .notes { margin: 22px 0 0; font-size: 14px; }
+  .notes p { margin: 0 0 8px; }
+  .notes strong { font-weight: 600; }
+  .page-ref { color: var(--muted); font-size: 12px; margin-top: 18px; }
+
+  .empty { padding: 40px 0 80px; color: var(--muted); }
+</style>
+<body>
+<div class="wrap">
+  <header>
+    <h1>Rețete</h1>
+    <p class="sub">120 de rețete în română, cu ingrediente, mod de preparare și valori pe porție.
+      Caută după nume, alege o categorie sau filtrează după ce ai în frigider.</p>
+
+    <div class="controls">
+      <input type="search" id="q" placeholder="Caută rețetă, ingredient, pas…" aria-label="Caută rețete" autocomplete="off">
+      <input type="text" id="ing" list="ing-redete" placeholder="Doar cu ingredientul…" aria-label="Filtrează după ingredient" autocomplete="off">
+      <datalist id="ing-redete"></datalist>
+      <button type="button" id="random">Ce gătesc azi?</button>
+    </div>
+
+    <nav class="cats" id="cats" aria-label="Categorii"></nav>
+    <p class="count" id="count" aria-live="polite"></p>
+  </header>
+
+  <noscript><p class="empty">Pagina are nevoie de JavaScript ca să caute în rețete.</p></noscript>
+  <main id="list"></main>
+</div>
+
+<dialog id="detail">
+  <div class="sheet">
+    <div class="top">
+      <div>
+        <span class="kicker" id="d-cat"></span>
+        <h2 id="d-title"></h2>
+      </div>
+      <button class="close" type="button" id="d-close" aria-label="Închide">✕</button>
+    </div>
+    <p class="desc" id="d-desc"></p>
+    <div class="cols">
+      <section><h3>Ingrediente <span id="d-serv"></span></h3><ul class="ing" id="d-ing"></ul></section>
+      <section><h3>Mod de preparare</h3><ol class="steps" id="d-steps"></ol></section>
+    </div>
+    <div class="numbers" id="d-numbers"></div>
+    <div class="notes" id="d-notes"></div>
+    <p class="page-ref" id="d-page"></p>
+  </div>
+</dialog>
+
+<script type="module">
+let RECIPES;
+try {
+  RECIPES = await (await fetch("retete.json")).json();
+} catch (err) {
+  document.body.innerHTML = `<div class="wrap"><p class="empty">Nu am putut încărca
+    <code>retete.json</code>. Deschide pagina printr-un server local
+    (<code>python3 -m http.server</code>) sau de pe GitHub Pages.</p></div>`;
+  throw err;
+}
+
+const STOP = new Set(["de","cu","și","si","sau","la","din","în","in","pe","un","o","g","gr","ml","l","buc","light","după","dupa","gust","opțional","optional","pentru","felii","linguriță","lingurita","linguri","lingură","lingura","căței","catei","bucăți","bucati","%","–","-"]);
+
+const norm = s => s.toLowerCase()
+  .replace(/[șş]/g, "s").replace(/[țţ]/g, "t")
+  .normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+
+const sent = t => (t === t.toUpperCase() && t.length > 3)
+  ? t.charAt(0) + t.slice(1).toLowerCase() : t;
+
+const cats = [...new Set(RECIPES.map(r => r.category))];
+const state = { q: "", cat: "", ing: "" };
+
+const $ = id => document.getElementById(id);
+const list = $("list"), count = $("count"), detail = $("detail");
+
+RECIPES.forEach((r, i) => {
+  r.id = i;
+  r.hay = norm([r.title, r.description, r.category, ...r.ingredients, ...r.steps,
+                r.allergens, r.variants].join(" "));
+  r.hayIng = norm(r.ingredients.join(" "));
+});
+
+const words = new Map();
+for (const r of RECIPES) {
+  for (const w of norm(r.ingredients.join(" ")).split(/[^a-z0-9%]+/)) {
+    if (w.length > 2 && !/\d/.test(w) && !STOP.has(w)) words.set(w, (words.get(w) || 0) + 1);
+  }
+}
+$("ing-redete").innerHTML = [...words].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+  .slice(0, 120).map(([w]) => `<option value="${w}">`).join("");
+
+$("cats").innerHTML = [["", "Toate"], ...cats.map(c => [c, c])]
+  .map(([v, label]) => `<button type="button" data-cat="${v}" aria-pressed="${v === ""}">${label}</button>`)
+  .join("");
+
+const matches = r =>
+  (!state.cat || r.category === state.cat) &&
+  (!state.q || r.hay.includes(state.q)) &&
+  (!state.ing || state.ing.split(/\s+/).every(t => r.hayIng.includes(t)));
+
+const metaLine = r => `<b>${r.kcal}</b> kcal <span aria-hidden="true">·</span> ${r.minutes} min <span aria-hidden="true">·</span> ${r.servings} porții`;
+
+function render() {
+  const hits = RECIPES.filter(matches);
+  count.textContent = hits.length === RECIPES.length
+    ? `${RECIPES.length} rețete`
+    : `${hits.length} din ${RECIPES.length} rețete`;
+
+  if (!hits.length) {
+    list.innerHTML = `<p class="empty">Nimic găsit. Încearcă alt cuvânt sau alt ingredient.</p>`;
+    return;
+  }
+  list.innerHTML = cats
+    .map(c => [c, hits.filter(r => r.category === c)])
+    .filter(([, rs]) => rs.length)
+    .map(([c, rs]) => `<section class="group">
+      <h2 class="sect">${c}<span>${rs.length}</span></h2>
+      <ul class="list">${rs.map(r => `<li>
+        <button class="card" type="button" data-id="${r.id}">
+          <h3>${sent(r.title)}</h3>
+          <span class="meta">${metaLine(r)}</span>
+        </button></li>`).join("")}</ul>
+    </section>`).join("");
+}
+
+function open(r) {
+  $("d-cat").textContent = r.category;
+  $("d-title").textContent = sent(r.title);
+  $("d-desc").textContent = r.description;
+  $("d-serv").textContent = `· ${r.servings} porții`;
+  $("d-ing").innerHTML = r.ingredients.map(i =>
+    `<li class="${/:\s*$/.test(i) ? "group" : ""}">${i}</li>`).join("");
+  $("d-steps").innerHTML = r.steps.map(s => `<li>${s}</li>`).join("");
+  $("d-numbers").innerHTML = [
+    [r.kcal, "kcal"], [r.protein, "proteine"], [r.carbs, "carbo"], [r.fat, "grăsimi"]
+  ].map(([v, l]) => `<div><b>${v ?? "–"}</b><span>${l}</span></div>`).join("");
+  const notes = [];
+  if (r.portion) notes.push(`<p><strong>Porție:</strong> ${r.portion}</p>`);
+  if (r.allergens) notes.push(`<p><strong>Alergeni:</strong> ${r.allergens}</p>`);
+  if (r.variants) notes.push(`<p><strong>Variante:</strong> ${r.variants}</p>`);
+  if (r.tips.length) notes.push(`<p><strong>Sfat:</strong> ${r.tips.join(" ")}</p>`);
+  $("d-notes").innerHTML = notes.join("");
+  $("d-page").textContent = `Rețeta ${r.id + 1} din 120 · pagina ${r.page} în carte`;
+  detail.showModal();
+}
+
+list.addEventListener("click", e => {
+  const b = e.target.closest(".card");
+  if (b) open(RECIPES[+b.dataset.id]);
+});
+$("d-close").addEventListener("click", () => detail.close());
+detail.addEventListener("click", e => { if (e.target === detail) detail.close(); });
+
+$("cats").addEventListener("click", e => {
+  const b = e.target.closest("button");
+  if (!b) return;
+  state.cat = b.dataset.cat;
+  for (const x of $("cats").children) x.setAttribute("aria-pressed", String(x === b));
+  render();
+});
+
+$("q").addEventListener("input", e => { state.q = norm(e.target.value.trim()); render(); });
+$("ing").addEventListener("input", e => { state.ing = norm(e.target.value.trim()); render(); });
+
+$("random").addEventListener("click", () => {
+  const hits = RECIPES.filter(matches);
+  const pool = hits.length ? hits : RECIPES;
+  open(pool[Math.floor(Math.random() * pool.length)]);
+});
+
+document.addEventListener("keydown", e => {
+  if (e.key === "/" && document.activeElement.tagName !== "INPUT") {
+    e.preventDefault();
+    $("q").focus();
+  }
+});
+
+render();
+</script>
+</body>
+</html>

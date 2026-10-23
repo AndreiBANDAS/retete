@@ -1,0 +1,4048 @@
+[
+ {
+  "title": "SALATĂ DE BOEUF LIGHT",
+  "servings": 6,
+  "minutes": 50,
+  "kcal": 165,
+  "description": "O reinterpretare ușoară și echilibrată a celebrei salate tradiționale, cu maioneză light din iaurt grecesc. Gust autentic, dar mult mai ușoară și potrivită pentru un stil de viață sănătos.",
+  "ingredients": [
+   "Pentru salată:",
+   "160 g morcovi",
+   "100 g cartofi",
+   "100 g păstârnac",
+   "150 g castraveți murați (în oțet)",
+   "100 g mazăre fiartă",
+   "250 g piept de pui fiert (sau pulpă slabă de vită / curcan)",
+   "Pentru maioneză light:",
+   "2 gălbenușuri fierte (~36 g)",
+   "150 g iaurt grecesc 2%",
+   "1 linguriță muștar clasic (5 g)",
+   "1 lingură ulei de măsline (10 ml)",
+   "Sare, piper, zeamă de lămâie – după gust"
+  ],
+  "steps": [
+   "Fierbe legumele până devin fragede, dar nu moi excesiv.",
+   "Taie legumele, castraveții și carnea în cubulețe mici.",
+   "Pentru maioneză: pasează gălbenușurile și amestecă-le cu iaurtul, muștarul și uleiul.",
+   "Combină toate ingredientele într-un bol mare și amestecă bine.",
+   "Gustă, potrivește de sare și lasă la rece minimum 1 oră."
+  ],
+  "portion": "~200 g",
+  "protein": 17.0,
+  "carbs": 11.0,
+  "fat": 6.0,
+  "allergens": "ouă, muștar, lactoză (din iaurt).",
+  "variants": "Pentru o variantă vegană, înlocuiește iaurtul cu un iaurt vegetal nesucrat (ex.: din soia sau cocos).",
+  "tips": [],
+  "page": 50,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "SALATĂ DE VINETE",
+  "servings": 4,
+  "minutes": 45,
+  "kcal": 115,
+  "description": "O rețetă clasică românească, fină și aromată, ideală pentru un mic dejun sau o gustare ușoară, pregătită cu ulei de măsline și zeamă de lămâie pentru un gust echilibrat.",
+  "ingredients": [
+   "500 g vinete coapte (curățate)",
+   "100 g ceapă albă sau roșie tocată fin",
+   "150 g iaurt grecesc 2%",
+   "1 lingură ulei de măsline lămâie – după gust"
+  ],
+  "steps": [
+   "Lasă vinetele coapte să se scurgă bine, apoi toacă-le mărunt cu cuțitul de lemn.",
+   "Amestecă-le cu ceapa, iaurtul, uleiul și condimentele.",
+   "Gustă și potrivește de sare, apoi lasă la frigider minimum 30 de minute"
+  ],
+  "portion": "~200 gr",
+  "protein": 4.5,
+  "carbs": 10.0,
+  "fat": 7.0,
+  "allergens": "lactoză (din iaurt).",
+  "variants": "Pentru o variantă vegană, înlocuiește iaurtul cu un iaurt vegetal nesucrat (ex.: din soia sau cocos).",
+  "tips": [
+   "Pentru aromă autentică, adaugă 1 vârf de linfurita de muștar și ou fiert în maioneză"
+  ],
+  "page": 51,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "SALATĂ CU OU, MĂSLINE ȘI CASTRAVETE",
+  "servings": 4,
+  "minutes": 20,
+  "kcal": 135,
+  "description": "O salată răcoritoare și sățioasă, cu ou fiert, măsline și castravete, exact genul de preparat ușor și gustos pe care îl pregăteai rapid în zilele de vară.",
+  "ingredients": [
+   "2 buc Ouă fierte 2 buc",
+   "100g Castraveți",
+   "50g Salată verde",
+   "20g Măsline",
+   "5g Ulei de măsline",
+   "50g Mozzarella light",
+   "50g Roșii cherry"
+  ],
+  "steps": [
+   "Fierbe ouăle 8–10 minute și taie-le în sferturi.",
+   "Taie castraveții și roșiile, rupe salata verde.",
+   "Taie mozzarella cuburi și adaug-o peste legume.",
+   "Pune măslinele, stropește cu ulei și amestecă."
+  ],
+  "portion": "~200 gr",
+  "protein": 8.5,
+  "carbs": 4.5,
+  "fat": 9.5,
+  "allergens": "ouă, lactoză (din mozzarella).",
+  "variants": "Pentru o variantă fără lactoză, folosește brânză vegetală sau tofu moale.",
+  "tips": [],
+  "page": 52,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "SALATĂ CU PIEPT DE PUI, NĂUT ȘI ARDEI",
+  "servings": 4,
+  "minutes": 30,
+  "kcal": 155,
+  "description": "O salată fresh și echilibrată, bogată în proteine și fibre, perfectă pentru un prânz rapid, nutritiv și ușor de integrat într-un stil de viață activ.",
+  "ingredients": [
+   "130g Piept de pui gătit",
+   "70g Năut fiert",
+   "80g Ardei gras",
+   "50g Salată verde",
+   "90g Castraveți",
+   "6g Ulei de măsline"
+  ],
+  "steps": [
+   "Taie puiul, ardeiul și castraveții cuburi.",
+   "Adaugă legumele, năutul și frunzele de salată într-un bol.",
+   "Stropește cu uleiul și asezonează după gust.",
+   "Amestecă bine toate ingredientele"
+  ],
+  "portion": "~200 gr",
+  "protein": 14.0,
+  "carbs": 8.5,
+  "fat": 7.0,
+  "allergens": "fără alergeni majori.",
+  "variants": "Înlocuiește năutul cu linte roșie fiartă pentru o textură mai cremoasă.",
+  "tips": [
+   "Poți folosi carne de curcan sau vită slabă în loc de pui."
+  ],
+  "page": 53,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "SALATĂ CU OU, NĂUT ȘI BRÂNZĂ TELEMEA",
+  "servings": 4,
+  "minutes": 30,
+  "kcal": 140,
+  "description": "O salată ușoară și echilibrată, bogată în proteine și nutrienți, perfectă pentru zilele în care îți dorești o masă rapidă, sățioasă și simplu de pregătit.",
+  "ingredients": [
+   "1 buc Ou fiert",
+   "90g Năut fiert",
+   "60g Salată verde",
+   "60g Ardei gras",
+   "40g Telemea light",
+   "5g Ulei de măsline"
+  ],
+  "steps": [
+   "Fierbe oul 8–10 minute și taie-l felii.",
+   "Taie ardeiul cubulețe și rupe salata verde.",
+   "Amestecă într-un bol năutul, oul, legumele și brânza tăiată cuburi.",
+   "Stropește cu uleiul și amestecă ușor."
+  ],
+  "portion": "~200 gr",
+  "protein": 7.5,
+  "carbs": 8.0,
+  "fat": 8.5,
+  "allergens": "ouă, lactoză (din brânză).",
+  "variants": "Înlocuiește telemeaua cu tofu light pentru o variantă vegetariană fără lactoză.",
+  "tips": [
+   "Poți adăuga semințe crude (dovleac sau floarea-soarelui) pentru un plus de fibre și grăsimi bune."
+  ],
+  "page": 54,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "SALATĂ CU CURCAN, ROSII USCATE SI SEMINȚE",
+  "servings": 4,
+  "minutes": 30,
+  "kcal": 160,
+  "description": "O salată colorată și hrănitoare, în care pieptul de curcan se combină perfect cu roșiile uscate și semințele, pentru o masă ușoară, sățioasă și plină de energie.",
+  "ingredients": [
+   "130g Piept de curcan",
+   "25g Roșii uscate",
+   "60g Salată verde",
+   "90g Castraveți",
+   "70g Ardei gras",
+   "12g Semințe floarea-soarelui",
+   "5g Ulei de măsline"
+  ],
+  "steps": [
+   "Gătește pieptul de curcan pe grill sau în tigaie 6–7 minute.",
+   "Taie roșiile uscate și legumele.",
+   "Combină totul într-un bol cu semințele și frunzele de salată.",
+   "Stropește cu uleiul și amestecă bine."
+  ],
+  "portion": "~200 gr",
+  "protein": 15.0,
+  "carbs": 7.0,
+  "fat": 8.5,
+  "allergens": "semințe (posibile urme de nuci).",
+  "variants": "Poți înlocui curcanul cu piept de pui sau ton în apă.",
+  "tips": [],
+  "page": 55,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "OUĂ UMPLUTE LIGHT",
+  "servings": 4,
+  "minutes": 60,
+  "kcal": 110,
+  "description": "Ouă umplute într-o variantă mult mai ușoară și echilibrată, perfecte ca gustare rapidă sau aperitiv sănătos, cu două umpluturi cremoase și pline de savoare. Varianta 1:",
+  "ingredients": [
+   "VARIANTĂ 1: UMPLUTURĂ CU TON ȘI",
+   "IAURT",
+   "80 g ton în conservă (în suc propriu)",
+   "50 g iaurt grecesc",
+   "Sare, piper, zeamă de lămâie",
+   "VARIANTĂ 2: UMPLUTURĂ CU HUMMUS",
+   "SI IAURT",
+   "100 g năut fiert",
+   "50 g iaurt grecesc",
+   "1 linguriță ulei de măsline usturoi – după gust"
+  ],
+  "steps": [
+   "Taie ouăle în jumătate, scoate gălbenușurile și amestecă-le cu tonul, iaurtul și condimentele.",
+   "Pasează bine compoziția și umple jumătățile de ou.",
+   "Poți decora cu pătrunjel tocat sau boia dulce."
+  ],
+  "portion": "din care fibre: ~0 g",
+  "protein": 13.0,
+  "carbs": 1.0,
+  "fat": 6.0,
+  "allergens": "ouă, pește (varianta 1), lactoză (din iaurt).",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal.",
+  "tips": [
+   "Pentru o umplutură extra fină, pasează compoziția cu blenderul vertical."
+  ],
+  "page": 56,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "SALATĂ DE ȚELINĂ CU PUI",
+  "servings": 2,
+  "minutes": 30,
+  "kcal": 225,
+  "description": "O salată fresh, crocantă și extrem de sățioasă, unde țelina aromată se combină perfect cu pieptul de pui fraged și dressingul cremos — o variantă ușoară, rapidă și potrivită pentru orice moment al zilei.",
+  "ingredients": [
+   "200 g piept de pui fiert, tăiat cubulețe",
+   "200 g țelină crudă, răzuită fin",
+   "100 g morcov ras",
+   "100 g iaurt grecesc 2%",
+   "1 linguriță ulei de măsline lămâie – după gust"
+  ],
+  "steps": [
+   "Amestecă țelina, morcovul și puiul într-un bol.",
+   "Adaugă iaurtul, uleiul și condimentele.",
+   "Omogenizează și lasă la rece 20-30 min pentru a se îmbina aromele.",
+   "Servește rece, decorată cu frunze de pătrunjel proaspăt.",
+   "Dacă dorești un gust spre maioneză mixează iaurtul, cu 2 lingurițe ulei de măsline, 1 ou si 1 gălbenuș fiert."
+  ],
+  "portion": "~200 gr",
+  "protein": 32.0,
+  "carbs": 10.0,
+  "fat": 7.5,
+  "allergens": "lactoză (din iaurt).",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal sau maioneză light pe bază de avocado.",
+  "tips": [
+   "Merge excelent ca aperitiv sau gustare proteică."
+  ],
+  "page": 57,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "SALATĂ DE TON CU PORUMB ȘI MAIONEZĂ LIGHT",
+  "servings": 2,
+  "minutes": 30,
+  "kcal": 235,
+  "description": "O salată cremoasă, proteică și foarte rapidă, în care tonul se combină perfect cu porumbul dulce și dressingul light — ideală pentru un prânz sățios sau o cină ușoară, gata în doar câteva minute.",
+  "ingredients": [
+   "160 g ton în suc propriu, scurs",
+   "100 g porumb fiert",
+   "100 g castraveți murați (în oțet)",
+   "50 g ceapă roșie tocată",
+   "Maioneză light:",
+   "1 gălbenuș fiert (~18 g)",
+   "80 g iaurt grecesc 2%",
+   "1 linguriță muștar (5 g)",
+   "1 linguriță ulei de măsline (5 g)"
+  ],
+  "steps": [
+   "Amestecă tonul cu porumbul, castraveții tocați și ceapa.",
+   "Separat, pasează gălbenușul și amestecă-l cu iaurtul, muștarul și uleiul.",
+   "Combină totul într-un bol și lasă la rece 20 de minute.",
+   "Servește ca atare sau pe o felie de pâine integrală prăjită."
+  ],
+  "portion": "~200 gr",
+  "protein": 28.0,
+  "carbs": 10.0,
+  "fat": 9.5,
+  "allergens": "pește, ouă, lactoză (din iaurt), muștar.",
+  "variants": "Înlocuiește tonul cu piept de pui sau brânză cottage.",
+  "tips": [
+   "Merge bine și cu 1 ou fiert tăiat cubulețe.",
+   "Pentru varianta fără lactoză, folosește iaurt vegetal neîndulcit."
+  ],
+  "page": 58,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "RULADĂ DE PUI CU LEGUME ȘI OU",
+  "servings": 2,
+  "minutes": 70,
+  "kcal": 210,
+  "description": "O ruladă de pui fragedă, colorată și extrem de gustoasă, umplută cu legume și ou fiert — o rețetă aspectuoasă, sățioasă și surprinzător de ușoară.",
+  "ingredients": [
+   "500 g piept de pui tocat",
+   "2 ouă fierte",
+   "1 ardei roșu",
+   "1 morcov mic",
+   "1 ou crud",
+   "1 lingură muștar",
+   "Sare, piper, usturoi pudră"
+  ],
+  "steps": [
+   "Amestecă pieptul de pui cu oul crud, muștarul și condimentele.",
+   "Pune pe o folie de copt, așază în mijloc ouăle fierte și legumele tăiate.",
+   "Rulează și coace la 180°C pentru 40 minute."
+  ],
+  "portion": "~200 gr",
+  "protein": 28.0,
+  "carbs": 4.5,
+  "fat": 9.5,
+  "allergens": "ouă, muștar.",
+  "variants": "Poți înlocui ouăle fierte cu 50 g brânză cottage pentru o textură mai cremoasă.",
+  "tips": [
+   "Se poate tăia rece, ca salam de casă."
+  ],
+  "page": 59,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "WRAP CU PUI CREMOS, BRÂNZĂ SI USTUROI",
+  "servings": 15,
+  "minutes": 30,
+  "kcal": 295,
+  "description": "Un wrap incredibil de cremos, aromat și sățios, în care bucățile fragede de pui se îmbracă într-un sos catifelat cu brânză și usturoi — o rețetă ideală pentru familie, perfectă pentru prânzuri rapide sau seri în care vrei ceva super gustos, fără efort.",
+  "ingredients": [
+   "2.25 kg piept de pui (cuburi, fără piele/os)",
+   "Condimente:",
+   "1 linguriță sare, 1½ linguriță boia afumată",
+   "1 linguriță usturoi pudră",
+   "1 linguriță ceapă pudră, 1 linguriță mix ierburi italiene, zeama de",
+   "½ lămâie. Oregano uscat + pătrunjel uscat (pentru topping)",
+   "6 căței usturoi tocați",
+   "500 ml lapte evaporat light (sau lapte 1.5% redus pe foc)",
+   "80 g cremă de brânză light, 40 g parmezan ras",
+   "100 g cașcaval light ras",
+   "15 lipii mici/medii",
+   "300 g mozzarella light rasă (≈20 g/lipie)"
+  ],
+  "steps": [
+   "Condimentează puiul cu sare, boia, pudră de usturoi/ceapă, ierburi și zeamă de lămâie.",
+   "Gătește-l cu usturoi tocat până se rumenește.",
+   "Adaugă laptele, apoi crema de brânză, parmezan, cașcaval și pudra de supă. Fierbe 5–7 min până devine cremos.",
+   "Umple lipiile cu amestecul, adaugă mozzarella, rulează și așază în tavă.",
+   "Presară oregano și pătrunjel, coace 10–15 min la 180°C."
+  ],
+  "portion": "din care fibre: ~2 g",
+  "protein": 35.0,
+  "carbs": 17.0,
+  "fat": 10.0,
+  "allergens": "lactoză (din brânză și lapte), gluten (din lipii).",
+  "variants": "Folosește lipii fără gluten pentru o variantă gluten-free.",
+  "tips": [
+   "Se păstrează la frigider 3–4 zile, pot fi reîncălzite la cuptor sau air fryer.",
+   "Înlocuiește laptele evaporat cu lapte vegetal nesucrat pentru o variantă fără lactoză."
+  ],
+  "page": 60,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "BURRITO CU PUI, BACON ȘI CREMĂ RANCH",
+  "servings": 10,
+  "minutes": 30,
+  "kcal": 230,
+  "description": "Un burrito bogat, cremos și super sățios, unde puiul condimentat, baconul crocant și crema Ranch se îmbină perfect într-o lipie caldă — combinația ideală pentru o masă rapidă, gustoasă și plină de savoare.",
+  "ingredients": [
+   "1.3 kg piept de pui fără os și piele",
+   "500 g brânză de vaci slabă",
+   "200 g mozzarella light rasă",
+   "8 felii bacon slab",
+   "10 lipii integrale",
+   "1 kg orez alb fiert",
+   "Ceapă verde tocată",
+   "Condimente pentru pui:",
+   "2 lingurițe boia iute",
+   "2 lingurițe boia afumată",
+   "1½ linguriță chimen",
+   "1 linguriță sare",
+   "1 linguriță piper negru"
+  ],
+  "steps": [
+   "Gătește puiul cu condimente până se rumenește și e pătruns.",
+   "Separat, amestecă brânza cu maioneză, mix ranch, usturoi, lămâie și pastă de ardei până obții o cremă.",
+   "Prăjește baconul până devine crocant.",
+   "Încălzește lipiile și umple-le cu cremă ranch, orez, pui, bacon, mozzarella și ceapă verde.",
+   "Rulează strâns și servește cald sau păstrează pentru meal prep."
+  ],
+  "portion": "~200 gr",
+  "protein": 18.0,
+  "carbs": 22.0,
+  "fat": 7.0,
+  "allergens": "",
+  "variants": "",
+  "tips": [
+   "Poți adăuga frunze de salată, avocado sau roșii feliate pentru extra prospețime."
+  ],
+  "page": 61,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "WRAP CU OU, SUNCĂ ȘI LEGUME CRUDE",
+  "servings": 2,
+  "minutes": 30,
+  "kcal": 210,
+  "description": "Un wrap fresh, rapid și plin de proteine, unde oul fiert, șunca slabă și legumele crocante se combină perfect într-o gustare sănătoasă și sățioasă",
+  "ingredients": [
+   "Lipie integrală 60g",
+   "Ou fiert 1 buc (60g)",
+   "Șuncă din piept de pui 50g",
+   "Salată verde 30g",
+   "Roșii cherry 60g",
+   "Castraveți 60g"
+  ],
+  "steps": [
+   "Fierbe oul 8–10 minute și taie-l felii.",
+   "Spală și taie legumele.",
+   "Încălzește ușor lipia.",
+   "Așează șunca, oul și legumele în mijlocul lipiei.",
+   "Rulează strâns și servește imediat"
+  ],
+  "portion": "din care fibre: ~4 g",
+  "protein": 17.0,
+  "carbs": 22.0,
+  "fat": 6.5,
+  "allergens": "ouă, gluten (din lipie).",
+  "variants": "Pentru o variantă fără gluten, folosește lipie din porumb sau o foaie de salată mare în loc de lipie.",
+  "tips": [
+   "Înlocuiește șunca cu brânză cottage sau tofu pentru o opțiune vegetariană."
+  ],
+  "page": 62,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "WRAP CU CREMĂ DE BRÂNZĂ, SUNCĂ ȘI DOVLECEL",
+  "servings": 2,
+  "minutes": 30,
+  "kcal": 225,
+  "description": "Un wrap cremos, fresh și surprinzător de sățios, în care crema de brânză light se combină perfect cu șunca slabă și dovlecelul rumenit",
+  "ingredients": [
+   "60g Lipie integrală",
+   "50g Șuncă din piept de pui",
+   "45g Cremă de brânză light",
+   "100g Dovlecel",
+   "30g Salată verde"
+  ],
+  "steps": [
+   "Taie dovlecelul felii și gătește-l 4–5 minute pe grill.",
+   "Încălzește lipia și unge cu crema de brânză.",
+   "Adaugă șunca, dovlecelul și salata.",
+   "Rulează lipia și taie în două."
+  ],
+  "portion": "din care fibre: ~3.5 g",
+  "protein": 16.0,
+  "carbs": 21.0,
+  "fat": 8.5,
+  "allergens": "lactoză (din cremă de brânză), gluten (din lipie).",
+  "variants": "Înlocuiește crema de brânză cu hummus pentru o variantă fără lactoză.",
+  "tips": [
+   "Servește wrapul rece ca prânz rapid sau gustare consistentă."
+  ],
+  "page": 63,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "WRAP CU OU, MOZZARELLA ȘI ARDEI",
+  "servings": 2,
+  "minutes": 25,
+  "kcal": 215,
+  "description": "Un wrap simplu, rapid și foarte fresh, în care oul fiert, mozzarella light și ardeiul crocant se combină perfect într-o masă ușoară.",
+  "ingredients": [
+   "60g Lipie integrală",
+   "Ou fiert 1 buc",
+   "30g Mozzarella light",
+   "70g Ardei gras",
+   "30g Salată verde"
+  ],
+  "steps": [
+   "Fierbe oul și taie-l felii.",
+   "Taie ardeiul cubulețe.",
+   "Încălzește lipia, apoi adaugă mozzarella, oul, legumele.",
+   "Rulează strâns și presează ușor."
+  ],
+  "portion": "din care fibre: ~3.5 g",
+  "protein": 14.5,
+  "carbs": 20.0,
+  "fat": 8.5,
+  "allergens": "ouă, lactoză (din mozzarella), gluten (din lipie).",
+  "variants": "Pentru o variantă fără gluten, folosește lipie din porumb sau foaie de salată.",
+  "tips": [
+   "Înlocuiește mozzarella cu tofu light pentru o opțiune vegetariană fără lactoză."
+  ],
+  "page": 64,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "WRAP CU ȘUNCĂ, AVOCADO ȘI ROȘII USCATE",
+  "servings": 2,
+  "minutes": 20,
+  "kcal": 245,
+  "description": "Un wrap cremos și aromat, unde avocado-ul fin se combină perfect cu șunca slabă și roșiile uscate pentru o gustare rapidă, consistentă și plină de savoare.",
+  "ingredients": [
+   "60g Lipie integrală",
+   "50g Șuncă din piept de pui",
+   "50g Avocado",
+   "20g Roșii uscate",
+   "30g Salată verde"
+  ],
+  "steps": [
+   "Taie roșiile și avocado cubulețe.",
+   "Încălzește lipia.",
+   "Așază șunca, avocado, roșiile și salata.",
+   "Rulează și presează ușor înainte de servire."
+  ],
+  "portion": "din care fibre: ~4.5 g",
+  "protein": 15.0,
+  "carbs": 20.0,
+  "fat": 12.0,
+  "allergens": "gluten (din lipie).",
+  "variants": "Înlocuiește șunca cu tofu afumat pentru o variantă vegetariană.",
+  "tips": [
+   "Poți adăuga 1 linguriță de iaurt grecesc în avocado pentru un gust mai cremos."
+  ],
+  "page": 65,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "WRAP CU TON, AVOCADO ȘI IAURT GRECESC",
+  "servings": 2,
+  "minutes": 25,
+  "kcal": 245,
+  "description": "Un wrap ușor, proteic și foarte aromat, în care tonul se îmbină perfect cu iaurtul cremos, avocado-ul fin și notele proaspete de mărar — o alegere excelentă pentru o masă rapidă și sănătoasă.",
+  "ingredients": [
+   "1 lipie proteică",
+   "150g ton în apă",
+   "60g iaurt grecesc 2%",
+   "15g avocado pasat",
+   "3 felii roșii",
+   "1 linguriță muștar Dijon",
+   "1 linguriță pesto (opțional)",
+   "1 lingură capere",
+   "1 lingură ceapă roșie",
+   "1 linguriță mărar",
+   "Suc de lămâie, piper"
+  ],
+  "steps": [
+   "Amestecă tonul cu iaurt, muștar, ceapă, capere, mărar, lămâie și piper.",
+   "Taie lipia până la centru și plasează în fiecare sfert: avocado, mix de ton, roșii și pesto.",
+   "Împăturește pe straturi, rumenește 1 minut/parte într-o tigaie încinsă și servește tăiat pe mijloc."
+  ],
+  "portion": "din care fibre: ~3 g",
+  "protein": 29.0,
+  "carbs": 17.0,
+  "fat": 8.0,
+  "allergens": "pește, muștar, gluten (din lipie), lactoză (din iaurt).",
+  "variants": "Pentru varianta fără gluten, folosește lipie din porumb sau salată.",
+  "tips": [
+   "Poți adăuga frunze de baby spanac sau rucola pentru extra fibre.",
+   "Înlocuiește iaurtul cu o variantă vegetală pentru o rețetă fără lactoză."
+  ],
+  "page": 66,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "SANDWICH TIP VAFĂ CU PUI ȘI DRESSING CAESAR",
+  "servings": 2,
+  "minutes": 30,
+  "kcal": 255,
+  "description": "Un sandwich reinventat, ingenios și super gustos, unde puiul fraged, dressingul Caesar light și baconul crocant sunt prinse între două „vafe” proteice — o combinație unică, perfectă.",
+  "ingredients": [
+   "150g piept de pui crud",
+   "1 ou",
+   "1 linguriță paprika",
+   "1 linguriță sare cu usturoi",
+   "2 linguri parmezan ras",
+   "1 felie bacon fără grăsime",
+   "½ cană salată verde tocată",
+   "80ml dressing Caesar light",
+   "1 lingură parmezan ras (pentru asamblare)"
+  ],
+  "steps": [
+   "Fierbe puiul până e complet gătit, apoi mărunțește-l.",
+   "Amestecă puiul cu oul, paprika, sarea cu usturoi și 2 linguri de parmezan.",
+   "Pune compoziția într-un aparat de vafe și coace ~8 minute, până devine crocantă.",
+   "Între timp, amestecă salata cu jumătate din dressing și prăjește baconul până devine crocant.",
+   "Montează sandwichul: vafa de pui + salată + bacon + restul de dressing și parmezan + încă o vafă."
+  ],
+  "portion": "din care fibre: ~1 g",
+  "protein": 30.0,
+  "carbs": 4.0,
+  "fat": 13.0,
+  "allergens": "ouă, lactoză (din parmezan și dressing).",
+  "variants": "Înlocuiește dressingul cu o variantă pe bază de iaurt și zeamă de lămâie pentru mai puține calorii.",
+  "tips": [
+   "Poți folosi brânză fără lactoză sau tofu ras în loc de parmezan."
+  ],
+  "page": 67,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "RULOURI DE VINETE CU CARNE DE VITĂ, BRÂNZĂ ȘI MOZZARELLA",
+  "servings": 2,
+  "minutes": 40,
+  "kcal": 265,
+  "description": "Niște rulouri delicioase și ușoare, în care vinetele rumenite se împletesc perfect cu umplutura de carne de vită, brânză cottage și mozzarella — o rețetă savuroasă și sățioasă",
+  "ingredients": [
+   "120g carne tocată de vită extra slabă",
+   "50g passata (sos de roșii simplu)",
+   "¼ ceapă mică, tocată fin",
+   "1 linguriță sare, oregano și piper",
+   "80g mozzarella light, rasă",
+   "½ vânătă feliată subțire",
+   "1.5 linguri parmezan ras",
+   "80g brânză cottage cu proteine ridicate",
+   "1 linguriță cimbru uscat",
+   "1 linguriță scorțișoară",
+   "Fulgi de chilli (opțional)"
+  ],
+  "steps": [
+   "Rumenește feliile de vânătă 2–3 minute pe fiecare parte și lasă-le la răcit.",
+   "Gătește carnea cu ceapa, sare, piper, oregano și cimbru; adaugă sosul de roșii și las-o 5 minute să scadă."
+  ],
+  "portion": "din care fibre: ~3 g",
+  "protein": 30.0,
+  "carbs": 10.0,
+  "fat": 12.0,
+  "allergens": "lactoză (din brânză și mozzarella).",
+  "variants": "Înlocuiește mozzarella cu brânză vegetală pentru o versiune fără lactoză.",
+  "tips": [
+   "Servește rulourile alături de o salată verde sau o garnitură de orez integral."
+  ],
+  "page": 68,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "PITĂ GRECEASCĂ CU PUI SOUVLAKI ȘI SOS TZATZIKI",
+  "servings": 2,
+  "minutes": 30,
+  "kcal": 320,
+  "description": "O pită grecească fresh și aromată, unde puiul souvlaki rumenit se combină perfect cu tzatziki-ul cremos și legumele proaspete — o masă rapidă, echilibrată și plină de savoare mediteraneană.",
+  "ingredients": [
+   "Pentru sosul tzatziki:",
+   "80g iaurt grecesc proteic (sau 2% grăsime)",
+   "1 linguriță mentă uscată",
+   "1 linguriță mărar",
+   "Zeama de la 1 felie de lămâie",
+   "1 cățel de usturoi ras",
+   "¼ castravete ras",
+   "Sare și piper după gust",
+   "Pentru pita:",
+   "1 lipie grecească (90g)",
+   "150g pulpă de pui dezosată",
+   "¼ cană rucola",
+   "1 lingură semințe de rodie",
+   "1 roșie mică tăiată felii"
+  ],
+  "steps": [
+   "Gătește puiul souvlaki pe grătar sau tigaie până se rumenește.",
+   "Coace lipia 8–10 min la 180°C, până devine crocantă.",
+   "Amestecă ingredientele pentru sosul tzatziki.",
+   "Asamblează lipia: tzatziki, roșii, rucola, puiul gătit, semințele de rodie și restul de tzatziki."
+  ],
+  "portion": "din care fibre: ~4 g",
+  "protein": 32.0,
+  "carbs": 26.0,
+  "fat": 11.0,
+  "allergens": "lactoză (din iaurt), gluten (din lipie).",
+  "variants": "Înlocuiește lipia cu o variantă fără gluten sau cu foi de salată pentru o opțiune low-carb.",
+  "tips": [
+   "Poți adăuga și câteva felii de ceapă roșie sau măsline negre pentru o aromă mediteraneană mai intensă.",
+   "Poți folosi iaurt vegetal pentru o variantă fără lactoză."
+  ],
+  "page": 69,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "BUZUNAR DE PIZZA CU PUI",
+  "servings": 2,
+  "minutes": 25,
+  "kcal": 275,
+  "description": "Un „buzunar” de pizza proteic, super gustos și ușor de făcut, unde carnea de pui, mozzarella și pepperoni se împletesc într-un preparat crocant la exterior și cremos în interior",
+  "ingredients": [
+   "200 g carne tocată din piept de pui",
+   "50 g salam pepperoni",
+   "1 linguriță oregano uscat",
+   "1 linguriță piper negru măcinat",
+   "20 g mozzarella light",
+   "4 frunze de busuioc",
+   "1/",
+   "4 cană spanac opărit sau tras la tigaie",
+   "1 lingură pastă de roșii",
+   "2 linguri parmezan ras"
+  ],
+  "steps": [
+   "Rulează carnea tocată între 2 foi de hârtie de copt într-un strat subțire.",
+   "Pe o jumătate întinde pasta de roșii și oregano, iar pe cealaltă adaugă mozzarella, pepperoni, spanac, busuioc și piper.",
+   "Împăturește, presară parmezan pe ambele fețe și gătește în air fryer 15 min la 200°C.",
+   "Lasă la răcit și servește."
+  ],
+  "portion": "din care fibre: ~1 g",
+  "protein": 33.0,
+  "carbs": 4.5,
+  "fat": 13.0,
+  "allergens": "lactoză (din brânzeturi).",
+  "variants": "Înlocuiește brânza cu o variantă vegetală pentru o rețetă fără lactoză.",
+  "tips": [
+   "Poți adăuga ciuperci sau ardei pentru un plus de fibre și volum."
+  ],
+  "page": 70,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "TACO BOL SĂNĂTOS CU PUI ȘI LEGUME",
+  "servings": 2,
+  "minutes": 30,
+  "kcal": 320,
+  "description": "Un taco bol fresh, colorat și crocant, transformat într-o variantă light și proteică — pui condimentat, legume proaspete și un mix perfect de texturi într-un bol comestibil, ideal pentru prânz sau cină.",
+  "ingredients": [
+   "2 lipii proteice, low carb",
+   "300g piept de pui tăiat cubulețe",
+   "2 lingurițe condimente taco",
+   "2 căni salată verde tocată",
+   "1 roșie mică",
+   "4 linguri porumb fiert, scurs",
+   "4 linguri fasole neagră, scursă",
+   "50 ml sos salsa",
+   "2 linguri smântână light",
+   "Coriandru proaspăt",
+   "1 felie de lime"
+  ],
+  "steps": [
+   "Preîncălzește cuptorul la 180°C și formează boluri din lipii în forme termorezistente, unse cu puțin ulei. Coace 12–15 min până devin crocante.",
+   "Gătește pieptul de pui cu condimentele taco într-o tigaie.",
+   "Umple bolurile cu salată, porumb, fasole, roșii, pui, salsa, smântână și coriandru.",
+   "Servește cu lime și sparge marginile – ca niște nachos!"
+  ],
+  "portion": "din care fibre: ~6 g",
+  "protein": 37.0,
+  "carbs": 20.0,
+  "fat": 10.0,
+  "allergens": "gluten (din lipii), lactoză (din smântână).",
+  "variants": "Înlocuiește smântâna cu iaurt grecesc pentru o variantă mai light.",
+  "tips": [],
+  "page": 71,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "PUI CROCANT CU OREZ ȘI USTUROI",
+  "servings": 2,
+  "minutes": 30,
+  "kcal": 410,
+  "description": "Un preparat super aromat și crocant, unde bucățile de pui rumenite la air fryer se îmbracă într-un glaze dulce-sărat cu usturoi — servit peste orez fierbinte și ceapă verde",
+  "ingredients": [
+   "350g pulpă de pui dezosată, fără piele",
+   "1 albuș de ou",
+   "1 linguriță pudră de ceapă",
+   "3 linguri amidon de porumb",
+   "2 linguri făină cu agenți de creștere",
+   "Sare și piper",
+   "1 linguriță pudră de usturoi",
+   "1 linguriță usturoi tocat sau ras",
+   "1 lingură miere",
+   "1 lingură sos de soia",
+   "1 lingură ceapă verde tocată",
+   "1 linguriță semințe de susan",
+   "1 cană orez fiert"
+  ],
+  "steps": [
+   "Fierbe orezul.",
+   "Taie puiul cuburi, amestecă-l cu albuș și pudră de ceapă, apoi dă-l prin făină, amidon și condimente.",
+   "Gătește 10 min la air fryer (200°C).",
+   "În ultimele secunde, prepară glazura din usturoi, miere și sos de soia, adaugă puiul și amestecă până devine lipicios.",
+   "Servește cu orez, ceapă verde și susan."
+  ],
+  "portion": "~200 gr",
+  "protein": 36.0,
+  "carbs": 48.0,
+  "fat": 9.0,
+  "allergens": "gluten (din făină și sos de soia), susan.",
+  "variants": "Folosește sos de soia fără gluten (tamari) și făină de orez pentru o variantă gluten-free.",
+  "tips": [
+   "Poți adăuga legume wok (broccoli, ardei, morcov) pentru mai mult volum și fibre.",
+   "Înlocuiește mierea cu sirop de curmale sau agave pentru o opțiune fără zahăr rafinat."
+  ],
+  "page": 72,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "RULADĂ PROTEICĂ CU ȘUNCĂ ȘI MOZZARELLA ÎN HÂRTIE DE OREZ",
+  "servings": 2,
+  "minutes": 25,
+  "kcal": 265,
+  "description": "O ruladă proteică, crocantă la exterior și super cremoasă la interior, unde șunca slabă și mozzarella light se îmbină perfect în foi de orez — o gustare rapidă, gustoasă și ideală pentru slăbire.",
+  "ingredients": [
+   "3 foi de hârtie de orez",
+   "1 linguriță piper măcinat grosier",
+   "2 ouă pentru înmuiat foile (doar 1 ou este contorizat caloric)",
+   "2 ouă pentru umplutură",
+   "120 g șuncă slabă, fâșii",
+   "50 g mozzarella light, rasă",
+   "1 lingură ceapă verde tocată",
+   "1 g semințe de susan"
+  ],
+  "steps": [
+   "Bate 2 ouă cu piper și înmoaie foile de orez în amestec.",
+   "Prăjește celelalte 2 ouă și taie-le fâșii.",
+   "Suprapune foile, adaugă șunca, ouăle, mozzarella și ceapa verde.",
+   "Rulează strâns, formează o spiră, presară susan și gătește la Air Fryer, 200°C timp de 12 minute."
+  ],
+  "portion": "din care fibre: ~1 g",
+  "protein": 28.0,
+  "carbs": 8.0,
+  "fat": 13.0,
+  "allergens": "ouă, lactoză (din mozzarella), gluten (dacă foile nu sunt 100% din orez).",
+  "variants": "Înlocuiește mozzarella cu brânză vegetală pentru o variantă fără lactoză.",
+  "tips": [
+   "Poți adăuga legume tocate (ardei sau spanac) în umplutură pentru un plus de fibre.",
+   "Poți folosi foi de orez integrale pentru un conținut mai mare de fibre."
+  ],
+  "page": 73,
+  "category": "Aperitive și gustări fresh"
+ },
+ {
+  "title": "SARMALE LIGHT",
+  "servings": 4,
+  "minutes": 120,
+  "kcal": 280,
+  "description": "O variantă light și echilibrată a sarmalelor tradiționale, cu carne slabă și mai puțin ulei, dar cu același gust savuros — perfecte pentru perioadele în care vrei ceva tradițional, dar prietenos cu silueta.",
+  "ingredients": [
+   "400 g carne tocată slabă (pui / curcan / pulpă vită)",
+   "60 g orez",
+   "80 g ceapă tocată",
+   "20 g ulei de măsline",
+   "400 g frunze de varză murată",
+   "150 g roșii pasate",
+   "Condimente: sare, piper, cimbru, foi de dafin"
+  ],
+  "steps": [
+   "Călește ceapa în puțin ulei până devine aurie.",
+   "Amestecă ceapa cu carnea, orezul spălat, sare, piper și cimbru.",
+   "Rulează compoziția în frunze de varză tăiate în bucăți potrivite.",
+   "Așază sarmalele într-o cratiță, adaugă foile de dafin și roșiile pasate deasupra.",
+   "Fierbe la foc mic ~60 min, sau coace-le în cuptor la 180°C timp de 90 min acoperite."
+  ],
+  "portion": "din care fibre: ~4 g",
+  "protein": 26.0,
+  "carbs": 18.0,
+  "fat": 11.0,
+  "allergens": "fără alergeni majori.",
+  "variants": "Pentru o variantă cu mai multe fibre, înlocuiește orezul cu quinoa sau hrișcă.",
+  "tips": [
+   "Poți folosi varză proaspătă opărită în loc de cea murată dacă dorești un gust mai blând."
+  ],
+  "page": 75,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "DROB LIGHT CU FICĂȚEI",
+  "servings": 6,
+  "minutes": 60,
+  "kcal": 210,
+  "description": "O variantă mai ușoară și mai sănătoasă a drobului tradițional, cu ficăței de pui și multe verdețuri aromate. Perfect pentru mesele de sărbătoare, dar și ca gustare bogată în proteine.",
+  "ingredients": [
+   "500 g ficăței de pui (sau inimă/pipote mix / carne slabă de miel)",
+   "3 ouă crude (~150 g) 2 ouă fierte",
+   "100 g ceapă verde",
+   "100 g verdeață (pătrunjel + mărar)",
+   "30 g griș",
+   "1 lingură ulei de măsline"
+  ],
+  "steps": [
+   "Fierbe ușor ficățeii, apoi toacă-i sau blenduiește grosier.",
+   "Amestecă cu ouăle crude, ceapa, verdeața, grișul și condimentele.",
+   "Toarnă jumătate din compoziție într-o tavă tapetată, adaugă ouăle fierte, apoi restul.",
+   "Coace la 180°C timp de 40-45 min, până se rumenește frumos.",
+   "Lasă la răcit complet înainte de tăiere."
+  ],
+  "portion": "din care fibre: ~1 g",
+  "protein": 23.0,
+  "carbs": 5.0,
+  "fat": 10.0,
+  "allergens": "ouă, gluten (din griș).",
+  "variants": "Înlocuiește grișul cu fulgi de ovăz sau făină de migdale pentru o variantă fără gluten.",
+  "tips": [
+   "Poți folosi doar albușuri pentru o rețetă cu mai puține grăsimi."
+  ],
+  "page": 76,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "DROB DE MIEL TRADIȚIONAL",
+  "servings": 12,
+  "minutes": 90,
+  "kcal": 210,
+  "description": "O variantă tradițională, aromată și echilibrată a drobului de miel, perfectă pentru masa de Paște.",
+  "ingredients": [
+   "1 kg organe de miel (ficat plămâni, inimă, rinichi, splină)",
+   "6 ouă",
+   "2 legături ceapă verde (aprox. 150 g)",
+   "2 legături usturoi verde (aprox. 150 g)",
+   "1 legătură pătrunjel verde (50 g)",
+   "1 legătură mărar verde (50 g)",
+   "100 g pesmet",
+   "30 ml ulei",
+   "5 ouă fierte tari (pentru interior)",
+   "Sare, piper"
+  ],
+  "steps": [
+   "Fierbe organele de miel timp de 30–40 minute, apoi lasă-le la răcit și toacă-le mărunt.",
+   "Călește ușor ceapa verde și usturoiul verde în 1 lingură de ulei.",
+   "Amestecă organele tocate cu legumele călite, verdeața tocată, ouăle crude, pesmetul, sarea și piperul.",
+   "Tapetează o tavă cu hârtie de copt și toarnă jumătate din compoziție.",
+   "Așază ouăle fierte pe mijloc și acoperă cu restul compoziției.",
+   "Unge suprafața cu puțin ulei.",
+   "Coace drobul la 180°C timp de 35–40 minute, până se rumenește ușor."
+  ],
+  "portion": "din care fibre: ~1 g",
+  "protein": 20.0,
+  "carbs": 6.0,
+  "fat": 12.0,
+  "allergens": "ouă, gluten (pesmet).",
+  "variants": "în loc de pesmet, poți folosi fulgi de ovăz măcinați.",
+  "tips": [
+   "Se servește tradițional la masa de Paște, alături de salată verde și ridichi."
+  ],
+  "page": 77,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "CHIFTELUȚE DE CURCAN LA CUPTOR CU DOVLECEL",
+  "servings": 4,
+  "minutes": 40,
+  "kcal": 290,
+  "description": "Chifteluțe fragede, sănătoase și foarte ușoare, unde carnea de curcan se combină perfect cu dovlecelul și condimentele aromate.",
+  "ingredients": [
+   "500 g carne tocată de curcan",
+   "1 dovlecel mic ras",
+   "2 ouă",
+   "3 linguri fulgi de ovăz",
+   "1 ceapă mică",
+   "2 căței de usturoi",
+   "Sare, piper, cimbru",
+   "1 linguriță ulei pentru uns tava"
+  ],
+  "steps": [
+   "Stoarce dovlecelul ras și amestecă-l cu restul ingredientelor.",
+   "Formează biluțe mici și așază-le pe hârtie de copt.",
+   "Coace la 190°C timp de 25–30 de minute, până se rumenesc."
+  ],
+  "portion": "din care fibre: ~2 g",
+  "protein": 33.0,
+  "carbs": 10.0,
+  "fat": 14.0,
+  "allergens": "ouă, gluten (din ovăz – dacă nu este certificat gluten- free).",
+  "variants": "Pentru o variantă fără gluten, folosește făină de migdale sau pesmet fără gluten.",
+  "tips": [
+   "Se pot congela și încălzi rapid la nevoie.",
+   "Poți înlocui dovlecelul cu morcov ras pentru o aromă mai dulceagă."
+  ],
+  "page": 78,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "SUFLEU DE CARTOFI CU BRÂNZĂ ȘI IAURT",
+  "servings": 4,
+  "minutes": 45,
+  "kcal": 245,
+  "description": "Un sufleu ușor, cremos și aerat, preparat din cartofi fierți, brânză slabă și iaurt — perfect ca garnitură sănătoasă sau ca o masă rapidă și sățioasă.",
+  "ingredients": [
+   "500 g cartofi fierți",
+   "150 g brânză de vaci",
+   "2 ouă",
+   "100 g iaurt grecesc 2%",
+   "1 lingură griș",
+   "Sare, piper, nucșoară (opțional)"
+  ],
+  "steps": [
+   "Pasează cartofii și amestecă-i cu restul ingredientelor.",
+   "Toarnă compoziția într-o tavă mică tapetată.",
+   "Coace la 180°C timp de 30–35 minute până se rumenește."
+  ],
+  "portion": "~200 gr",
+  "protein": 15.0,
+  "carbs": 26.0,
+  "fat": 9.0,
+  "allergens": "ouă, lactoză (din brânză și iaurt), gluten (din griș).",
+  "variants": "Înlocuiește grișul cu făină de porumb sau fulgi de ovăz pentru o variantă fără gluten.",
+  "tips": [
+   "Poți adăuga o lingură de mărar tocat.",
+   "Poți folosi brânză cottage sau ricotta în loc de brânză de vaci."
+  ],
+  "page": 79,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "LASAGNA CU CARNE SLABĂ ȘI DOVLECEL",
+  "servings": 6,
+  "minutes": 80,
+  "kcal": 360,
+  "description": "O lasagna mai ușoară, bogată în proteine și legume, unde carnea slabă, dovlecelul și brânza fină se îmbină perfect într-un preparat cremos și sățios — ideal pentru un prânz de familie, fără exces caloric.",
+  "ingredients": [
+   "9 foi de lasagna",
+   "500 g carne tocată de curcan/pui",
+   "250 g dovlecel (zucchini)",
+   "500 g spanac congelat",
+   "455 g brânză de vaci (în loc de ricotta)",
+   "1 ceapă medie",
+   "2 căței usturoi",
+   "1000 g suc de roșii",
+   "100 g cașcaval light",
+   "Sare, piper, oregano, busuioc"
+  ],
+  "steps": [
+   "Călește ceapa și usturoiul, adaugă carnea și apoi sucul de roșii.",
+   "Amestecă brânza de vaci cu spanacul.",
+   "Într-o tavă, alternează: foi – amestec brânză/spanac – carne – cașcaval.",
+   "Coace 30 min cu folie, apoi 30 min fără."
+  ],
+  "portion": "din care fibre: ~5 g",
+  "protein": 38.0,
+  "carbs": 27.0,
+  "fat": 11.0,
+  "allergens": "gluten (din foile de lasagna), lactoză (din brânzeturi).",
+  "variants": "Folosește foi de lasagna fără gluten sau dovlecel pentru o variantă fără gluten.",
+  "tips": [
+   "Înlocuiește brânza cu o opțiune vegetală pentru o rețetă fără lactoză."
+  ],
+  "page": 80,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "MUSCHI DE PORC LA CUPTOR CU ROZMARIN",
+  "servings": 4,
+  "minutes": 120,
+  "kcal": 235,
+  "description": "Un preparat simplu, aromat și fraged, unde mușchiulețul de porc se marinează discret în rozmarin și usturoi, apoi se rumenește perfect în cuptor — ideal pentru o cină elegantă, dar ușor de preparat.",
+  "ingredients": [
+   "500 g mușchiuleț de porc",
+   "2 linguri ulei",
+   "Sare, piper",
+   "Rozmarin, usturoi pudră"
+  ],
+  "steps": [
+   "Unge mușchiul cu ulei și condimente.",
+   "Lasă la frigider 1 oră.",
+   "Coace 35–40 minute la 180°C."
+  ],
+  "portion": "~125 g",
+  "protein": 32.0,
+  "carbs": 0.0,
+  "fat": 11.0,
+  "allergens": "fără alergeni majori.",
+  "variants": "Înlocuiește rozmarinul cu cimbru sau salvie pentru a varia aroma.",
+  "tips": [
+   "Poți adăuga un sos de iaurt și usturoi.",
+   "Poți folosi mușchiuleț de vițel pentru o variantă și mai slabă în grăsimi."
+  ],
+  "page": 81,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "TOCANĂ DE LEGUME CU OREZ",
+  "servings": 1,
+  "minutes": 45,
+  "kcal": 400,
+  "description": "Un preparat de post hrănitor și colorat, bogat în fibre și vitamine, ideal pentru prânz sau cină ușoară.",
+  "ingredients": [
+   "100 g ceapă",
+   "200 g ardei gras",
+   "200 g morcovi",
+   "100 g roșie",
+   "70 g orez basmati",
+   "10 g ulei de măsline (1 lingură)",
+   "2 g sare",
+   "2 g piper negru"
+  ],
+  "steps": [
+   "Curăță și taie ceapa, morcovii și ardeii în bucăți mici.",
+   "Călește ceapa în uleiul de măsline 2–3 minute, apoi adaugă morcovii și ardeii.",
+   "Gătește legumele 10 minute la foc mediu, amestecând din când în când.",
+   "Adaugă roșiile tocate, orezul spălat și 200 ml apă fierbinte.",
+   "Fierbe la foc mic 15–20 de minute, până când orezul este moale și lichidul scade.",
+   "Condimentează cu sare și piper după gust, apoi lasă tocană să se odihnească 5 minute înainte de servire."
+  ],
+  "portion": "~450 g",
+  "protein": 9.0,
+  "carbs": 77.0,
+  "fat": 8.0,
+  "allergens": "nu conține alergeni majori (atenție doar la sensibilitatea la piper).",
+  "variants": "înlocuiește orezul basmati cu orez integral sau hrișcă pentru mai multe fibre.",
+  "tips": [
+   "Dacă vrei mai multe proteine, adaugă năut fiert (100 g) sau piept de pui la grătar (100 g).",
+   "Pentru o aromă mediteraneană, condimentează cu oregano și busuioc."
+  ],
+  "page": 82,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "TOCANĂ DE PUI CU LEGUME",
+  "servings": 3,
+  "minutes": 45,
+  "kcal": 230,
+  "description": "O tocăniță simplă, rapidă și gustoasă, unde pieptul de pui se îmbină perfect cu sosul de roșii și legumele aromate — o masă ușoară, echilibrată și ideală pentru orice zi a săptămânii.",
+  "ingredients": [
+   "500 g piept de pui",
+   "1 ceapă",
+   "1 ardei",
+   "1 conservă roșii cuburi",
+   "Condimente: oregano, sare, piper"
+  ],
+  "steps": [
+   "Călește ceapa și ardeiul, adaugă puiul cuburi.",
+   "Adaugă roșiile și condimentele, lasă la fiert 20 min."
+  ],
+  "portion": "~300 g",
+  "protein": 36.0,
+  "carbs": 10.0,
+  "fat": 5.0,
+  "allergens": "fără alergeni majori.",
+  "variants": "Poți înlocui pieptul de pui cu curcan sau carne slabă de vită.",
+  "tips": [],
+  "page": 83,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "PUI CREMOS CU CARTOFI ȘI BRÂNZĂ",
+  "servings": 3,
+  "minutes": 45,
+  "kcal": 420,
+  "description": "Un preparat super cremos și aromat, unde cartofii rumeniți se combină cu bucățile fragede de pui, smântână, ierburi și brânză topită — o cină sățioasă, rapidă și perfectă pentru întreaga familie.",
+  "ingredients": [
+   "800 g cartofi, tăiați cuburi",
+   "1 lingură granule de usturoi (sau 2 căței pisați)",
+   "Sare și piper, după gust",
+   "Pentru pui:",
+   "500 g piept de pui tăiat cubulețe",
+   "1–",
+   "2 linguri condimente pentru pui",
+   "1 ceapă tocată mărunt",
+   "4 căței de usturoi",
+   "1 lingură pastă de roșii",
+   "2 linguri pastă de roșii uscate",
+   "300 ml supă de pui",
+   "120 ml smântână pentru gătit 15% grăsime",
+   "2 lingurițe mix de ierburi italiene"
+  ],
+  "steps": [
+   "Amestecă cartofii cu condimente și coace-i 20 min la 200– 220°C.",
+   "Între timp, gătește puiul condimentat în tigaie, adaugă ceapa, apoi usturoiul, pasta de roșii și cea de roșii uscate.",
+   "Toarnă supa, smântâna și ierburile, fierbe 5–7 min până devine cremos.",
+   "Adaugă cartofii, brânza și gratinează 5–7 min.",
+   "Servește cu pătrunjel tocat."
+  ],
+  "portion": "oregano, busuioc, cimbru",
+  "protein": 38.0,
+  "carbs": 32.0,
+  "fat": 16.0,
+  "allergens": "lactoză (din brânză și smântână).",
+  "variants": "Înlocuiește brânza cu una vegetală pentru o variantă fără lactoză.",
+  "tips": [
+   "Poți înlocui cartofii cu cartofi dulci pentru un twist ușor exotic"
+  ],
+  "page": 84,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "PASTE CU VITĂ SI SOS CREMOS DE PARMEZAN",
+  "servings": 4,
+  "minutes": 30,
+  "kcal": 565,
+  "description": "O porție de paste cremoase și aromate, în care carnea de vită slabă se combină perfect cu sosul catifelat de parmezan — o variantă mai light, dar la fel de gustoasă ca o rețetă autentică italiană.",
+  "ingredients": [
+   "600 g carne de vită extra slabă, tăiată cubulețe (ex. pulpă de vită, mușchi)",
+   "20 g unt light",
+   "6 căței de usturoi tocați fin",
+   "200 ml supă de vită (sau apă cu concentrat slab de vită)",
+   "90 g cremă de brânză light",
+   "1 linguriță boia afumată",
+   "1 linguriță pudră de supă de pui",
+   "320 g paste integrale sau din grâu dur (penne, spirale, fusilli)",
+   "Pentru sosul cremos de usturoi și parmezan:",
+   "300 ml lapte semidegresat (1.5%)",
+   "25 g parmezan ras proaspăt",
+   "1 linguriță usturoi pudră",
+   "1 linguriță oregano uscat",
+   "½ linguriță piper negru"
+  ],
+  "steps": [
+   "Fierbe pastele și păstrează-le deoparte.",
+   "Condimentează carnea de vită cu sare, piper, usturoi și ceapă pudră.",
+   "Rumenește-o în unt cu usturoi proaspăt, apoi adaugă supa, crema de brânză, boiaua și pudra de supă.",
+   "Fierbe 10 minute până scade lichidul.",
+   "Separat, pregătește sosul cremos și toarnă-l peste carne.",
+   "Mai lasă 5 minute la foc mic, apoi adaugă pastele și amestecă bine."
+  ],
+  "portion": "din care fibre: ~6 g",
+  "protein": 45.0,
+  "carbs": 35.0,
+  "fat": 26.0,
+  "allergens": "lactoză (din brânzeturi și lapte), gluten (din paste).",
+  "variants": "Pentru o variantă fără gluten, folosește paste din porumb sau linte.",
+  "tips": [
+   "Merge bine cu salată verde proaspătă sau murături light.",
+   "Pentru o variantă fără lactoză, înlocuiește brânzeturile cu alternative vegetale light (ex. parmezan vegetal sau drojdie inactivă)."
+  ],
+  "page": 85,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "MCNUGGETS PROTEICI CU CARTOFI CROCANȚI",
+  "servings": 2,
+  "minutes": 45,
+  "kcal": 480,
+  "description": "O versiune sănătoasă și proteică a celebrelor McNuggets, pregătite din carne slabă de pui și coapte până devin crocante, servite alături de cartofi rumeniți fără exces de ulei — o masă gustoasă, sățioasă și perfectă pentru slăbire. Mod de preparare – Nuggets:",
+  "ingredients": [
+   "400 g carne tocată de pui (ideal sub 2% grăsime)",
+   "1 ou",
+   "1 linguriță sare",
+   "1 linguriță usturoi pudră",
+   "1 linguriță ceapă pudră",
+   "1 linguriță boia afumată",
+   "1 linguriță pudră de muștar sau 1 linguriță muștar clasic",
+   "½ linguriță piper negru",
+   "100 g făină simplă (din care ~40 g se vor lipi efectiv)",
+   "1 ou bătut (pentru înveliș)",
+   "Spray de gătit cu puține calorii"
+  ],
+  "steps": [
+   "Blenduiește pieptul de pui (dacă nu e tocat), apoi amestecă-l cu ou și condimente. Formează nuggets cu mâinile umezite, trece-i prin făină și ou bătut, apoi gătește-i în air fryer (200°C, 12–15 min) sau cuptor (20–25 min), întorcând la jumătate. Pulverizează cu spray pentru extra crocant."
+  ],
+  "portion": "~250 g",
+  "protein": 42.0,
+  "carbs": 38.0,
+  "fat": 16.0,
+  "allergens": "ouă (din compoziție și înveliș), gluten (din făină).",
+  "variants": "Pentru o variantă fără gluten, folosește făină de porumb sau făină de orez.",
+  "tips": [
+   "Pentru o variantă cu mai puține calorii, gătește nuggets-urile doar la airfryer fără făină la exterior."
+  ],
+  "page": 86,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "CARTOFI CU OU LA CUPTOR",
+  "servings": 1,
+  "minutes": 30,
+  "kcal": 265,
+  "description": "O rețetă extrem de simplă, rapidă și sățioasă, în care cartofii fierți se rumenesc ușor la cuptor alături de ouă — perfectă pentru un mic dejun proteic sau o cină ușoară.",
+  "ingredients": [
+   "150 g cartofi fierți",
+   "2 ouă",
+   "1 linguriță ulei",
+   "Sare, piper, rozmarin"
+  ],
+  "steps": [
+   "Taie cartofii cuburi și așază-i în tavă.",
+   "Adaugă ouăle deasupra.",
+   "Coace 20 de minute la 180°C."
+  ],
+  "portion": "~300 g",
+  "protein": 13.0,
+  "carbs": 20.0,
+  "fat": 15.0,
+  "allergens": "ouă (din compoziție).",
+  "variants": "Pentru o variantă fără ou, înlocuiește ouăle cu tofu moale sau cu 150 g brânză vegetală light.",
+  "tips": [
+   "Poți presăra pătrunjel verde.",
+   "Pentru mai multe fibre și sațietate, adaugă 50 g legume coapte (ardei, dovlecel, ciuperci)."
+  ],
+  "page": 87,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "LEGUME GRATINATE CU BRÂNZĂ",
+  "servings": 3,
+  "minutes": 30,
+  "kcal": 155,
+  "description": "O rețetă ușoară și gustoasă, în care legumele coapte se acoperă cu un strat cremos de ou, iaurt și brânză — perfectă ca garnitură sau ca o cină sănătoasă, rapidă și sățioasă.",
+  "ingredients": [
+   "1 dovlecel",
+   "1 ardei",
+   "1 morcov",
+   "100 g brânză rasă light",
+   "1 ou",
+   "2 linguri iaurt"
+  ],
+  "steps": [
+   "Taie legumele felii și așază-le în tavă.",
+   "Amestecă oul cu iaurtul și brânza, toarnă deasupra.",
+   "Coace 25 min la 180°C."
+  ],
+  "portion": "~300 g",
+  "protein": 11.0,
+  "carbs": 8.0,
+  "fat": 9.0,
+  "allergens": "ouă (din compoziție), lactoză (din brânză și iaurt).",
+  "variants": "Pentru o variantă fără lactoză, folosește brânză și iaurt vegetal.",
+  "tips": [
+   "Merge cu pâine prăjită.",
+   "Pentru o opțiune fără ou, înlocuiește oul cu 1 lingură de semințe de in măcinate amestecate cu 3 linguri de apă."
+  ],
+  "page": 88,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "LASAGNA DE CARTOFI CU 4 INGREDIENTE",
+  "servings": 4,
+  "minutes": 65,
+  "kcal": 365,
+  "description": "O lasagna extrem de simplă și delicioasă, pregătită cu doar 4 ingrediente — cartofi, șuncă, brânză și parmezan — o combinație cremoasă, sățioasă și perfectă pentru zilele în care vrei ceva rapid, dar super gustos.",
+  "ingredients": [
+   "3–4 cartofi medii",
+   "100 g parmezan ras",
+   "200 g șuncă slabă de curcan sau porc (ex. feliată, tip sandwich)",
+   "250 g brânză topibilă light (ex. mozzarella light, cașcaval light, Delaco Active)",
+   "Sare după gust"
+  ],
+  "steps": [
+   "Feliază cartofii foarte subțire, clătește-i bine în apă rece până rămâne limpede.",
+   "Într-o tavă mică, montează straturi: cartofi, parmezan, șuncă, brânză topită — repetă de 4 ori.",
+   "Apasă cu lingura, adaugă parmezan și mozzarella deasupra.",
+   "Gătește în air fryer la 160°C timp de 45–50 min.",
+   "Lasă 5–10 min la răcit, apoi porționează."
+  ],
+  "portion": "~200 g",
+  "protein": 26.0,
+  "carbs": 26.0,
+  "fat": 17.0,
+  "allergens": "lactoză (din brânză și parmezan), proteine animale (din șuncă)",
+  "variants": "Pentru o variantă fără lactoză, folosește parmezan și brânză vegetală sau produse lactate fără lactoză.",
+  "tips": [
+   "Merge perfect cu o salată verde sau un sos de iaurt cu usturoi.",
+   "Dacă nu ai air fryer, se poate coace și la cuptor: 180°C, aproximativ 50–60 minute"
+  ],
+  "page": 89,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "PIZZA CU BLAT DE CONOPIDĂ",
+  "servings": 1,
+  "minutes": 35,
+  "kcal": 220,
+  "description": "O pizza light, cu blat din conopidă, perfectă pentru cei care vor o variantă low-carb, bogată în proteine și extrem de gustoasă — ideală pentru prânz sau cină fără vinovăție.",
+  "ingredients": [
+   "200 g conopidă rasă",
+   "1 ou",
+   "40 g brânză rasă",
+   "Condimente: oregano, busuioc, sare"
+  ],
+  "steps": [
+   "Preîncălzește cuptorul la 200°C.",
+   "Amestecă toate ingredientele și întinde pe hârtie de copt.",
+   "Coace 15 minute, apoi adaugă toppingurile dorite și mai coace 10 minute."
+  ],
+  "portion": "~200 g",
+  "protein": 18.0,
+  "carbs": 8.0,
+  "fat": 14.0,
+  "allergens": "ouă (din compoziție), lactoză (din brânză)",
+  "variants": "Pentru o variantă fără lactoză, folosește brânză vegetală sau din lapte fără lactoză.",
+  "tips": [],
+  "page": 90,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "BURGER CROCANT TIP KFC",
+  "servings": 2,
+  "minutes": 45,
+  "kcal": 440,
+  "description": "Un burger super crocant, inspirat de KFC, dar pregătit într-o variantă mult mai light — piept de pui fraged, învelit în fulgi de porumb crocanți, cu maioneză light și chiflă pufoasă. Rapid, delicios și perfect pentru slăbire.",
+  "ingredients": [
+   "200 g piept de pui (2 bucăți a câte 100 g bătute ușor cu ciocanul pentru frăgezire)",
+   "1 albuș (sau 1 ou întreg)",
+   "30 g fulgi de porumb",
+   "30 g maioneză light",
+   "1 linguriță zeamă de lămâie",
+   "Sare și piper după gust",
+   "Ulei spray (sau pensulat foarte subțire cu ulei de floarea-soarelui)",
+   "2 chifle brioche cu seminte",
+   "Frunze de salată verde"
+  ],
+  "steps": [
+   "Condimentează puiul, trece-l prin albuș și fulgi de porumb condimentați.",
+   "Pulverizează ulei și gătește:",
+   "Air fryer: 190°C, 15–18 min",
+   "Cuptor: 200°C, 20–25 min",
+   "Amestecă maioneza cu lămâie și piper. Prăjește chiflele.",
+   "Asamblează: chiflă, maioneză, salată, pui crocant, capac."
+  ],
+  "portion": "1 burger",
+  "protein": 36.0,
+  "carbs": 32.0,
+  "fat": 17.0,
+  "allergens": "ouă (din crustă), gluten (din chiflă), lactoză (posibil din maioneză), porumb",
+  "variants": "Pentru o variantă fără gluten, folosește chifle fără gluten sau înlocuiește-le cu frunze de salată tip wrap.",
+  "tips": [
+   "Pentru un sos mai aromat, amestecă maioneza cu usturoi granulat sau ierburi italiene.",
+   "Pentru o variantă fără lactoză, alege maioneză vegetală fără lactoză."
+  ],
+  "page": 91,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "MAC & CHEESE CU PUI, MIERE ȘI USTUROI",
+  "servings": 2,
+  "minutes": 35,
+  "kcal": 545,
+  "description": "Un Mac & Cheese reinventat într-o variantă proteică, mai light și incredibil de aromată — pui fraged, sos cremos de brânză și o glazură dulce-sărată de miere și usturoi. Perfect pentru o cină rapidă și super gustoasă.",
+  "ingredients": [
+   "700 g piept de pui tăiat cubulețe (fără os și piele)",
+   "1 linguriță ulei de măsline",
+   "1 linguriță sare",
+   "1 linguriță pudră de ceapă",
+   "1 linguriță pudră de usturoi",
+   "1 linguriță boia afumată",
+   "340 ml lapte evaporat (sau lapte 1.5% redus pe foc până se îngroașă puțin)",
+   "80 g cremă de brânză light",
+   "1½ linguriță pudră de supă de pui",
+   "100 g cașcaval light ras",
+   "320 g paste tip macaroane",
+   "Pentru sosul de miere și usturoi:",
+   "2 linguri miere",
+   "1 lingură sos de soia",
+   "1 linguriță oțet de orez sau zeamă de lămâie",
+   "1–2 căței de usturoi dați pe răzătoare",
+   "opțional: fulgi de chilli sau ghimbir ras"
+  ],
+  "steps": [
+   "Condimentează puiul cu sare, boia, usturoi și ceapă pudră, apoi prăjește-l în puțin ulei până devine auriu.",
+   "Fierbe pastele, scurge-le, apoi amestecă-le cu un sos format din lapte evaporat, cremă de brânză, cașcaval și supă de pui, încălzit la foc mic.",
+   "Separat, gătește usturoiul, adaugă sosul de soia, mierea, apa, fulgii de chilli și amidonul; fierbe până se îngroașă.",
+   "Glazurează puiul în sos și servește-l peste mac & cheese"
+  ],
+  "portion": "din care fibre: ~5 g",
+  "protein": 46.0,
+  "carbs": 48.0,
+  "fat": 17.0,
+  "allergens": "gluten (din paste), lactoză (din brânză și lapte), soia (din sosul de soia)",
+  "variants": "Pentru o variantă fără gluten, folosește paste din orez sau linte și asigură-te că pudra de supă este fără gluten.",
+  "tips": [
+   "Poți adăuga broccoli fiert sau dovlecel tras la tigaie pentru mai mult volum.",
+   "Pentru o variantă fără lactoză, folosește cremă de brânză, lapte și cașcaval fără lactoză sau variante vegetale."
+  ],
+  "page": 92,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "FÂSII DE PUI CROCANTE CU SOS DE MIERE SI USTUROI",
+  "servings": 4,
+  "minutes": 35,
+  "kcal": 493,
+  "description": "Fâșii de pui super crocante la exterior și fragede în interior, glazurate cu un sos dulce-sărat de miere și usturoi — o rețetă rapidă, aromată și mult mai light decât varianta clasică.",
+  "ingredients": [
+   "700 g piept de pui (fără os și piele, tăiat în 8 fâșii subțiri)",
+   "1 linguriță sare",
+   "1½ linguriță boia afumată",
+   "1 linguriță pudră de usturoi",
+   "½ linguriță piper boia iute",
+   "200 g făină albă",
+   "100 g amidon de cartofi",
+   "1 cană (250 ml) apă minerală carbogazoasă rece",
+   "Pentru condimentarea făinii:",
+   "Același amestec de condimente de mai sus"
+  ],
+  "steps": [
+   "Taie pieptul de pui în fâșii subțiri. Pregătește 3 boluri: făină cu condimente, amidon, și apă minerală. Treci fâșiile prin făină, apă, apoi amidon. Gătește-le în tigaie cu puțin ulei sau la cuptor/air fryer 15–20 min la 200°C până devin crocante.",
+   "Pentru sos: călește usturoiul și ghimbirul, adaugă sosul de soia, apa și mierea, apoi încorporează amidonul dizolvat și fierbe până devine gros și lipicios."
+  ],
+  "portion": "~200 g",
+  "protein": 42.0,
+  "carbs": 67.0,
+  "fat": 2.5,
+  "allergens": "gluten (din făină), soia (din sosul de soia)",
+  "variants": "Pentru o variantă fără gluten, folosește făină de orez și amidon de porumb și alege un sos de soia fără gluten (tamari).",
+  "tips": [],
+  "page": 93,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "BOL PROTEIC CU PULPĂ DE VITĂ, CARTOF DULCE ȘI LEGUME",
+  "servings": 2,
+  "minutes": 30,
+  "kcal": 310,
+  "description": "Un bol hrănitor, echilibrat și bogat în proteine, unde carnea slabă de vită se combină cu cartoful dulce aromat și legumele gătite ușor — perfect pentru un prânz sănătos și sățios.",
+  "ingredients": [
+   "150g pulpă de vită tocată (2-3% grăsime)",
+   "120g cartof dulce",
+   "60g baby carrots",
+   "70g broccoli",
+   "1 linguriță jumătate ulei de măsline (7.5g)",
+   "Condimente: boia afumată, usturoi pudră sare, piper, rozmarin"
+  ],
+  "steps": [
+   "Carnea de vită se gătește la tigaie cu condimente, fără ulei, până se rumenește ușor.",
+   "Cartoful dulce se coace cubulețe la cuptor (15 min la 180°C) cu rozmarin.",
+   "Morcovii baby și broccoli se fierb la abur sau se trag rapid într-o tigaie cu apă.",
+   "Se pun toate într-un bol, se adaugă uleiul de măsline crud și condimente după gust."
+  ],
+  "portion": "din care fibre: ~5 g",
+  "protein": 27.0,
+  "carbs": 23.0,
+  "fat": 12.0,
+  "allergens": "– (nu conține alergeni majori în forma de bază)",
+  "variants": "Pentru o variantă vegetariană, înlocuiește carnea de vită cu 150 g linte fiartă sau tofu afumat pentru un aport proteic similar.",
+  "tips": [
+   "Servește cu o salată de frunze verzi cu zeamă de lămâie pentru mai multe fibre și volum."
+  ],
+  "page": 94,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "BOL CU PIEPT DE PUI, CARTOF DULCE SI LEGUME COLORATE",
+  "servings": 2,
+  "minutes": 30,
+  "kcal": 295,
+  "description": "Un bol echilibrat, colorat și plin de nutrienți, unde pieptul de pui fraged se combină cu cartoful dulce copt și legumele sotate ușor — o masă sănătoasă, rapidă și foarte sățioasă.",
+  "ingredients": [
+   "165g piept de pui",
+   "130g cartof dulce",
+   "60g broccoli",
+   "50g ardei kapia",
+   "2 lingurițe ulei de măsline (10g)",
+   "Condimente: sare, cimbru, boia dulce usturoi pudră"
+  ],
+  "steps": [
+   "Pieptul de pui se taie cuburi/fâșii și se gătește la tigaie cu condimente, cu o lingurita ulei.",
+   "Cartoful dulce se coace cubulețe în cuptor (180°C, 15 min).",
+   "Broccoli și ardeiul kapia se sotează ușor cu un strop de apă.",
+   "Se adună totul într-un bol, se adaugă uleiul crud (1 lingurita) și se asezonează."
+  ],
+  "portion": "din care fibre: ~4.5 g",
+  "protein": 29.0,
+  "carbs": 22.0,
+  "fat": 10.0,
+  "allergens": "– (nu conține alergeni majori în forma de bază)",
+  "variants": "Pentru o variantă vegetariană, înlocuiește pieptul de pui cu 150 g tofu marinat sau năut copt.",
+  "tips": [
+   "Servește cu o linguriță de iaurt grecesc light deasupra pentru un contrast răcoritor și cremos.",
+   "Pentru o variantă low-carb, înlocuiește cartoful dulce cu dovlecel sau conopidă coaptă (~130 g)."
+  ],
+  "page": 95,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "BOL CU PIEPT DE PUI CU DRESSING DE IAURT ȘI MUȘTAR",
+  "servings": 2,
+  "minutes": 30,
+  "kcal": 220,
+  "description": "Un bol fresh, proteic și foarte echilibrat, unde pieptul de pui la grătar se combină cu cartofii fierți și legumele crocante, completat de un dressing cremos din iaurt și muștar — perfect pentru prânz sau cină.",
+  "ingredients": [
+   "100g Piept de pui",
+   "120g Cartofi albi",
+   "50g Salata verde",
+   "40 Castraveti",
+   "50g Rosii cherry",
+   "5ml Ulei masline",
+   "40g Iaurt 2%",
+   "5g Mustar clasic",
+   "1 lingurita de zeama de lamaie"
+  ],
+  "steps": [
+   "Fierbe cartofii 20 minute și taie-i cuburi.",
+   "Găteste pieptul de pui la gratar 4–5 minute pe fiecare parte și feliază-l.",
+   "Spală și taie legumele.",
+   "Amestecă iaurtul cu muștarul, zeama de lămâie și uleiul.",
+   "Montează în bol toate ingredientele și toarnă dressingul deasupra."
+  ],
+  "portion": "din care fibre: ~4 g",
+  "protein": 20.0,
+  "carbs": 20.0,
+  "fat": 8.0,
+  "allergens": "lactoză (din iaurt), muștar",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal sau fără lactoză.",
+  "tips": [
+   "Pentru un gust mai intens, adaugă 1 cățel de usturoi ras în dressing.",
+   "Pentru o variantă fără muștar, înlocuiește-l cu 1 linguriță de pastă de susan (tahini) sau 1 linguriță de oțet balsamic pentru aciditate."
+  ],
+  "page": 96,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "BOL CU PIEPT DE CURCAN CU DRESSING DE IAURT ȘI USTUROI",
+  "servings": 2,
+  "minutes": 45,
+  "kcal": 255,
+  "description": "Un bol echilibrat, proteic și foarte aromat, unde pieptul de curcan la grătar se combină perfect cu orezul brun, legumele sotate și un dressing cremos de iaurt cu usturoi — ideal pentru o masă sănătoasă și sățioasă.",
+  "ingredients": [
+   "100g Piept de curcan (se poate inlocui cu piept de pui)",
+   "50g Orez brun",
+   "50g Morcov",
+   "50g Dovlecel",
+   "30g Salata verde",
+   "5ml Ulei masline",
+   "40g Iaurt 2%",
+   "2g Usturoi ras",
+   "Sare, piper, lamaie"
+  ],
+  "steps": [
+   "Fierbe orezul 30–35 minute și lasă-l să se răcească.",
+   "Gătește curcanul la tigaie sau grill 5–6 minute pe parte.",
+   "Taie dovlecelul și morcovul cuburi și sotează-le 3–4 minute.",
+   "Amestecă iaurtul cu usturoi, sare și lămâie.",
+   "Asamblează bolul cu toate ingredientele și toarnă dressingul deasupra."
+  ],
+  "portion": "din care fibre: ~4 g",
+  "protein": 22.0,
+  "carbs": 26.0,
+  "fat": 7.0,
+  "allergens": "lactoză (din iaurt)",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal sau iaurt fără lactoză.",
+  "tips": [
+   "Poți include câteva felii de avocado pentru un aport mai mare de grăsimi bune.",
+   "Pentru o opțiune fără cereale, înlocuiește orezul brun cu 50 g conopidă rasă și gătită."
+  ],
+  "page": 97,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "BOL CU VITA CU DRESSING DE OȚET BALSAMIC",
+  "servings": 2,
+  "minutes": 30,
+  "kcal": 235,
+  "description": "Un bol fresh, colorat și foarte aromat, unde mușchiul de vită fraged se combină cu cartoful dulce copt, legume proaspete și un dressing simplu din oțet balsamic — perfect pentru o masă echilibrată și rapidă.",
+  "ingredients": [
+   "100g Muschi de vită",
+   "100g Cartofi dulci",
+   "50g Ardei kapia",
+   "50g Salată verde",
+   "10g Ceapă verde",
+   "5ml Ulei masline",
+   "1 linguriță Otet balsamic",
+   "Sare, piper"
+  ],
+  "steps": [
+   "Coace cartofii dulci în cuptor 20–25 minute și taie-i cuburi.",
+   "Frige mușchiul de vită 4–5 minute pe parte și taie-l felii.",
+   "Taie ardeiul și ceapă verde.",
+   "Amestecă uleiul cu oțetul și condimentele.",
+   "Așază totul în bol și adaugă dressingul."
+  ],
+  "portion": "din care fibre: ~4 g",
+  "protein": 22.0,
+  "carbs": 20.0,
+  "fat": 7.0,
+  "allergens": "– (nu conține alergeni majori în forma de bază)",
+  "variants": "Pentru o variantă vegetariană, înlocuiește mușchiul de vită cu 100 g tofu afumat sau 150 g năut copt.",
+  "tips": [
+   "Pentru un gust mai intens, adaugă 1 linguriță de muștar Dijon în dressing.",
+   "Pentru o opțiune săracă în carbohidrați, înlocuiește cartofii dulci cu 100 g conopidă sau dovlecel copt."
+  ],
+  "page": 98,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "BOL CU CREVEȚI CU DRESSING DE LAMAIE ȘI PATRUNJEL",
+  "servings": 2,
+  "minutes": 25,
+  "kcal": 245,
+  "description": "Un bol fresh, ușor și bogat în proteine, unde creveții rumeniți rapid se combină perfect cu orezul basmati, legumele crocante și un dressing revigorant de lămâie și pătrunjel — ideal pentru o masă rapidă și sănătoasă.",
+  "ingredients": [
+   "120g Creveți decorticați",
+   "50g Orez basmati",
+   "50g Dovlecel",
+   "50g Roșii cherry",
+   "30g Salată verde",
+   "5ml Ulei măsline",
+   "5g Pătrunjel verde",
+   "1 lingura Zeamă lămâie",
+   "Sare, piper"
+  ],
+  "steps": [
+   "Fierbe orezul conform instructiunilor si lasă-l la racit.",
+   "Gătește crevetii 2–3 minute în tigaie antiaderentă cu puțină sare.",
+   "Taie dovlecelul și roșiile.",
+   "Amestecă uleiul cu lămâie, pătrunjel, sare și piper.",
+   "Pune toate ingredientele în bol și adaugă dressingul."
+  ],
+  "portion": "din care fibre: ~3 g",
+  "protein": 24.0,
+  "carbs": 22.0,
+  "fat": 7.0,
+  "allergens": "crustacee (creveți)",
+  "variants": "Pentru o variantă fără crustacee, înlocuiește creveții cu 120 g piept de pui sau 100 g tofu afumat.",
+  "tips": [
+   "Pentru un plus de fibre și minerale, folosește orez brun în loc de basmati."
+  ],
+  "page": 99,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "BOL CU CARNE TOCATĂ DE VITĂ CU DRESSING DE IAURT ȘI MUȘTAR",
+  "servings": 2,
+  "minutes": 35,
+  "kcal": 275,
+  "description": "Un bol proteic, sățios și plin de prospețime, unde carnea tocată de vită se combină cu legume crocante, cartofi fierți și un dressing cremos din iaurt și muștar — o masă echilibrată și rapidă.",
+  "ingredients": [
+   "90g carne tocată de vita 10% grasime",
+   "130g cartof alb",
+   "50g salată verde",
+   "50g roșii cherry",
+   "50g castravete",
+   "5g ulei de măsline",
+   "30g iaurt grecesc 2%",
+   "5g muștar clasic",
+   "5ml zeamă de lămâie"
+  ],
+  "steps": [
+   "Fierbe cartofii 20–25 minute, apoi taie-i cuburi.",
+   "Gătește carnea tocată în tigaie antiaderentă 5–6 minute, fără adaos de grăsime.",
+   "Pregatește dressingul: amestecă iaurtul, muștarul, lămâia și uleiul.",
+   "Într-un bol, combină salata, legumele, cartofii și carnea.",
+   "Toarnă dressingul deasupra."
+  ],
+  "portion": "din care fibre: ~4 g",
+  "protein": 21.0,
+  "carbs": 23.0,
+  "fat": 11.0,
+  "allergens": "lactoză (din iaurt), muștar",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal sau iaurt fără lactoză.",
+  "tips": [
+   "Dacă e prea uscată, adaugă 1 lingură de apă caldă și acoperă 1 minut pentru a păstra suculența.",
+   "Pentru o variantă fără muștar, înlocuiește-l cu 1 linguriță de pastă tahini sau 1 linguriță de oțet balsamic."
+  ],
+  "page": 100,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "BOL CU CARNE TOCATĂ DE PASĂRE CU DRESSING DE ROSII COAPTE",
+  "servings": 2,
+  "minutes": 45,
+  "kcal": 265,
+  "description": "Un bol aromat și fresh, unde carnea tocată de pasăre se combină cu orezul integral, legumele sotate și un dressing intens din roșii coapte — o alegere sănătoasă, echilibrată și plină de savoare.",
+  "ingredients": [
+   "100g carne tocată de pui",
+   "50g orez integral",
+   "80g zucchini",
+   "50g morcov",
+   "5g ulei de măsline",
+   "100g rosii",
+   "1 cățel usturoi",
+   "1g busuioc uscat"
+  ],
+  "steps": [
+   "Fierbe orezul integral conform instrucțiunilor (aprox. 30–35 min).",
+   "Coace roșiile și usturoiul 20 min la 180°C, apoi pasează-le și adaugă ulei și busuioc.",
+   "Gătește carnea tocată în tigaie antiaderenta 5–6 min.",
+   "Sotează zucchini și morcovul 4–5 min.",
+   "Așează ingredientele într-un bol și adaugă sosul de roșii coapte."
+  ],
+  "portion": "din care fibre: ~5 g",
+  "protein": 22.0,
+  "carbs": 27.0,
+  "fat": 7.0,
+  "allergens": "– (nu conține alergeni majori în forma de bază)",
+  "variants": "Pentru o variantă fără cereale, înlocuiește orezul cu 50 g conopidă rasă.",
+  "tips": [
+   "Servește cu frunze proaspete de busuioc sau pătrunjel pentru un plus de prospețime.",
+   "Pentru o opțiune vegetariană, înlocuiește carnea cu 100 g năut fiert sau tofu mărunțit."
+  ],
+  "page": 101,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "BOL CU OUĂ SI BRANZĂ CU DRESSING DE IAURT SI MĂRAR",
+  "servings": 2,
+  "minutes": 35,
+  "kcal": 260,
+  "description": "Un bol fresh, sățios și foarte ușor de preparat, cu ouă fierte, legume crocante, cartof dulce copt și un dressing aromat din iaurt și mărar — perfect pentru un prânz rapid și sănătos.",
+  "ingredients": [
+   "2 buc ouă",
+   "50g brânză de vaci 5%",
+   "100g cartof dulce",
+   "50g salată verde",
+   "40g ridichii",
+   "5g ulei de măsline",
+   "30g iaurt grecesc 2%",
+   "2g mărar verde"
+  ],
+  "steps": [
+   "Fierbe ouăle 10 min, apoi taie-le felii.",
+   "Coace cartoful dulce 20–25 min, taie-l cuburi.",
+   "Pregatește dressingul: amestecă iaurtul cu mărarul și uleiul.",
+   "Aranjează legumele, ouăle, cartoful și brânza în bol.",
+   "Toarnă dressingul deasupra."
+  ],
+  "portion": "din care fibre: ~4 g",
+  "protein": 17.0,
+  "carbs": 20.0,
+  "fat": 13.0,
+  "allergens": "ouă, lactoză (din brânză și iaurt)",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt și brânză vegetală sau fără lactoză.",
+  "tips": [
+   "Servește cu o felie de pâine integrală pentru un plus de fibre și sațietate.",
+   "Pentru o opțiune fără ouă, înlocuiește ouăle cu 100 g tofu moale sau 100 g năut fiert."
+  ],
+  "page": 102,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "BOL CU HALLOUMI SI NĂUT CU DRESSING CU OȚET BALSAMIC",
+  "servings": 2,
+  "minutes": 20,
+  "kcal": 260,
+  "description": "Un bol vegetarian sățios și aromat, unde halloumi-ul rumenit se combină cu năutul fiert și legumele fresh, completat de un dressing dulce-acrișor din oțet balsamic și miere — perfect pentru un prânz rapid și nutritiv.",
+  "ingredients": [
+   "60g halloumi light",
+   "80g năut fiert",
+   "50g morcov",
+   "50g ardei gras",
+   "50g salată verde",
+   "5g ulei de măsline",
+   "10ml oțet balsamic",
+   "5g miere"
+  ],
+  "steps": [
+   "Prăjește halloumi în tigaie fără ulei, 2–3 min pe fiecare parte.",
+   "Taie legumele și amestecăle cu năutul.",
+   "Pregatește dressingul: combină otetul, uleiul și mierea.",
+   "Adaugă halloumi peste salată și toarnă dressingul."
+  ],
+  "portion": "din care fibre: ~6 g",
+  "protein": 14.0,
+  "carbs": 22.0,
+  "fat": 12.0,
+  "allergens": "lactoză (din halloumi), leguminoase (năut)",
+  "variants": "Pentru o variantă fără lactoză, folosește brânză vegetală sau tofu afumat în loc de halloumi.",
+  "tips": [
+   "Pentru un gust mai intens, adaugă câteva frunze de busuioc sau mentă proaspătă.",
+   "Pentru un dressing mai light, înlocuiește mierea cu câteva picături de îndulcitor lichid."
+  ],
+  "page": 103,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "OREZ FAJITA CU PUI ȘI MOZZARELLA LIGHT",
+  "servings": 3,
+  "minutes": 40,
+  "kcal": 530,
+  "description": "O rețetă colorată, aromată și sățioasă, inspirată din fajitas mexicane — orez pufos, pui fraged marinat și legume sotate, totul completat cu mozzarella light. Perfectă pentru un prânz delicios și echilibrat.",
+  "ingredients": [
+   "600 g piept de pui",
+   "180 g orez alb crud (preferabil basmati sau jasmine)",
+   "1 ardei gras",
+   "1 dovlecel mic",
+   "1 roșie mare",
+   "1 ceapă (ideal roșie)",
+   "80 g mozzarella light",
+   "2 linguri ulei de măsline (20 ml – 1 lingură pentru legume, 1 pentru pui)",
+   "Condimente mexicane: paprika afumată chimion, usturoi pudră, oregano, chili, sare piper",
+   "Opțional: suc de lime, coriandru verde"
+  ],
+  "steps": [
+   "Fierbe orezul în apă cu puțină sare până devine pufos.",
+   "Taie pieptul de pui în fâșii și marinează-l cu condimente mexicane și 1 lingură de ulei de măsline.",
+   "Taie legumele (ardei, dovlecel, roșie, ceapă) julienne sau cubulețe.",
+   "Într-o tigaie mare, călește legumele în 1 lingură de ulei timp de 5-7 minute, până se înmoaie ușor.",
+   "Într-o tigaie separată, gătește pieptul de pui până devine rumen și bine pătruns.",
+   "Amestecă totul: orezul, legumele, puiul. Presară mozzarella deasupra, acoperă 1-2 minute până se topește.",
+   "Servește cald, opțional cu lime și coriandru"
+  ],
+  "portion": "~200 g",
+  "protein": 48.0,
+  "carbs": 47.0,
+  "fat": 15.0,
+  "allergens": "lactoză (din mozzarella)",
+  "variants": "Pentru o variantă fără lactoză, folosește brânză vegetală sau mozzarella fără lactoză.",
+  "tips": [
+   "Dacă vrei o textură mai ușoară, poți adăuga 1 linguriță de zeamă de lămâie în apa de fierbere – ajută digestia și îl menține alb.",
+   "Pentru o versiune vegetariană, înlocuiește puiul cu 300 g tofu afumat sau năut fiert."
+  ],
+  "page": 104,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "PAELLA DIETETICĂ CU FRUCTE DE MARE",
+  "servings": 2,
+  "minutes": 35,
+  "kcal": 290,
+  "description": "O paella ușoară, aromată și bogată în proteine, perfectă pentru cei care iubesc fructele de mare, dar vor o variantă dietetică — orez pufos, creveți fragezi, calamar și midii într-o combinație savuroasă, cu accente mediteraneene.",
+  "ingredients": [
+   "150 g creveți decorticați",
+   "100 g calamar tăiat rondele",
+   "100 g midii fierte (din conservă în saramură sau congelate)",
+   "70 g orez basmati",
+   "1/2 ceapă mică",
+   "1/2 ardei gras roșu",
+   "1 roșie medie (sau 2 linguri sos de roșii)",
+   "1 cățel de usturoi",
+   "10 g ulei de măsline (2 lingurițe)",
+   "200 ml supă de legume sau apă cu sare",
+   "Șofran sau turmeric, sare, piper, boia pătrunjel"
+  ],
+  "steps": [
+   "Încinge uleiul într-o tigaie mare și sotează ceapa și usturoiul.",
+   "Adaugă ardeiul și roșia. Lasă să se înmoaie ușor.",
+   "Adaugă fructele de mare (creveți, calamar, midii) și condimentează după gust. Gătește 3-4 minute.",
+   "Pune orezul crud, amestecă bine, apoi adaugă supa fierbinte cu șofran sau turmeric.",
+   "Fierbe la foc mic, acoperit, până când orezul absoarbe lichidul (aprox. 15-18 min).",
+   "La final, presară pătrunjel proaspăt și servește cu felii de lămâie."
+  ],
+  "portion": "~200 g",
+  "protein": 29.0,
+  "carbs": 28.0,
+  "fat": 8.0,
+  "allergens": "crustacee (creveți, midii), moluște (calamar)",
+  "variants": "Pentru o variantă fără fructe de mare, folosește 150 g piept de pui sau 100 g tofu pentru un aport proteic similar.",
+  "tips": [
+   "Pentru un gust mai intens, adaugă câteva picături de zeamă de lămâie sau coajă rasă de lime la final.",
+   "Pentru o opțiune fără cereale, înlocuiește orezul cu 200 g conopidă rasă."
+  ],
+  "page": 105,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "PAELLA DIETETICĂ CU PUI ȘI CREVEȚI",
+  "servings": 2,
+  "minutes": 35,
+  "kcal": 295,
+  "description": "O paella dietetică, rapidă și aromată, care combină gustul delicat al creveților cu suculența puiului — o masă ușoară, bogată în proteine, perfectă pentru prânz sau cină fără exces de calorii.",
+  "ingredients": [
+   "100 g piept de pui (fără piele)",
+   "100 g creveți decorticați",
+   "70 g orez basmati sau orez cu bob lung",
+   "1/2 ceapă mică tocată",
+   "1/2 ardei gras roșu tăiat cubulețe",
+   "1 roșie medie tăiată cubulețe (sau 2 linguri sos de roșii natural)",
+   "1 cățel de usturoi tocat",
+   "1 linguriță ulei de măsline",
+   "200 ml supă de legume (sau apă cu condimente)",
+   "Șofran sau turmeric (pentru culoare și aromă)",
+   "Sare, piper, boia afumată, pătrunjel proaspăt",
+   "Suc de lămâie (opțional, pentru servire)"
+  ],
+  "steps": [
+   "Sotează ceapa și usturoiul într-o tigaie antiaderentă cu uleiul de măsline, până devin aurii.",
+   "Adaugă puiul tăiat cuburi mici și condimentează cu sare, piper și boia. Gătește 5-6 minute până se rumenește.",
+   "Adaugă ardeiul, roșia și orezul. Amestecă bine 1-2 minute.",
+   "Toarnă supa de legume fierbinte, adaugă șofranul sau turmericul și lasă să fiarbă la foc mic, acoperit, timp de 15 minute.",
+   "Adaugă creveții deasupra și lasă încă 5-7 minute până când sunt complet gătiți și lichidul s-a absorbit.",
+   "Ia de pe foc, presară pătrunjel proaspăt și servește cu felii de lămâie pentru un plus de prospețime"
+  ],
+  "portion": "~200 g",
+  "protein": 31.0,
+  "carbs": 28.0,
+  "fat": 6.0,
+  "allergens": "crustacee (creveți)",
+  "variants": "Pentru o variantă fără fructe de mare, înlocuiește creveții cu 100 g piept de pui suplimentar sau 100 g tofu.",
+  "tips": [
+   "Adaugă 1 lingură de vin alb în timpul gătirii pentru o aromă mai intensă, în stil spaniol autentic.",
+   "Pentru o variantă vegetariană, înlocuiește carnea și creveții cu 150 g năut sau linte fiartă."
+  ],
+  "page": 106,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "RULADĂ CU SPANAC, UMPLUTĂ CU BRÂNZĂ, MUSCHIULEȚ ȘI MURĂTURI",
+  "servings": 2,
+  "minutes": 30,
+  "kcal": 95,
+  "description": "O ruladă savuroasă, proteică și foarte ușoară, cu foaie din spanac și umplutură cremoasă, perfectă pentru o cină rapidă și sănătoasă — arată spectaculos, dar se prepară surprinzător de simplu.",
+  "ingredients": [
+   "Ingrediente pentru ruladă:",
+   "100g spanac (proaspăt sau congelat, bine scurs)",
+   "2 ouă",
+   "45g parmezan ras",
+   "Umplutură:",
+   "60g brânză proaspătă light",
+   "80g mușchiuleț afumat (de porc slab sau curcan, după preferință) câteva feliuțe de murături (castraveți sau gogoșari) — opțional, pentru gust acrișor și contrast"
+  ],
+  "steps": [
+   "Preîncălzește cuptorul la 180°C",
+   "Amestecă spanacul tocat cu ouăle și parmezanul până obții o compoziție omogenă.",
+   "Toarnă compoziția într-o tavă mică tapetată cu hârtie de copt și întinde-o uniform într-un strat subțire.",
+   "Coace 12 minute la 180°C până se fixează bine.",
+   "Scoate, lasă 2-3 minute să se răcească ușor, apoi răstoarnă pe o hârtie curată sau pe un prosop umed și rulează ușor pentru a prinde formă.",
+   "Derulează și umple cu brânza, mușchiulețul și murăturile feliate. Rulează din nou și presează ușor."
+  ],
+  "portion": "~200 g",
+  "protein": 8.0,
+  "carbs": 2.0,
+  "fat": 6.0,
+  "allergens": "ouă, lactoză (din brânză și parmezan)",
+  "variants": "Pentru o variantă fără lactoză, folosește brânză vegetală sau fără lactoză și parmezan fără lactoză.",
+  "tips": [
+   "Pentru un plus de aromă, adaugă ierburi mediteraneene (busuioc, oregano) în aluat.",
+   "Pentru o opțiune fără ouă, înlocuiește fiecare ou cu un „ou vegan” (1 lingură semințe de in măcinate + 3 linguri apă)."
+  ],
+  "page": 107,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "SALATĂ CALDĂ CU PIEPT DE PUI, PORUMB SI SOS CREMOS DE IAURT",
+  "servings": 2,
+  "minutes": 20,
+  "kcal": 390,
+  "description": "O salată caldă extrem de gustoasă, sățioasă și ușor cremoasă, perfectă pentru cine vrei ceva rapid, sănătos și plin de arome.",
+  "ingredients": [
+   "350g piept de pui crud",
+   "1 lingură condimente: boia dulce, chimen sare cu usturoi (sau usturoi pudră + sare)",
+   "Zeama de la 1 lime (sau 1/2 lămâie)",
+   "100g varză albă tocată fin",
+   "1 conservă mică porumb (420g brut / ~250g scurs)",
+   "1 linguriță unt (5g)",
+   "1/2 ceapă roșie mică tocată fin",
+   "80g iaurt grecesc proteic (2% sau 0%)",
+   "1 lingură maioneză light (15g)",
+   "20g brânză feta light sau telemea light",
+   "1 legătură mică coriandru sau pătrunjel verde tocat"
+  ],
+  "steps": [
+   "Gătește pieptul de pui condimentat într-o tigaie, lasă-l 2–3 min, apoi taie-l cuburi.",
+   "În aceeași tigaie, rumenește porumbul cu unt până devine ușor caramelizat.",
+   "Amestecă iaurtul cu maioneză, condimente și zeamă de lime pentru sos.",
+   "Într-un bol, combină varza, porumbul, ceapa, puiul, verdețurile, brânza și sosul.",
+   "Servește alături de brânză fărâmițată și sosul. Amestecă totul cu grijă.",
+   "Servește cu o felie de lime/lămâie alături."
+  ],
+  "portion": "~200 g",
+  "protein": 45.0,
+  "carbs": 22.0,
+  "fat": 14.0,
+  "allergens": "lactoză (din iaurt, brânză și maioneză), muștar (din maioneză)",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt și brânză vegetală sau fără lactoză.",
+  "tips": [
+   "Servește cu o felie de lipie integrală sau cu tortilla pentru un plus de carbohidrați complecși.",
+   "Pentru o opțiune fără muștar, folosește sos de iaurt simplu sau adaugă 1 linguriță de tahini în locul maionezei."
+  ],
+  "page": 108,
+  "category": "FELURI PRINCIPALE REINTERPRETATE"
+ },
+ {
+  "title": "PÂINE PROTEICĂ CU OVĂZ SI BRÂNZĂ",
+  "servings": 4,
+  "minutes": 60,
+  "kcal": 305,
+  "description": "O pâine proteică simplă, sățioasă și extrem de gustoasă — ideală pentru mic dejunuri rapide sau gustări sănătoase, fără făină și fără efort.",
+  "ingredients": [
+   "350 g ovăz",
+   "2 ouă întregi (~100 g)",
+   "4 albușuri (~132 g)",
+   "500 g brânză light (cottage, perle sau degresată)",
+   "10 g praf de copt"
+  ],
+  "steps": [
+   "Amestecă toate ingredientele într-un bol mare până obții o compoziție densă.",
+   "Toarnă în tavă de chec tapetată cu hârtie de copt.",
+   "Coace la 165 C timp de 55-60 min până trece testul scobitorii.",
+   "Lasă la răcit complet înainte de a felia."
+  ],
+  "portion": "din care fibre: ~4 g",
+  "protein": 28.0,
+  "carbs": 27.0,
+  "fat": 8.0,
+  "allergens": "ouă, lactoză (din brânză), gluten (din ovăz – dacă nu este certificat fără gluten)",
+  "variants": "Pentru o variantă fără lactoză, folosește brânză vegetală sau fără lactoză.",
+  "tips": [
+   "Se păstrează 3-4 zile la frigider, excelentă și pentru sandvișuri",
+   "Pentru o opțiune fără gluten, alege ovăz certificat „gluten- free”."
+  ],
+  "page": 110,
+  "category": "PÂINE SI PREPARATE DE TIP BRUNCH"
+ },
+ {
+  "title": "FRENCH TOAST CU BANANE ȘI SCORȚISOARĂ",
+  "servings": 1,
+  "minutes": 10,
+  "kcal": 300,
+  "description": "Un mic dejun dulce, proteic și super rapid, care combină perfect aroma de scorțișoară cu dulceața bananei. Perfect pentru diminețile în care vrei ceva bun fără să pierzi timp.",
+  "ingredients": [
+   "2 felii pâine integrală",
+   "2 albușuri",
+   "1 banană coaptă",
+   "1 linguriță scorțișoară",
+   "1 linguriță esență de vanilie",
+   "Un praf de sare"
+  ],
+  "steps": [
+   "Amestecă albușurile cu scorțișoara, vanilia și sarea.",
+   "Înmoaie feliile de pâine în amestec.",
+   "Prăjește-le într-o tigaie antiaderentă.",
+   "Servește cu banană tăiată deasupra."
+  ],
+  "portion": "din care fibre: ~6 g",
+  "protein": 13.0,
+  "carbs": 50.0,
+  "fat": 4.0,
+  "allergens": "gluten (din pâine), ouă",
+  "variants": "Pentru o variantă fără gluten, folosește pâine fără gluten.",
+  "tips": [
+   "Servește cu 1 linguriță de iaurt grecesc rece sau cu câteva fructe de pădure proaspete pentru extra fibre și antioxidanți.",
+   "Pentru o versiune săracă în carbohidrați, folosește pâine proteică cu conținut redus de carbohidrați și ½ banană."
+  ],
+  "page": 111,
+  "category": "PÂINE SI PREPARATE DE TIP BRUNCH"
+ },
+ {
+  "title": "OMLETĂ CU SPANAC ȘI CEAPĂ VERDE",
+  "servings": 1,
+  "minutes": 10,
+  "kcal": 145,
+  "description": "O omletă simplă, proteică și plină de prospețime, perfectă pentru un mic dejun rapid și sățios.",
+  "ingredients": [
+   "3 albușuri",
+   "1 ou întreg",
+   "O mână de spanac",
+   "1 ceapă verde",
+   "Sare, piper"
+  ],
+  "steps": [
+   "Călește spanacul și ceapa verde.",
+   "Bate ouăle și adaugă legumele.",
+   "Gătește omleta la foc mic."
+  ],
+  "portion": "1 omletă",
+  "protein": 16.0,
+  "carbs": 2.0,
+  "fat": 8.0,
+  "allergens": "ouă",
+  "variants": "Pentru o opțiune fără ouă, înlocuiește ouăle cu un amestec din 2 linguri de făină de năut + 120 ml apă + condimente (pentru o „omletă” vegetală).",
+  "tips": [
+   "Servește cu o felie de pâine integrală pentru un mic dejun mai consistent.",
+   "Pentru un aport proteic mai mare, adaugă 30 g brânză cottage sau 50 g piept de pui gătit cubulețe."
+  ],
+  "page": 112,
+  "category": "PÂINE SI PREPARATE DE TIP BRUNCH"
+ },
+ {
+  "title": "SANDVIȘ CALD CU OU ȘI BRÂNZĂ",
+  "servings": 1,
+  "minutes": 10,
+  "kcal": 300,
+  "description": "Un sandviș cald, rapid și super gustos, perfect pentru dimineți aglomerate sau pentru o gustare sățioasă și proteică.",
+  "ingredients": [
+   "2 felii pâine integrală",
+   "1 ou",
+   "1 felie brânză topită light",
+   "Sare, piper",
+   "1 linguriță unt sau margarină light"
+  ],
+  "steps": [
+   "Prăjește oul ochi.",
+   "Pune brânza și oul între feliile de pâine.",
+   "Prăjește sandvișul în tigaie 2–3 minute pe fiecare parte."
+  ],
+  "portion": "din care fibre: ~5 g",
+  "protein": 16.0,
+  "carbs": 30.0,
+  "fat": 13.0,
+  "allergens": "gluten (din pâine), ouă, lactoză (din brânză și unt)",
+  "variants": "Pentru o variantă fără gluten, folosește pâine fără gluten.",
+  "tips": [
+   "Poți adăuga și o felie de șuncă de curcan pentru un plus de proteine.",
+   "Pentru o variantă fără lactoză, folosește brânză vegetală și margarină vegetală.",
+   "Pentru o opțiune fără ouă, înlocuiește oul cu tofu moale (50 g) condimentat și gătit la tigaie."
+  ],
+  "page": 113,
+  "category": "PÂINE SI PREPARATE DE TIP BRUNCH"
+ },
+ {
+  "title": "BAGEL CU OU, BACON ȘI BRÂNZĂ",
+  "servings": 8,
+  "minutes": 25,
+  "kcal": 365,
+  "description": "Un bagel proteic, sățios și cremos, perfect pentru mic dejunuri rapide sau pentru meal-prep — combinația ideală între ou, brânză și bacon crocant.",
+  "ingredients": [
+   "12 ouă întregi",
+   "500 ml albușuri",
+   "200 g brânză cottage slabă",
+   "5 g parmezan ras",
+   "1 linguriță pudră de usturoi",
+   "20 g unt light )",
+   "140 g cașcaval light ras",
+   "1 linguriță sare",
+   "16 felii de bacon",
+   "150 g cremă de brânză light",
+   "½ ceapă verde",
+   "8 bagel-uri subțiri (poți folosi chifle rotunde integrale"
+  ],
+  "steps": [
+   "Prăjește baconul până devine crocant și taie-l în jumătăți.",
+   "Bate ouăle cu albușuri, brânză cottage, condimente și parmezan, apoi gătește totul într-o tigaie mare, formând o omletă pe care o tai în 8 bucăți.",
+   "Amestecă crema de brânză cu ceapă verde.",
+   "Taie bagelurile, unge-le cu cremă, adaugă omletă, cașcaval și bacon.",
+   "Montează sandvișurile și învelește-le în hârtie de copt."
+  ],
+  "portion": "1 bagel",
+  "protein": 32.0,
+  "carbs": 28.0,
+  "fat": 16.0,
+  "allergens": "gluten (din bagel), ouă, lactoză (din brânzeturi și unt).",
+  "variants": "Pentru o variantă fără gluten, folosește chifle sau bagel-uri fără gluten.",
+  "tips": [
+   "Pentru un gust mai intens, adaugă 1 linguriță de muștar Dijon în crema de brânză.",
+   "Pentru o variantă fără lactoză, înlocuiește brânza cottage, crema de brânză și cașcavalul cu variante vegetale."
+  ],
+  "page": 114,
+  "category": "PÂINE SI PREPARATE DE TIP BRUNCH"
+ },
+ {
+  "title": "CIUPERCI CU HALLOUMI",
+  "servings": 2,
+  "minutes": 15,
+  "kcal": 265,
+  "description": "O rețetă simplă, sățioasă și plină de aromă — ciuperci suculente combinate cu halloumi rumenit și cașcaval topit. Perfectă ca gustare rapidă sau cină ușoară.",
+  "ingredients": [
+   "100 g Halloumi",
+   "200 g ciuperci",
+   "50 g cașcaval light"
+  ],
+  "steps": [
+   "Halloumi se pune în tigaie la foc mediu și se lasă 3-5 minute pe fiecare parte, până devine ușor maroniu.",
+   "Curățăm ciupercile, adăugăm cașcaval ras între ele și le punem la airfryer la 200 de grade, timp de 16-18 minute."
+  ],
+  "portion": "1 bagel",
+  "protein": 22.0,
+  "carbs": 5.0,
+  "fat": 18.0,
+  "allergens": "lactoză (din halloumi și cașcaval).",
+  "variants": "Pentru o variantă fără lactoză, folosește halloumi și cașcaval fără lactoză sau brânzeturi vegetale.",
+  "tips": [
+   "Servește cu o felie de pâine integrală pentru un prânz complet.",
+   "Pentru o opțiune vegană, înlocuiește halloumi cu tofu marinat la grătar și cașcavalul cu brânză vegetală."
+  ],
+  "page": 115,
+  "category": "PÂINE SI PREPARATE DE TIP BRUNCH"
+ },
+ {
+  "title": "AVOCADO UMPLUT",
+  "servings": 2,
+  "minutes": 25,
+  "kcal": 410,
+  "description": "O gustare cremoasă, sănătoasă și plină de grăsimi bune — avocado copt umplut cu ou, perfect pentru mic dejun sau o cină rapidă și nutritivă.",
+  "ingredients": [
+   "2 avocado",
+   "4 ouă",
+   "rozmarin"
+  ],
+  "steps": [
+   "Tăiem avocado pe mijloc, scoatem sâmburele, punem ouăle și băgăm la cuptor pentru 15-20 de minute."
+  ],
+  "portion": "din care fibre: ~6 g",
+  "protein": 17.0,
+  "carbs": 8.0,
+  "fat": 35.0,
+  "allergens": "ouă.",
+  "variants": "Pentru o opțiune fără ouă, înlocuiește oul cu 2 linguri de tofu sfărâmat amestecat cu turmeric și sare neagră (pentru gust similar).",
+  "tips": [
+   "Pentru un mic dejun mai sățios, servește cu o felie de pâine integrală prăjită.",
+   "Pentru o variantă săracă în grăsimi, folosește doar albușurile de ou (~4-5 bucăți) și redu cantitatea de avocado la 1½."
+  ],
+  "page": 116,
+  "category": "PÂINE SI PREPARATE DE TIP BRUNCH"
+ },
+ {
+  "title": "TAGLIATELE CU TON",
+  "servings": 2,
+  "minutes": 15,
+  "kcal": 270,
+  "description": "O rețetă rapidă, fresh și proteică — paste ușoare cu ton, sos de roșii și spanac, perfecte pentru un prânz sățios gata în câteva minute.",
+  "ingredients": [
+   "50 g paste",
+   "100 g ton în suc propriu (scurs)",
+   "50 g sos de roșii",
+   "Baby spanac (după gust)"
+  ],
+  "steps": [
+   "Fierbe pastele în apă cu sare și scurge-le.",
+   "Încălzește sosul de roșii cu condimentele.",
+   "Adaugă tonul și spanacul și gătește 2-3 minute.",
+   "Pune pastele în tigaie și amestecă 1-2 minute.",
+   "Servește cu parmezan, dacă dorești."
+  ],
+  "portion": "~250 gr",
+  "protein": 26.0,
+  "carbs": 28.0,
+  "fat": 6.0,
+  "allergens": "gluten (din paste), pește (ton).",
+  "variants": "Pentru o variantă fără gluten, folosește paste din porumb, orez sau leguminoase.",
+  "tips": [
+   "Poți adăuga 1 cățel de usturoi zdrobit în sos pentru un gust mai intens.",
+   "Pentru o opțiune vegetariană, înlocuiește tonul cu 100 g linte fiartă sau năut."
+  ],
+  "page": 117,
+  "category": "PÂINE SI PREPARATE DE TIP BRUNCH"
+ },
+ {
+  "title": "FRIGĂRUI DE PUI",
+  "servings": 2,
+  "minutes": 25,
+  "kcal": 180,
+  "description": "Frigărui simple, colorate și sățioase — o combinație perfectă de piept de pui și legume coapte, ideale pentru un prânz ușor sau o cină sănătoasă.",
+  "ingredients": [
+   "100 g piept de pui",
+   "50 g ardei roșu",
+   "50 g ciuperci",
+   "1 ceapă"
+  ],
+  "steps": [
+   "Condimentează pieptul de pui și gătește-l la cuptor 10-12 minute.",
+   "Coace legumele separat 15-18 minute.",
+   "La final, asamblează totul pe frigărui."
+  ],
+  "portion": "~200 gr",
+  "protein": 27.0,
+  "carbs": 7.0,
+  "fat": 4.5,
+  "allergens": "– (nu conține alergeni frecvenți în forma de bază)",
+  "variants": "Pentru o variantă vegetariană, înlocuiește puiul cu tofu sau halloumi.",
+  "tips": [
+   "Adaugă dovlecel sau roșii cherry pentru un plus de culoare și fibre.",
+   "Pentru o variantă săracă în grăsimi, gătește fără ulei și folosește doar condimente uscate."
+  ],
+  "page": 118,
+  "category": "PÂINE SI PREPARATE DE TIP BRUNCH"
+ },
+ {
+  "title": "SOMON CU CARTOF DULCE ȘI SALATĂ VERDE",
+  "servings": 2,
+  "minutes": 30,
+  "kcal": 250,
+  "description": "O masă echilibrată, gustoasă și ușoară — somon fraged, cartof dulce copt și o salată fresh care completează perfect farfuria.",
+  "ingredients": [
+   "100g somon",
+   "120g cartof dulce",
+   "50g salată verde",
+   "50g castravete",
+   "5g ulei"
+  ],
+  "steps": [
+   "Coace cartoful 25 min.",
+   "Gătește somonul 3–4 min/parte.",
+   "Taie legumele crude.",
+   "Adaugă ulei."
+  ],
+  "portion": "~200 gr",
+  "protein": 20.0,
+  "carbs": 20.0,
+  "fat": 10.0,
+  "allergens": "pește (somon).",
+  "variants": "Pentru o variantă fără pește, înlocuiește somonul cu 100 g piept de pui sau 100 g tofu afumat.",
+  "tips": [
+   "Servește cu câteva semințe crude (dovleac, floarea- soarelui) pentru un plus de micronutrienți.",
+   "Pentru o variantă săracă în carbohidrați, înlocuiește cartoful dulce cu broccoli sau conopidă fiartă (~120 g).",
+   "Pentru o opțiune vegetariană, folosește un mix de linte și năut (~100 g total) în locul somonului."
+  ],
+  "page": 119,
+  "category": "PÂINE SI PREPARATE DE TIP BRUNCH"
+ },
+ {
+  "title": "SANDVIȘ CU OU ȘI AVOCADO",
+  "servings": 2,
+  "minutes": 10,
+  "kcal": 220,
+  "description": "Un sandviș fresh, nutritiv și gata în câteva clipe — combinația perfectă dintre avocado cremos și ou fiert pentru un mic dejun ușor și sănătos.",
+  "ingredients": [
+   "2 felii pâine integrală",
+   "1 ou fiert",
+   "½ avocado",
+   "Sare, piper",
+   "Zeamă de lămâie"
+  ],
+  "steps": [
+   "Pisează avocado cu sare, piper și zeamă de lămâie.",
+   "Unge feliile de pâine și adaugă oul feliat deasupra."
+  ],
+  "portion": "~150 gr",
+  "protein": 10.0,
+  "carbs": 22.0,
+  "fat": 11.0,
+  "allergens": "gluten (din pâine), ouă.",
+  "variants": "Pentru o variantă fără gluten, folosește pâine fără gluten.",
+  "tips": [
+   "Poți adăuga 1 felie de roșie sau frunze de rucola pentru un plus de vitamine.",
+   "Pentru o opțiune fără ou, înlocuiește oul cu tofu sfărâmat sau hummus (~50 g)."
+  ],
+  "page": 120,
+  "category": "PÂINE SI PREPARATE DE TIP BRUNCH"
+ },
+ {
+  "title": "OREZ CU LAPTE ȘI SCORȚISOARĂ",
+  "servings": 2,
+  "minutes": 20,
+  "kcal": 320,
+  "description": "Un desert simplu, cald și reconfortant — orez cu lapte cremos aromatizat cu scorțișoară, perfect pentru momentele în care vrei ceva rapid și delicios.",
+  "ingredients": [
+   "60 g orez",
+   "250 ml lapte",
+   "1 linguriță scorțișoară",
+   "Îndulcitor (opțional)",
+   "Un praf de sare"
+  ],
+  "steps": [
+   "Fierbe orezul în apă 5 minute.",
+   "Adaugă laptele și fierbe până e cremos.",
+   "Adaugă scorțișoară și îndulcitor după gust."
+  ],
+  "portion": "~150 gr",
+  "protein": 10.0,
+  "carbs": 60.0,
+  "fat": 5.0,
+  "allergens": "lactoză (din lapte).",
+  "variants": "Pentru o variantă fără lactoză, folosește lapte vegetal (de migdale, ovăz sau soia).",
+  "tips": [
+   "Înlocuiește laptele cu lapte vegetal pentru o aromă diferită.",
+   "Pentru o opțiune bogată în proteine, adaugă 1 cupă de proteine pudră cu aromă de vanilie sau 100 g iaurt grecesc."
+  ],
+  "page": 121,
+  "category": "PÂINE SI PREPARATE DE TIP BRUNCH"
+ },
+ {
+  "title": "CLĂTITE DIN BANANĂ ȘI OU",
+  "servings": 3,
+  "minutes": 10,
+  "kcal": 85,
+  "description": "Clătite ultra-rapide din doar două ingrediente, pufoase și naturale — perfecte pentru un mic dejun dulce și sănătos, fără efort.",
+  "ingredients": [
+   "1 banană coaptă",
+   "2 ouă"
+  ],
+  "steps": [
+   "Pasează banana și amestec-o cu ouăle.",
+   "Toarnă în tigaie încinsă și coace 1–2 min pe fiecare parte."
+  ],
+  "portion": "~150 gr",
+  "protein": 3.5,
+  "carbs": 10.0,
+  "fat": 3.0,
+  "allergens": "ouă.",
+  "variants": "Pentru o opțiune cu mai multe proteine, adaugă 1 cupă de pudră proteică în compoziție.",
+  "tips": [
+   "Poți adăuga 1 lingură de făină de ovăz dacă vrei clătitele mai consistente.",
+   "Pentru o variantă mai bogată în fibre, adaugă 1 lingură de tărâțe de ovăz sau semințe de chia."
+  ],
+  "page": 123,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "CLĂTITE DE OVĂZ CU BANANĂ",
+  "servings": 1,
+  "minutes": 10,
+  "kcal": 315,
+  "description": "Clătite pufoase, hrănitoare și super rapide — combini ovăzul cu banana și obții un mic dejun dulce, sănătos și sățios.",
+  "ingredients": [
+   "1 banană",
+   "2 albușuri",
+   "40 g fulgi de ovăz",
+   "Scorțișoară, vanilie"
+  ],
+  "steps": [
+   "Pasează banana și amestec-o cu ouăle.",
+   "Toarnă în tigaie încinsă și coace 1–2 min pe fiecare parte."
+  ],
+  "portion": "din care fibre: ~5 g",
+  "protein": 13.0,
+  "carbs": 48.0,
+  "fat": 5.0,
+  "allergens": "ouă, gluten (din ovăz).",
+  "variants": "Pentru o variantă fără gluten, folosește fulgi de ovăz certificați fără gluten sau făină de migdale.",
+  "tips": [
+   "Adaugă 1 linguriță de unt de arahide sau câteva afine proaspete pentru gust și antioxidanți.",
+   "Pentru o variantă săracă în carbohidrați înlocuiește ovăzul cu 20 g făină de cocos și adaugă 1 ou întreg."
+  ],
+  "page": 124,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "MINI CHEESECAKE CU IAURT GRECESC ȘI FULGI DE CIOCOLATĂ",
+  "servings": 1,
+  "minutes": 30,
+  "kcal": 280,
+  "description": "Un mini cheesecake ușor, proteic și fără regrete — gata rapid, super cremos și ideal când vrei un desert sănătos, dar delicios.",
+  "ingredients": [
+   "1 ou",
+   "130 g iaurt grecesc 2% (ex. Olympus, Zuzu Pilos)",
+   "20 g îndulcitor natural (stevia/eritritol) sau",
+   "20 g miere (opțional – ~64 kcal)",
+   "30 g ovăz măcinat (sau fulgi de ovăz blenduiți)",
+   "½ linguriță praf de copt",
+   "1 praf de sare",
+   "[Opțional] fulgi de ciocolată sau fructe de pădure, pentru topping"
+  ],
+  "steps": [
+   "Amestecă oul, iaurtul, îndulcitorul, ovăzul măcinat, praful de copt și sarea până obții o compoziție omogenă.",
+   "Toarnă într-o formă mică și gătește: 2–3 min la microunde, 15–20 min la 165°C în air fryer sau 25 min la 180°C în cuptor.",
+   "Lasă 10–15 min la răcit înainte de servire."
+  ],
+  "portion": "~200 g",
+  "protein": 20.0,
+  "carbs": 28.0,
+  "fat": 10.0,
+  "allergens": "ouă, lactoză (din iaurt), gluten (din ovăz).",
+  "variants": "Pentru o variantă fără gluten, folosește ovăz certificat fără gluten sau făină de migdale.",
+  "tips": [
+   "Poți transforma desertul într-o variantă de mic dejun complet adăugând 1 lingură de unt de arahide sau 1 banană felii deasupra.",
+   "Pentru o opțiune fără lactoză, folosește iaurt vegetal (de cocos sau migdale)."
+  ],
+  "page": 125,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "CLĂTITE PROTEICE CU BANANĂ",
+  "servings": 1,
+  "minutes": 10,
+  "kcal": 220,
+  "description": "Clătite proteice, pufoase și fără făină — o rețetă rapidă, dulce și perfectă pentru un mic dejun sănătos, bogat în proteine.",
+  "ingredients": [
+   "150 g albușuri (echivalentul a ~4–5 albușuri de ou sau 1 cutie de albușuri pasteurizate)",
+   "1 banană (80 g – bine coaptă)",
+   "½ linguriță esență de vanilie",
+   "1 linguriță scorțișoară",
+   "1–",
+   "2 linguri îndulcitor natural (ex. stevia eritritol, green sugar) – după gust",
+   "5 g praf de copt"
+  ],
+  "steps": [
+   "Pasează banana, adaugă albușurile, vanilia, scorțișoara, îndulcitorul și praful de copt.",
+   "Amestecă bine.",
+   "Coace clătite mici într-o tigaie antiaderentă, 1–2 min pe fiecare parte."
+  ],
+  "portion": "~200 g",
+  "protein": 22.0,
+  "carbs": 26.0,
+  "fat": 2.0,
+  "allergens": "ouă, potențial gluten (dacă se adaugă ovăz)",
+  "variants": "Pentru o variantă fără ou, înlocuiește albușurile cu 150 ml aquafaba (lichid din năut).",
+  "tips": [
+   "Pentru un plus de fibre și sațietate, adaugă 1 lingură de semințe de chia sau psyllium în compoziție.",
+   "Pentru o variantă săracă în carbohidrați, redu banana la ½ și adaugă 10 g făină de cocos."
+  ],
+  "page": 126,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "PASCĂ LIGHT CU BRÂNZĂ ȘI STAFIDE",
+  "servings": 8,
+  "minutes": 60,
+  "kcal": 165,
+  "description": "O pască light, aerată și bogată în proteine — tot gustul copilăriei, dar cu ingrediente mai ușoare și perfecte pentru un stil de viață sănătos.",
+  "ingredients": [
+   "500 g brânză degresată (cottage sau perle)",
+   "2 ouă întregi (~100 g)",
+   "2 albușuri (~66 g)",
+   "60 g stafide",
+   "50 g griș",
+   "40 g îndulcitor (eritritol)",
+   "Coajă de lămâie, vanilie – după gust"
+  ],
+  "steps": [
+   "Amestecă brânza cu ouăle, albușurile și îndulcitorul.",
+   "Adaugă grișul, stafidele, esențele și omogenizează.",
+   "Pune compoziția într-o tavă mică tapetată cu hârtie de copt.",
+   "Coace la 170°C timp de ~35-40 min, până capătă crustă aurie.",
+   "Lasă la răcit complet înainte de feliere."
+  ],
+  "portion": "~200 g",
+  "protein": 15.0,
+  "carbs": 18.0,
+  "fat": 4.5,
+  "allergens": "ouă, lactoză (brânză cottage), gluten (din griș)",
+  "variants": "Pentru o variantă fără lactoză, folosește brânză cottage fără lactoză.",
+  "tips": [
+   "Servește cu un topping de iaurt grecesc 2% și câteva fructe de pădure pentru un desert complet.",
+   "Pentru o variantă fără gluten, înlocuiește grișul cu 40 g făină de ovăz fără gluten sau 30 g făină de cocos."
+  ],
+  "page": 127,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "PLĂCINTĂ CU MERE LIGHT",
+  "servings": 6,
+  "minutes": 65,
+  "kcal": 155,
+  "description": "O plăcintă cu mere aromată, pufoasă și mult mai light decât varianta clasică — perfectă pentru o gustare dulce, sănătoasă și rapid de pregătit.",
+  "ingredients": [
+   "600 g mere dulci-acrișoare (răzuite)",
+   "150 g fulgi de ovăz (mărunțiți ușor în blender)",
+   "1 ou întreg",
+   "2 albușuri",
+   "1 lingură ulei de cocos (15 g)",
+   "1 linguriță scorțișoară",
+   "1-",
+   "2 linguri îndulcitor (eritritol, stevia sau după gust)",
+   "Esență de vanilie (opțional)",
+   "Coajă rasă de lămâie (opțional, pentru prospețime)"
+  ],
+  "steps": [
+   "Preîncălzește cuptorul la 180°C.",
+   "Răzuiește și scurge merele.",
+   "Amestecă într-un bol: mere, ovăz (mărunțit), ou, albușuri, ulei de cocos, scorțișoară, îndulcitor și arome.",
+   "Toarnă compoziția într-o tavă mică tapetată și coace 35– 40 min, până se rumenește.",
+   "Lasă la răcit complet, apoi taie felii."
+  ],
+  "portion": "~200 g",
+  "protein": 4.8,
+  "carbs": 27.0,
+  "fat": 4.2,
+  "allergens": "ouă, gluten (din ovăz – dacă nu este certificat fără gluten)",
+  "variants": "Pentru o variantă fără gluten, folosește ovăz certificat fără gluten sau 120 g făină de migdale.",
+  "tips": [
+   "Poți adăuga 10–15 g nuci tocate pentru textură, dacă bugetul caloric îți permite.",
+   "Pentru o variantă săracă în grăsimi, înlocuiește uleiul de cocos cu 15 g iaurt grecesc 2%."
+  ],
+  "page": 128,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "OVĂZ CU CACAO, VANILIE ȘI FULGI DE CIOCOLATĂ",
+  "servings": 4,
+  "minutes": 45,
+  "kcal": 225,
+  "description": "Un desert sănătos, ciocolatos și sățios — ovăz copt cu cacao, vanilie și fulgi de ciocolată, ideal pentru mic dejun sau pentru o gustare dulce fără vină.",
+  "ingredients": [
+   "200 g fulgi de ovăz",
+   "1 ou întreg",
+   "2 albușuri (aprox. 66 g)",
+   "250 g iaurt grecesc 2%",
+   "20 g cacao pudră (de calitate, neîndulcită)",
+   "1-",
+   "2 linguri îndulcitor (eritritol sau stevia – după gust)",
+   "1 linguriță esență de vanilie",
+   "20 g fulgi de ciocolată fără zahăr (sau ciocolată neagră tocată)",
+   "Un praf de sare (pentru echilibru)"
+  ],
+  "steps": [
+   "Preîncălzește cuptorul la 180°C.",
+   "Amestecă oul, albușurile și iaurtul, apoi adaugă cacao, vanilie, îndulcitor și sare.",
+   "Încorporează ovăzul, apoi fulgii de ciocolată.",
+   "Toarnă aluatul într-o tavă tapetată (20x20 cm) și coace 30–35 min, până trece testul scobitorii.",
+   "Lasă la răcit complet înainte de a tăia."
+  ],
+  "portion": "~200 g",
+  "protein": 13.0,
+  "carbs": 28.0,
+  "fat": 7.5,
+  "allergens": "ouă, lactoză (iaurt grecesc), gluten (din ovăz – dacă nu este certificat fără gluten)",
+  "variants": "Pentru o variantă fără lactoză, înlocuiește iaurtul cu un iaurt vegetal proteic (soia sau cocos fără zahăr).",
+  "tips": [
+   "Poți adăuga 5 g unt de arahide deasupra fiecărei porții pentru o aromă intensă și grăsimi sănătoase (atenție la calorii!).",
+   "Pentru o variantă fără gluten, folosește ovăz certificat fără gluten."
+  ],
+  "page": 129,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "PAPANAȘI LA CUPTOR CU BRÂNZĂ ȘI IAURT",
+  "servings": 4,
+  "minutes": 45,
+  "kcal": 155,
+  "description": "Papanași la cuptor, varianta light și sănătoasă — moi, aromati și cu gust autentic, dar cu mult mai puține calorii decât rețeta tradițională.",
+  "ingredients": [
+   "300 g brânză de vaci degresată",
+   "2 ouă",
+   "2 linguri griș",
+   "2 linguri făină",
+   "Coajă rasă de lămâie",
+   "Esență de vanilie",
+   "1 lingură îndulcitor (opțional)"
+  ],
+  "steps": [
+   "Amestecă brânza cu ouăle până devine cremoasă, apoi adaugă grișul, coaja de lămâie, vanilia și îndulcitorul.",
+   "Toarnă în tavă tapetată cu hârtie de copt și coace la 180°C, 30–35 min, până se rumenește ușor.",
+   "Lasă la răcit și taie în 4 porții."
+  ],
+  "portion": "~200 g",
+  "protein": 13.0,
+  "carbs": 14.0,
+  "fat": 5.5,
+  "allergens": "ouă, lactoză (brânză de vaci), gluten (griș și făină)",
+  "variants": "Pentru o variantă fără lactoză, folosește brânză vegetală sau brânză fără lactoză.",
+  "tips": [
+   "Pentru un gust mai intens, presară scorțișoară sau vanilie peste papanași după coacere.",
+   "Pentru o variantă fără gluten, înlocuiește grișul și făina cu 60 g făină de ovăz fără gluten sau 50 g făină de migdale."
+  ],
+  "page": 130,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "CHEESECAKE CU IAURT GRECESC ȘI AFINE",
+  "servings": 6,
+  "minutes": 65,
+  "kcal": 185,
+  "description": "Un cheesecake fresh, ușor și cremos, făcut cu iaurt grecesc și afine — desertul perfect când vrei ceva dulce, răcoritor și mult mai light decât varianta clasică.",
+  "ingredients": [
+   "150 g cremă de brânză light (ex. Philadelphia Light)",
+   "400 g iaurt grecesc 2% (ex. Olympus, Pilos Zuzu)",
+   "1 ou",
+   "1 linguriță esență de vanilie",
+   "1–",
+   "2 linguri îndulcitor natural (ex. Green Sugar Stevia, Eritritol – după gust)",
+   "1 biscuiți digestivi zdrobiți",
+   "200 g afine congelate",
+   "10 g amidon de porumb (amestecat cu 1 lingură apă rece)",
+   "[opțional]",
+   "20 g ciocolată albă fără zahăr"
+  ],
+  "steps": [
+   "Amestecă crema de brânză cu iaurtul, oul, vanilia și îndulcitorul.",
+   "Toarnă într-o tavă rotundă.",
+   "Fierbe afinele cu puțină apă, apoi îngroașă-le cu amidon dizolvat.",
+   "Pune sosul peste cremă, presară biscuiți și, opțional, ciocolată albă topită.",
+   "Coace 40–45 min la 160°C.",
+   "Lasă la răcit, apoi la frigider min. 4 ore."
+  ],
+  "portion": "~200 g",
+  "protein": 13.0,
+  "carbs": 17.0,
+  "fat": 7.5,
+  "allergens": "ouă, lactoză (iaurt și cremă de brânză), gluten (biscuiți digestivi)",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal proteic și cremă de brânză fără lactoză.",
+  "tips": [
+   "Servește cu afine proaspete deasupra pentru un aspect spectaculos.",
+   "Pentru o variantă fără gluten, folosește biscuiți fără gluten sau înlocuiește-i cu un mix din 20 g făină de ovăz + 5 g ulei de cocos."
+  ],
+  "page": 131,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "CHEESECAKE CAPOVOLTĂ FĂRĂ COACERE",
+  "servings": 8,
+  "minutes": 25,
+  "kcal": 220,
+  "description": "Un cheesecake capovolto răcoritor, cremos și fără coacere — combinația ideală între blat crocant, cremă fină și strat fresh de fructe. Perfect pentru zilele în care vrei un desert rapid și light.",
+  "ingredients": [
+   "240 g biscuiți fără zahăr (ex. Gullon, Sondey Digestive fără zahăr)",
+   "45 ml ulei de cocos topit",
+   "450 g cremă de brânză light (ex. Philadelphia Light, Delaco Light)",
+   "350 g iaurt grecesc 2% (ex. Olympus, Zuzu, Pilos)",
+   "100 g eritritol (sau îndulcitor natural preferat)",
+   "[Opțional – strat din mijloc]:",
+   "2–",
+   "3 linguri dulceață fără zahăr (afine, zmeură) sau",
+   "Mix de fructe de pădure pasate (aprox. 100 g)"
+  ],
+  "steps": [
+   "Zdrobește biscuiții și amestecă-i cu uleiul de cocos topit."
+  ],
+  "portion": "~200 g",
+  "protein": 10.0,
+  "carbs": 19.0,
+  "fat": 11.0,
+  "allergens": "gluten (biscuiți), lactoză (iaurt și cremă de brânză)",
+  "variants": "Pentru o variantă fără lactoză, folosește cremă de brânză vegetală și iaurt fără lactoză.",
+  "tips": [
+   "Pentru un plus de textură, adaugă 1 lingură de semințe de chia în stratul de fructe.",
+   "Pentru o variantă fără gluten, folosește biscuiți fără gluten sau un mix de 150 g ovăz măcinat + 20 g făină de migdale."
+  ],
+  "page": 132,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "BROWNIE FĂRĂ ZAHĂR, FĂRĂ FĂINĂ",
+  "servings": 6,
+  "minutes": 50,
+  "kcal": 155,
+  "description": "Un brownie dens, ciocolatos și fără făină sau zahăr — rețeta ideală când vrei un desert simplu, sănătos și surprinzător de bun.",
+  "ingredients": [
+   "70 g cacao pudră neîndulcită (de preferat alcalinizată)",
+   "2 banane bine coapte",
+   "2 ouă",
+   "10 ml îndulcitor lichid (stevia/eritritol lichid sau alt îndulcitor natural)",
+   "½ linguriță praf de copt",
+   "[Opțional] un praf de sare pentru gust mai intens"
+  ],
+  "steps": [
+   "Pisează bananele, apoi amestecă-le cu ouăle, cacaoa, îndulcitorul, praful de copt și sarea până obții o compoziție omogenă.",
+   "Toarnă în tavă tapetată și coace: 10 min la microunde, 30 min în air fryer la 165°C sau 40 min la cuptor la 180°C.",
+   "Lasă la răcit complet înainte de tăiere."
+  ],
+  "portion": "~200 g",
+  "protein": 6.3,
+  "carbs": 20.0,
+  "fat": 6.2,
+  "allergens": "ouă",
+  "variants": "Pentru o variantă săracă în carbohidrați, redu bananele la 1 și adaugă 40 g piure de dovleac copt + 10 g făină de cocos.",
+  "tips": [
+   "Servește cu 1 lingură de iaurt grecesc 2% și câteva fructe de pădure pentru un desert complet.",
+   "Pentru o variantă mai proteică, adaugă 20 g pudră proteică de ciocolată în compoziție (se ajustează textura cu 1 lingură lapte)."
+  ],
+  "page": 133,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "MERE COAPTE CU SCORȚISOARĂ ȘI NUCI",
+  "servings": 2,
+  "minutes": 35,
+  "kcal": 130,
+  "description": "Un desert cald, aromat și super simplu — mere coapte cu scorțișoară și nuci, perfecte pentru o gustare sănătoasă și reconfortantă.",
+  "ingredients": [
+   "2 mere mari",
+   "1 linguriță scorțișoară",
+   "2 lingurițe nuci mărunțite",
+   "Îndulcitor (opțional)"
+  ],
+  "steps": [
+   "Scoate cotorul merelor.",
+   "Umple cu scorțișoară și nuci.",
+   "Coace 25–30 minute la 180°C."
+  ],
+  "portion": "din care fibre: ~4.5 g",
+  "protein": 1.3,
+  "carbs": 28.0,
+  "fat": 3.5,
+  "allergens": "nuci",
+  "variants": "Pentru o variantă fără nuci, folosește 1 lingură semințe de floarea-soarelui sau 5 g fulgi de cocos.",
+  "tips": [
+   "Servește-le ca desert post-prânz sau gustare dulce, bogată în fibre.",
+   "Pentru o variantă mai proteică, servește cu 100 g iaurt grecesc 2% deasupra."
+  ],
+  "page": 134,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "CHEESECAKE RAFAELLO CU BANANĂ ȘI COCOS",
+  "servings": 4,
+  "minutes": 50,
+  "kcal": 220,
+  "description": "Un cheesecake în stil Raffaello — cremos, aromat și natural dulce din banane bine coapte, ideal pentru un desert light cu gust de sărbătoare.",
+  "ingredients": [
+   "3 banane bine coapte",
+   "4 ouă",
+   "400 g iaurt 2% (ex. Pilos, Zuzu, Olympus)",
+   "50 g fulgi de cocos",
+   "10 ml îndulcitor lichid sau",
+   "50 g stevia/eritritol"
+  ],
+  "steps": [
+   "Pasează bananele cu ouăle, iaurtul, fulgii de cocos și îndulcitorul.",
+   "Toarnă în tavă mică sau forme individuale.",
+   "Coace: 10 min la microunde, 40 min în air fryer la 155°C sau 45 min la cuptor la 170°C.",
+   "Lasă la răcit complet înainte de servire."
+  ],
+  "portion": "~200 g",
+  "protein": 11.0,
+  "carbs": 26.0,
+  "fat": 8.5,
+  "allergens": "ouă, lactoză (iaurt), cocos",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal proteic.",
+  "tips": [
+   "Servește cu fructe proaspete sau un strop de iaurt deasupra.",
+   "Pentru o variantă fără cocos, înlocuiește fulgii cu 30 g făină de migdale sau 25 g făină de ovăz."
+  ],
+  "page": 135,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "CHEC PROTEIC CU LĂMÂIE SI AFINE",
+  "servings": 8,
+  "minutes": 50,
+  "kcal": 145,
+  "description": "Un chec proteic fin, aromat cu lămâie și afine — perfect ca gustare dulce, răcoritoare și sănătoasă, ideal pentru întreaga familie.",
+  "ingredients": [
+   "2 ouă întregi",
+   "1 albuș",
+   "250 g iaurt grecesc 2%",
+   "Poți folosi și cremă de brânză slabă tartinabilă",
+   "40 g amidon alimentar",
+   "1 praf de sare",
+   "5 ml zeamă de lămâie",
+   "100 g stevia sau",
+   "20 ml îndulcitor lichid",
+   "Coaja rasă de la 1 lămâie",
+   "Esență de vanilie (opțional)",
+   "[Opțional] 50–",
+   "100 g afine sau alte fructe"
+  ],
+  "steps": [
+   "Amestecă toate ingredientele într-un bol (pentru o textură mai aerată, bate albușul separat și adaugă-l la final).",
+   "Toarnă în formă mică de cheesecake sau 2 ramekine.",
+   "Coace: 10 min la microunde, 30 min în air fryer (165°C) sau 40 min în cuptor (175°C).",
+   "Lasă la rece 2–3 ore pentru consistență perfectă."
+  ],
+  "portion": "~200 g",
+  "protein": 9.5,
+  "carbs": 18.0,
+  "fat": 4.2,
+  "allergens": "ouă, lactoză (iaurt), potențial gluten (dacă amidonul nu este certificat fără gluten)",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal proteic.",
+  "tips": [
+   "Poți adăuga 10 g semințe de mac sau chia pentru extra fibre.",
+   "Pentru o variantă fără gluten, folosește amidon de porumb certificat fără gluten."
+  ],
+  "page": 136,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "SNICKERS LIGHT",
+  "servings": 6,
+  "minutes": 20,
+  "kcal": 210,
+  "description": "Un Snickers reinventat — cremos, crocant și fără zahăr adăugat, ideal pentru un desert light care păstrează gustul clasic, dar cu ingrediente mult mai sănătoase.",
+  "ingredients": [
+   "2 rondele de orez expandat (fărâmițate fin)",
+   "80 g unt de arahide natural (fără zahăr sau uleiuri hidrogenate)",
+   "60 g miere sau",
+   "25 g stevia/îndulcitor lichid",
+   "20 g arahide prăjite nesărate, tocate grosier",
+   "PENTRU TOPPING DE CIOCOLATĂ:",
+   "20 g ciocolată neagră (>75%) topită",
+   "80 ml lapte (1.5% sau vegetal)",
+   "25 g cacao pudră",
+   "1 praf de sare",
+   "25 g stevia sau îndulcitor lichid (după gust)"
+  ],
+  "steps": [
+   "Zdrobește rondelele de orez și amestecă-le cu untul de arahide, mierea și arahidele.",
+   "Pune în formă tapetată și tasează bine.",
+   "Topește ciocolata, adaugă laptele cald, cacaoa, îndulcitorul și sarea – amestecă până devine o cremă.",
+   "Toarnă peste bază, nivelează și lasă la frigider 2–3 ore. Taie în 6 bucăți."
+  ],
+  "portion": "~200 g",
+  "protein": 7.2,
+  "carbs": 17.0,
+  "fat": 13.5,
+  "allergens": "arahide, lactoză (lapte și ciocolată), gluten (dacă rondelele nu sunt fără gluten)",
+  "variants": "Pentru o variantă fără arahide, folosește unt de migdale sau caju.",
+  "tips": [
+   "Servește ca gustare post-antrenament sau desert bogat în grăsimi sănătoase.",
+   "Pentru o variantă fără lactoză, folosește lapte vegetal și ciocolată fără lactoză."
+  ],
+  "page": 137,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "BATON MARS SĂNĂTOS",
+  "servings": 8,
+  "minutes": 30,
+  "kcal": 235,
+  "description": "Un baton tip Mars, dar varianta sănătoasă — cremos, caramelos și cu strat crocant de ciocolată, făcut doar din ingrediente curate. Perfect când vrei un desert care arată bine și te face să te simți bine.",
+  "ingredients": [
+   "150 g caju (hidratat 3–4 ore sau peste noapte)",
+   "100 g iaurt grecesc 2%",
+   "50 g miere",
+   "5 g gelatină (hidratată în 2 linguri apă rece și dizolvată la aburi)",
+   "Strat caramel (tip „nugat”):",
+   "150 g curmale fără sâmburi (hidratate în apă caldă 10–15 min)",
+   "80 g unt de arahide natural",
+   "75 g făină de cocos",
+   "Strat de ciocolata:",
+   "80 g ciocolată neagră (minim 75% cacao)"
+  ],
+  "steps": [
+   "Mixează caju-ul cu iaurtul și mierea, adaugă gelatina dizolvată și toarnă într-o tavă. Pune la frigider 30 min.",
+   "Pentru „caramel”, mixează curmalele cu untul de arahide și făina de cocos, apoi întinde peste baza întărită.",
+   "Pentru stratul de ciocolată, topește ciocolata în laptele de cocos cald, amestecă până devine ganache și toarnă deasupra.",
+   "Lasă la frigider 3 ore sau peste noapte, apoi taie în batoane"
+  ],
+  "portion": "~200 g",
+  "protein": 6.8,
+  "carbs": 23.0,
+  "fat": 14.5,
+  "allergens": "nuci (caju, arahide), lactoză (iaurt), potențial gluten (dacă curmalele nu sunt certificate fără urme)",
+  "variants": "Pentru o variantă fără caju, folosește migdale hidratate sau semințe de floarea-soarelui.",
+  "tips": [
+   "Se păstrează la frigider până la 7 zile sau în congelator până la 30 zile.",
+   "Pentru o variantă fără lactoză, folosește iaurt vegetal proteic."
+  ],
+  "page": 138,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "TERCI DE OVAZ TIRAMISU SĂNĂTOS",
+  "servings": 1,
+  "minutes": 10,
+  "kcal": 330,
+  "description": "Un mic dejun inspirat din tiramisu — cremos, aromat și plin de proteine, ideal când vrei ceva dulce, sănătos și rapid de pregătit.",
+  "ingredients": [
+   "45 g fulgi de ovăz",
+   "150 ml lapte 1.5% (sau vegetal)",
+   "1 shot espresso (sau 40 ml cafea tare)",
+   "1 g sare",
+   "[Opțional] îndulcitor lichid după gust",
+   "Crema:",
+   "300 g iaurt grecesc 2%",
+   "Esență de vanilie (după gust)",
+   "Îndulcitor natural (ex. stevia, green sugar eritritol)"
+  ],
+  "steps": [
+   "Amestecă ovăzul cu laptele, cafeaua, sarea și îndulcitorul."
+  ],
+  "portion": "~200 g",
+  "protein": 27.0,
+  "carbs": 32.0,
+  "fat": 8.0,
+  "allergens": "lactoză (iaurt, lapte), gluten (din ovăz – dacă nu este certificat fără gluten)",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt și lapte vegetal.",
+  "tips": [
+   "Servește rece pentru un gust autentic de tiramisu.",
+   "Pentru o variantă fără gluten, folosește ovăz certificat fără gluten."
+  ],
+  "page": 139,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "TORT (PLĂCINTĂ) CU MERE",
+  "servings": 6,
+  "minutes": 55,
+  "kcal": 115,
+  "description": "Un tort ușor de mere, cu puține ingrediente și multă savoare — perfect când vrei un desert fresh, light și gata rapid.",
+  "ingredients": [
+   "3 mere medii (aprox. 400 g)",
+   "2 ouă",
+   "200 g iaurt grecesc 2% (ex. Pilos, Olympus Zuzu)",
+   "[Opțional]",
+   "30 g amidon alimentar (pentru o textură mai densă și fermă)"
+  ],
+  "steps": [
+   "Rade sau pasează merele, apoi amestecă-le cu ouăle, iaurtul și (opțional) amidonul până obții o compoziție omogenă. Toarnă într-o tavă mică tapetată.",
+   "Coace la 165°C în air fryer 35 min (cu puțină apă în cuvă) sau în cuptor 45 min la 180°C.",
+   "Lasă la răcit complet înainte de servire."
+  ],
+  "portion": "~200 g",
+  "protein": 5.8,
+  "carbs": 16.0,
+  "fat": 3.5,
+  "allergens": "ouă, lactoză (iaurt)",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal proteic.",
+  "tips": [
+   "Servește cu o lingură de iaurt rece sau cu fructe de pădure.",
+   "Pentru o variantă mai bogată în fibre, adaugă 10 g tărâțe de ovăz în compoziție."
+  ],
+  "page": 140,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "BUDINCĂ KINDER BUENO",
+  "servings": 1,
+  "minutes": 30,
+  "kcal": 475,
+  "description": "O budincă inspirată din Kinder Bueno — cremoasă, proteică și super aromată, ideală când vrei un desert rapid și sănătos, cu gust intens de cacao și alune.",
+  "ingredients": [
+   "Baza:",
+   "40 g fulgi de ovăz",
+   "100 ml apă",
+   "50 g lapte",
+   "1.5% sau vegetal (ex. migdale, ovăz), 1 praf de sare, [Opțional] îndulcitor lichid sau stevia după gust",
+   "După fierbere:",
+   "150 g iaurt grecesc 2%",
+   "15 g unt de arahide natural,15 g lapte praf (sau pudră proteică vanilie/cacao – opțional)",
+   "Pentru topping:",
+   "20 g stevia sau",
+   "1 linguriță îndulcitor lichid pudră"
+  ],
+  "steps": [
+   "Fierbe ovăzul cu apă, lapte și sare 5–6 minute, apoi lasă-l 2– 3 minute să se răcească.",
+   "Încorporează iaurtul, untul de arahide și pudra proteică.",
+   "Pentru topping, amestecă îndulcitorul cu laptele și cacaoa până devine o cremă fină.",
+   "Toarnă peste budincă și lasă la frigider 20 minute pentru o textură răcoritoare și fermă."
+  ],
+  "portion": "~200 g",
+  "protein": 29.0,
+  "carbs": 49.0,
+  "fat": 17.0,
+  "allergens": "arahide, lactoză (iaurt, lapte, lapte praf), gluten (ovăz – dacă nu este certificat fără gluten)",
+  "variants": "Pentru o variantă fără arahide, folosește unt de migdale sau de semințe de floarea-soarelui.",
+  "tips": [
+   "Pentru un plus de proteine, adaugă 15 g pudră proteică în bază.",
+   "Pentru o variantă fără lactoză, folosește iaurt vegetal și lapte vegetal"
+  ],
+  "page": 141,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "BUDINCĂ PROTEICĂ CU IAURT GRECESC ȘI SEMINȚE DE CHIA",
+  "servings": 2,
+  "minutes": 10,
+  "kcal": 245,
+  "description": "O budincă proteică simplă și cremoasă, cu iaurt grecesc și semințe de chia — desert sau mic dejun rapid, hrănitor și plin de textură.",
+  "ingredients": [
+   "250 g iaurt grecesc cu conținut ridicat de proteine",
+   "25 g semințe de chia",
+   "1 lingură generoasă de miere (~20 g)",
+   "Pentru topping:",
+   "20 g cacao pudră",
+   "1 lingură miere (~20 g)",
+   "45 ml lapte (1.5% sau vegetal)"
+  ],
+  "steps": [
+   "Amestecă bine într-un bol mare iaurtul, semințele de chia și mierea.",
+   "Împarte compoziția în două recipiente sau pahare.",
+   "Lasă la frigider minim 3 ore (sau peste noapte), pentru ca semințele de chia să se umfle și să obții o textură cremoasă.",
+   "Pentru topping, amestecă cacaoa cu mierea și laptele până obții o cremă fină și toarn-o deasupra fiecărei porții."
+  ],
+  "portion": "~200 g",
+  "protein": 18.0,
+  "carbs": 22.0,
+  "fat": 9.0,
+  "allergens": "lactoză (iaurt), potențial miere (pentru persoane cu alergii rare la produse apicole)",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal proteic.",
+  "tips": [
+   "Pentru un plus de fibre, adaugă 10 g semințe de in măcinate."
+  ],
+  "page": 142,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "PRĂJITURĂ CU CĂPSUNI ȘI CIOCOLATĂ",
+  "servings": 6,
+  "minutes": 20,
+  "kcal": 235,
+  "description": "O prăjitură fresh și super cremoasă, cu ciocolată și căpșuni — fără gluten, fără zahăr și perfectă pentru un desert răcoritor, ușor și elegant.",
+  "ingredients": [
+   "120 g biscuiți sau fursecuri fără gluten",
+   "80 g unt de arahide cremos (natural)",
+   "40 g miere sau sirop de agave",
+   "1 lingură cacao",
+   "Pentru crema:",
+   "1 conservă (400 ml) lapte de cocos gras",
+   "300 g ciocolată neagră (60–80% cacao)",
+   "1 linguriță esență de vanilie",
+   "500 g căpșuni"
+  ],
+  "steps": [
+   "Zdrobește biscuiții, amestecă-i cu cacao, miere și unt de arahide, presează în tavă și coace 5–6 minute la 180°C.",
+   "Lasă la răcit. Între timp, încălzește laptele de cocos, adaugă ciocolata și vanilia, apoi lasă să se tempereze.",
+   "Așază căpșunile tăiate pe blat, toarnă crema de ciocolată, scutură ușor tava și dă la frigider câteva ore (ideal peste noapte).",
+   "Presară cacao și taie în 12 porții."
+  ],
+  "portion": "~200 g",
+  "protein": 4.5,
+  "carbs": 21.0,
+  "fat": 16.0,
+  "allergens": "arahide, cocos, potențial gluten (dacă biscuiții nu sunt certificați fără gluten)",
+  "variants": "Pentru o variantă fără arahide, folosește unt de migdale sau caju.",
+  "tips": [
+   "Înlocuiește căpșunile cu zmeură sau afine pentru un gust diferit.",
+   "Pentru o variantă mai ușoară, înlocuiește laptele de cocos cu 200 g iaurt grecesc 2%."
+  ],
+  "page": 143,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "BROWNIE ESPRESSO CU BANANĂ",
+  "servings": 8,
+  "minutes": 20,
+  "kcal": 90,
+  "description": "Un brownie intens, cu aromă de espresso și dulceață naturală din banane — desert rapid, energizant și fără zahăr adăugat.",
+  "ingredients": [
+   "1 banană bine coaptă",
+   "10 g cacao pudră",
+   "25 ml espresso (sau cafea tare)",
+   "1 praf mic de sare",
+   "[Opțional] 1 ou (pentru textură mai densă)",
+   "1 vârf de cuțit praf de copt",
+   "25 g făină de ovăz (sau ovăz măcinat fin)",
+   "[Opțional] îndulcitor natural după gust"
+  ],
+  "steps": [
+   "Pasează banana și amestec-o cu cafeaua, oul (opțional), cacao, făină de ovăz, praf de copt, sare și îndulcitor până obții o compoziție omogenă.",
+   "Toarnă în formă tapetată.",
+   "Coace la microunde 2 min, în air fryer 12 min la 165°C sau la cuptor 15 min la 175°C."
+  ],
+  "portion": "~200 g",
+  "protein": 2.4,
+  "carbs": 14.0,
+  "fat": 2.5,
+  "allergens": "ouă (doar dacă se adaugă), gluten (din ovăz – dacă nu este certificat fără gluten)",
+  "variants": "Pentru o variantă fără gluten, folosește ovăz certificat fără gluten.",
+  "tips": [
+   "Servește cu o lingură de iaurt grecesc 2% sau o glazură light de cacao.",
+   "Pentru o variantă mai energizantă, adaugă 1 linguriță pudră de cafea instant în compoziție."
+  ],
+  "page": 144,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "PRĂJITURĂ MOCHA PENTRU SLĂBIT",
+  "servings": 8,
+  "minutes": 40,
+  "kcal": 185,
+  "description": "O prăjitură mocha ușoară, aromată și bogată în proteine — perfectă pentru slăbit, cu gust intens de cafea și ciocolată, dar cu foarte puține calorii.",
+  "ingredients": [
+   "2 ouă întregi, 3 albușuri",
+   "200 ml lapte 1.5%, 2 lingurițe cafea instant",
+   "40 g cacao pudră neîndulcită",
+   "250 g brânză cottage slabă fulgi de ovăz",
+   "5 g praf de copt",
+   "2 g sare, 2 g esență de vanilie",
+   "Crema:",
+   "200 g iaurt grecesc (ex. Hercules sau alt iaurt cu gust neutru, nu acrișor), 1 linguriță cafea instant, Îndulcitor natural (stevia eritritol) – după gust, dar dulce intens"
+  ],
+  "steps": [
+   "Mixează toate ingredientele pentru blat într-un blender și toarnă compoziția într-o tavă tapetată.",
+   "Coace 30 min la 165°C și lasă la răcit.",
+   "Amestecă iaurtul cu cafeaua instant și îndulcitorul, apoi întinde crema peste blat.",
+   "Servește cald sau rece."
+  ],
+  "portion": "~200 g",
+  "protein": 17.0,
+  "carbs": 16.0,
+  "fat": 5.8,
+  "allergens": "ouă, lactoză (iaurt, brânză), gluten (din ovăz – dacă nu este certificat fără gluten)",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal și brânză cottage fără lactoză.",
+  "tips": [
+   "Pentru o variantă fără gluten, folosește ovăz certificat fără gluten."
+  ],
+  "page": 145,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "GOGOȘI CARROT CAKE ÎN 5 MINUTE",
+  "servings": 8,
+  "minutes": 30,
+  "kcal": 90,
+  "description": "Gogoși tip carrot cake, gata în doar 5 minute — pufoase, aromate și făcute din ingrediente simple, perfecte pentru o gustare sănătoasă și rapidă.",
+  "ingredients": [
+   "2 morcovi medii (curățați și tăiați bucăți)",
+   "2 ouă",
+   "10 curmale fără sâmburi (hidratate 5–10 min în apă caldă, opțional)",
+   "30–",
+   "40 g făină de ovăz (sau fulgi de ovăz blenduiți fin)",
+   "3–",
+   "5 g praf de copt",
+   "Scorțișoară după gust (1/2 – 1 linguriță)"
+  ],
+  "steps": [
+   "Pune toate ingredientele în blender și mixează până obții o compoziție omogenă.",
+   "Toarnă compoziția în forme de silicon pentru gogoși, brioșe sau tavă mică tapetată."
+  ],
+  "portion": "~200 g",
+  "protein": 3.2,
+  "carbs": 14.0,
+  "fat": 2.6,
+  "allergens": "ouă, gluten (dacă ovăzul nu este certificat fără gluten)",
+  "variants": "Pentru o variantă fără ouă, folosește 150 ml aquafaba sau 2 linguri semințe de in + 6 linguri apă.",
+  "tips": [
+   "Servește cu iaurt grecesc rece pentru un mic dejun sau gustare proteică.",
+   "Pentru o variantă fără gluten, folosește ovăz certificat fără gluten."
+  ],
+  "page": 146,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "LOAF CAKE CU NUCI ȘI CIOCOLATĂ",
+  "servings": 6,
+  "minutes": 45,
+  "kcal": 265,
+  "description": "Un loaf cake fin, dulce natural din curmale, cu nuci crocante și fulgi de ciocolată — desert sănătos, fără zahăr adăugat și ideal pentru întreaga familie.",
+  "ingredients": [
+   "15 curmale deshidratate",
+   "240 ml lapte călduț (1.5% sau vegetal)",
+   "60 g nuci (tocate grosier)",
+   "30 g fulgi de ciocolată sau ciocolată fără zahăr (tocată cuburi mici)",
+   "1 linguriță praf de copt",
+   "150 g făină (albă, de ovăz sau migdale – după preferință)",
+   "3 ouă"
+  ],
+  "steps": [
+   "Hidratează curmalele 20 min în lapte cald, apoi blenduiește-le până devin pastă.",
+   "Adaugă ouăle, făina și praful de copt, apoi încorporează nucile și fulgii de ciocolată.",
+   "Toarnă într-o tavă tapetată."
+  ],
+  "portion": "~200 g",
+  "protein": 9.2,
+  "carbs": 26.0,
+  "fat": 14.5,
+  "allergens": "ouă, nuci, gluten (dacă se folosește făină de grâu sau ovăz)",
+  "variants": "Pentru o variantă fără gluten, folosește făină de migdale sau de cocos.",
+  "tips": [
+   "Servește cu iaurt grecesc și fructe proaspete pentru un mic dejun complet.",
+   "Pentru o variantă fără nuci, înlocuiește nucile cu semințe de dovleac sau floarea-soarelui."
+  ],
+  "page": 147,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "BOL PROTEIC CU IAURT ȘI FRUCTE",
+  "servings": 1,
+  "minutes": 10,
+  "kcal": 340,
+  "description": "Un bol proteic fresh și energizant, plin de texturi și arome — iaurt cremos, fructe, granola crocantă și superfoods pentru un mic dejun rapid și sănătos.",
+  "ingredients": [
+   "200 g iaurt grecesc degresat sau cu 2% grăsime",
+   "10 g miere (sau îndulcitor, pentru o variantă mai low-cal)",
+   "80 g afine (proaspete sau congelate)",
+   "20 g granola proteică (ex. Harvest Morn – disponibilă la Lidl)",
+   "1 linguriță semințe de chia",
+   "1 lingură goji uscate",
+   "1 lingură nibs de cacao (sau ciocolată neagră 85% tocată)",
+   "1 linguriță pudră de cacao",
+   "1 linguriță pudră de maca ( opțional )"
+  ],
+  "steps": [
+   "Într-un bol, adaugă iaurtul grecesc rece.",
+   "Toarnă mierea deasupra și amestecă ușor.",
+   "Adaugă afinele, granola, semințele de chia, goji, nibs de cacao, pudra de cacao și pudra de maca.",
+   "Poți lăsa în straturi pentru estetică sau poți amesteca totul înainte de consum.",
+   "Servește imediat pentru un mic dejun fresh sau gustare energizantă."
+  ],
+  "portion": "din care fibre: ~9 g",
+  "protein": 22.0,
+  "carbs": 36.0,
+  "fat": 11.0,
+  "allergens": "lactoză (iaurt), gluten (posibil din granola), fructe uscate (goji)",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal proteic.",
+  "tips": [
+   "Înlocuiește afinele cu zmeură sau căpșuni pentru mai puține calorii.",
+   "Pentru o variantă fără gluten, folosește granola fără gluten."
+  ],
+  "page": 148,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "CHEESECAKE KINDER VARIANTĂ RAPIDĂ ȘI SĂNĂTOASĂ",
+  "servings": 8,
+  "minutes": 55,
+  "kcal": 215,
+  "description": "Un cheesecake inspirat din Kinder — cremos, ciocolatos și surprinzător de sănătos, cu doar câteva ingrediente ușoare și fără zahăr adăugat.",
+  "ingredients": [
+   "200 g ciocolată fără zahăr (min. 75% cacao – ex. Sweeteria, Torras, Green Sugar)",
+   "350 g brânză slabă de vaci sau iaurt grecesc 2% (cu min. 10% proteine)",
+   "4 ouă întregi"
+  ],
+  "steps": [
+   "Topește ciocolata (bain-marie sau microunde).",
+   "Amestecă ouăle cu brânza sau iaurtul, adaugă ciocolata topită și mixează bine.",
+   "Toarnă compoziția într-o formă tapetată (18–20 cm).",
+   "Coace 45 min la 175°C (cuptor) sau 35 min la 165°C (air fryer, cu apă în cuvă).",
+   "Lasă la răcit complet, apoi dă la frigider 2–3 ore."
+  ],
+  "portion": "~200 g",
+  "protein": 11.0,
+  "carbs": 10.0,
+  "fat": 15.0,
+  "allergens": "ouă, lactoză (iaurt/brânză), soia (posibil din ciocolată)",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal proteic și ciocolată fără lactoză.",
+  "tips": [
+   "Servește cu fructe de pădure proaspete sau cu 1 lingură de iaurt cremos deasupra.",
+   "Pentru o variantă săracă în grăsimi, înlocuiește jumătate din ciocolată cu 100 g cremă de brânză light."
+  ],
+  "page": 149,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "BUDINCĂ DE CHIA CU FRUCTE DE PĂDURE",
+  "servings": 2,
+  "minutes": 10,
+  "kcal": 195,
+  "description": "O budincă fresh, cremoasă și bogată în fibre — combinația perfectă dintre chia, iaurt și fructe de pădure pentru un mic dejun sănătos sau o gustare răcoritoare.",
+  "ingredients": [
+   "300g iaurt grecesc 0%",
+   "30g semințe de chia",
+   "1-2 lingurițe îndulcitor lichid sau stevia",
+   "100g fructe de pădure (topping)"
+  ],
+  "steps": [
+   "Amestecă iaurtul, chia și îndulcitorul.",
+   "Lasă la frigider minim 3 ore.",
+   "Servește cu fructe de pădure."
+  ],
+  "portion": "~200 g",
+  "protein": 15.0,
+  "carbs": 15.0,
+  "fat": 7.5,
+  "allergens": "lactoză (iaurt)",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal proteic.",
+  "tips": [
+   "Pentru mai multe proteine, adaugă 10 g pudră proteică cu aromă de vanilie.",
+   "Pentru un plus de fibre, adaugă 1 lingură de semințe de in măcinate sau tărâțe de ovăz."
+  ],
+  "page": 150,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "BUDINCĂ DE CHIA CU BANANĂ ȘI SCORȚISOARĂ",
+  "servings": 2,
+  "minutes": 10,
+  "kcal": 220,
+  "description": "O budincă cremoasă și aromată, cu chia, iaurt și banană — desert sau mic dejun sănătos, rapid și cu un gust delicios de scorțișoară.",
+  "ingredients": [
+   "300g iaurt grecesc 0%",
+   "30g semințe de chia",
+   "1-2 lingurițe îndulcitor lichid sau stevia",
+   "1 banană feliată (topping) scorțișoară"
+  ],
+  "steps": [
+   "Amestecă iaurtul, chia și îndulcitorul.",
+   "Lasă la frigider minim 3 ore.",
+   "Adaugă banană feliată și scorțișoară"
+  ],
+  "portion": "~200 g",
+  "protein": 14.0,
+  "carbs": 26.0,
+  "fat": 6.0,
+  "allergens": "lactoză (iaurt)",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal proteic.",
+  "tips": [
+   "Pentru un plus de proteine, adaugă 10 g pudră proteică cu aromă de vanilie."
+  ],
+  "page": 151,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "BUDINCĂ DE CHIA CU UNT DE ARAHIDE SI FULGI DE CIOCOLATĂ",
+  "servings": 2,
+  "minutes": 10,
+  "kcal": 255,
+  "description": "O budincă densă, cremoasă și super satisfăcătoare — combinația perfectă dintre chia, unt de arahide și fulgi de ciocolată pentru un desert sănătos și delicios.",
+  "ingredients": [
+   "300g iaurt grecesc 0%",
+   "30g semințe de chia",
+   "1-2 lingurițe îndulcitor lichid sau stevia",
+   "15g unt de arahide (topping)",
+   "10g fulgi de ciocolată fără zahăr (topping)"
+  ],
+  "steps": [
+   "Amestecă iaurtul, chia și îndulcitorul.",
+   "Lasă la frigider minim 3 ore.",
+   "Adaugă unt de arahide și fulgii de ciocolată."
+  ],
+  "portion": "~200 g",
+  "protein": 15.0,
+  "carbs": 15.0,
+  "fat": 15.0,
+  "allergens": "arahide, lactoză (iaurt)",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal proteic.",
+  "tips": [
+   "Pentru o variantă fără arahide, folosește unt de migdale sau semințe de floarea-soarelui."
+  ],
+  "page": 152,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "BUDINCĂ DE CHIA CU PIURE DE MANGO ȘI FISTIC",
+  "servings": 2,
+  "minutes": 10,
+  "kcal": 235,
+  "description": "O budincă exotică, cremoasă și fresh — combinația perfectă dintre chia, iaurt și piure de mango, completată de crocantul fisticului.",
+  "ingredients": [
+   "300g iaurt grecesc 0%",
+   "30g semințe de chia",
+   "1-2 lingurițe îndulcitor lichid sau stevia",
+   "100g piure de mango (topping)",
+   "10g fistic tocat (topping)"
+  ],
+  "steps": [
+   "Amestecă iaurtul, chia și îndulcitorul.",
+   "Lasă la frigider minim 3 ore.",
+   "Adaugă piure de mango și fistic."
+  ],
+  "portion": "~200 g",
+  "protein": 14.0,
+  "carbs": 22.0,
+  "fat": 8.0,
+  "allergens": "lactoză (iaurt), fistic (fructe cu coajă)",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal proteic.",
+  "tips": [
+   "Pentru o variantă fără fistic, folosește migdale, semințe de dovleac sau fulgi de cocos."
+  ],
+  "page": 153,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "BUDINCĂ DE CHIA CU SOS CARAMEL DE CURMALE",
+  "servings": 2,
+  "minutes": 10,
+  "kcal": 245,
+  "description": "O budincă cremoasă și nutritivă, cu topping de caramel din curmale — un desert sănătos, natural dulce și perfect pentru pofta de ceva fin.",
+  "ingredients": [
+   "300g iaurt grecesc 0%",
+   "30g semințe de chia",
+   "1-2 lingurițe îndulcitor lichid sau stevia",
+   "30g curmale +",
+   "30g lapte 1.5% (blend pentru sos caramel)"
+  ],
+  "steps": [
+   "Amestecă iaurtul, chia și îndulcitorul.",
+   "Lasă la frigider minim 3 ore.",
+   "La servire, adaugă sosul caramel de curmale."
+  ],
+  "portion": "~200 g",
+  "protein": 9.5,
+  "carbs": 36.0,
+  "fat": 8.5,
+  "allergens": "lactoză (lapte)",
+  "variants": "Pentru o variantă fără lactoză, folosește lapte vegetal (migdale, ovăz, cocos).",
+  "tips": [
+   "Pentru o variantă cu aromă intensă, adaugă 1 lingură pudră de cacao în sosul caramel."
+  ],
+  "page": 154,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "BUDINCĂ DE CHIA CU MERE SI SCORȚISOARĂ",
+  "servings": 2,
+  "minutes": 10,
+  "kcal": 220,
+  "description": "O budincă fresh și aromată, combinația ideală dintre chia, iaurt cremos, măr răzuit și un strop de scorțișoară pentru un gust de toamnă sănătos.",
+  "ingredients": [
+   "300g iaurt grecesc 0%",
+   "30g semințe de chia",
+   "1-2 lingurițe îndulcitor",
+   "1 măr ras scorțișoară"
+  ],
+  "steps": [
+   "Amestecă iaurtul, chia și îndulcitorul.",
+   "Lasă la frigider minim 3 ore.",
+   "Adaugă mărul ras și scorțișoara."
+  ],
+  "portion": "~200 g",
+  "protein": 14.5,
+  "carbs": 28.0,
+  "fat": 5.5,
+  "allergens": "lactoză (iaurt)",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal proteic (soia sau cocos).",
+  "tips": [
+   "Pentru o variantă cu conținut redus de zahăr, folosește măr copt fără adaos de îndulcitor."
+  ],
+  "page": 155,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "BUDINCĂ DE CHIA CU COCOS ȘI ANANAS",
+  "servings": 2,
+  "minutes": 10,
+  "kcal": 260,
+  "description": "O budincă exotică și răcoritoare, cu textură cremoasă și aromă tropicală — combinația perfectă dintre chia, cocos și ananas.",
+  "ingredients": [
+   "300g iaurt grecesc 0%",
+   "30g chia",
+   "1-2 lingurițe îndulcitor",
+   "20g fulgi de cocos",
+   "80g bucăți de ananas"
+  ],
+  "steps": [
+   "Amestecă iaurtul, chia și îndulcitorul.",
+   "Lasă la frigider minim 3 ore.",
+   "Adaugă fulgii de cocos și ananasul."
+  ],
+  "portion": "~200 g",
+  "protein": 15.0,
+  "carbs": 28.0,
+  "fat": 9.0,
+  "allergens": "lactoză (iaurt), cocos",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal proteic (soia sau cocos).",
+  "tips": [
+   "Pentru o variantă mai săracă în grăsimi, redu fulgii de cocos la 10 g."
+  ],
+  "page": 156,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "BUDINCĂ DE CHIA CU CACAO ȘI CĂPȘUNI",
+  "servings": 2,
+  "minutes": 10,
+  "kcal": 230,
+  "description": "O budincă cremoasă și ciocolatoasă, completată perfect de prospețimea căpșunilor — desert sănătos, rapid și super delicios.",
+  "ingredients": [
+   "300g iaurt grecesc 0%",
+   "30g chia",
+   "1-2 lingurițe îndulcitor",
+   "1 lingură cacao",
+   "100g căpșuni feliate"
+  ],
+  "steps": [
+   "Amestecă iaurtul, chia, cacao și îndulcitorul.",
+   "Lasă la frigider minim 3 ore.",
+   "Adaugă căpșunile la servire."
+  ],
+  "portion": "~200 g",
+  "protein": 15.0,
+  "carbs": 25.0,
+  "fat": 7.0,
+  "allergens": "lactoză (iaurt)",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal proteic (soia sau cocos).",
+  "tips": [
+   "Poți adăuga 5 g ciocolată neagră >85% rasă deasupra pentru o textură crocantă.",
+   "Pentru o variantă mai intensă în gust, dublează cantitatea de cacao și adaugă 1 linguriță esență de vanilie."
+  ],
+  "page": 157,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "BUDINCĂ DE CHIA CU LĂMÂIE ȘI SEMINȚE DE MAC",
+  "servings": 2,
+  "minutes": 10,
+  "kcal": 215,
+  "description": "O budincă fresh, citrică și super lejeră — combinația ideală dintre iaurt, chia și aroma revigorantă de lămâie cu semințe de mac.",
+  "ingredients": [
+   "300g iaurt grecesc 0%",
+   "30g chia",
+   "1-2 lingurițe îndulcitor coaja rasă de la 1 lămâie",
+   "1 linguriță semințe de mac"
+  ],
+  "steps": [
+   "Amestecă iaurtul, chia, îndulcitorul și coaja de lămâie.",
+   "Lasă la frigider minim 3 ore.",
+   "Presară semințele de mac înainte de servire."
+  ],
+  "portion": "~200 g",
+  "protein": 14.0,
+  "carbs": 20.0,
+  "fat": 7.0,
+  "allergens": "lactoză (iaurt), semințe (mac)",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal proteic.",
+  "tips": [
+   "Dacă vrei un plus de aromă, adaugă 1/2 linguriță extract natural de vanilie.",
+   "Pentru o variantă săracă în grăsimi, înlocuiește 50% din iaurt cu iaurt degresat 0.1% sau skyr."
+  ],
+  "page": 158,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "BUDINCĂ DE CHIA CU PIURE DE FRUCTE TROPICALE",
+  "servings": 2,
+  "minutes": 10,
+  "kcal": 225,
+  "description": "O budincă exotică, fină și răcoritoare — chia cremoasă combinată cu piure de fructe tropicale pentru un mic dejun sau desert sănătos, plin de aromă.",
+  "ingredients": [
+   "300g iaurt grecesc 0%",
+   "30g chia",
+   "1-2 lingurițe îndulcitor",
+   "100g piure de fructe tropicale (mango papaya, ananas)"
+  ],
+  "steps": [
+   "Amestecă iaurtul, chia și îndulcitorul.",
+   "Lasă la frigider minim 3 ore.",
+   "Adaugă piureul de fructe tropicale la servire."
+  ],
+  "portion": "~200 g",
+  "protein": 14.5,
+  "carbs": 26.0,
+  "fat": 7.0,
+  "allergens": "lactoză (iaurt)",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal proteic (ex. soia sau cocos).",
+  "tips": [
+   "Servește rece și presară deasupra câteva semințe de chia sau nucă de cocos.",
+   "Pentru o variantă cu conținut redus de zahăr, înlocuiește piureul cu 100 g fructe de pădure blenduite."
+  ],
+  "page": 159,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "CHEESECAKE CU IAURT GRECESC SI FRUCTE DE PĂDURE",
+  "servings": 6,
+  "minutes": 35,
+  "kcal": 110,
+  "description": "Un mini-cheesecake simplu, light și aromat, făcut cu iaurt grecesc și fructe de pădure — desert sănătos, rapid și plin de prospețime",
+  "ingredients": [
+   "200 g iaurt grecesc 2%",
+   "1 ou",
+   "30 g fulgi de ovăz",
+   "10 g miere",
+   "50 g fructe de pădure"
+  ],
+  "steps": [
+   "Amestecă iaurtul cu oul, mierea și ovăzul.",
+   "Pune într-o formă mică de copt.",
+   "Coace 25–30 min la 170°C.",
+   "Adaugă fructele de pădure deasupra după răcire."
+  ],
+  "portion": "~200 g",
+  "protein": 7.5,
+  "carbs": 11.0,
+  "fat": 4.5,
+  "allergens": "lactoză (iaurt), ou, gluten (ovăz)",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal proteic.",
+  "tips": [
+   "Poți adăuga 1 linguriță esență de vanilie sau coajă de lămâie pentru un plus de aromă.",
+   "Pentru o variantă fără gluten, înlocuiește ovăzul cu fulgi de quinoa sau făină de migdale."
+  ],
+  "page": 160,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "BUDINCĂ DE CHIA CU BRÂNZĂ DULCE SI BANANĂ",
+  "servings": 2,
+  "minutes": 10,
+  "kcal": 210,
+  "description": "Un desert cremos, fin și natural dulce — combinația perfectă dintre brânză dulce, banană și chia pentru o gustare ușoară și delicioasă.",
+  "ingredients": [
+   "150 ml lapte 1.5%",
+   "15 g semințe chia",
+   "80 g banană",
+   "70 g brânză dulce 5% esență vanilie"
+  ],
+  "steps": [
+   "Amestecă laptele cu chia și vanilia.",
+   "Lasa la rece 20–30 min.",
+   "Pasează banana și amestec-o cu brânza.",
+   "Combină totul într-un borcan sau bol."
+  ],
+  "portion": "~200 g",
+  "protein": 12.0,
+  "carbs": 22.0,
+  "fat": 7.0,
+  "allergens": "lactoză (lapte, brânză)",
+  "variants": "Pentru o variantă fără lactoză, folosește lapte vegetal și brânză proteică din soia.",
+  "tips": [
+   "Dacă vrei o textură și mai fină, poți amesteca la 10 minute după ce ai pus-o în lapte – previi cocoloașele.",
+   "Pentru un gust mai dulce, adaugă 1–2 picături de stevia sau puțină scorțișoară."
+  ],
+  "page": 161,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "TERCI DE OVAZ CU MERE ȘI SCORȚISOARĂ",
+  "servings": 2,
+  "minutes": 10,
+  "kcal": 200,
+  "description": "Un desert cald, cremos și aromat — ovăz fiert cu măr și scorțișoară, perfect pentru pofta de ceva dulce, reconfortant și sănătos.",
+  "ingredients": [
+   "50 g fulgi de ovăz",
+   "200 ml lapte degresat",
+   "1 măr ras",
+   "Scorțișoară",
+   "Îndulcitor (după gust)"
+  ],
+  "steps": [
+   "Fierbe ovăzul în lapte 6–8 minute, adaugă mărul ras, scorțișoara și îndulcitorul.",
+   "Amestecă bine."
+  ],
+  "portion": "~200 g",
+  "protein": 7.0,
+  "carbs": 34.0,
+  "fat": 3.0,
+  "allergens": "gluten (ovăz), lactoză (lapte)",
+  "variants": "Pentru o variantă fără lactoză, folosește lapte vegetal (ovăz, migdale, cocos).",
+  "tips": [
+   "Pentru o variantă fără gluten, folosește fulgi de ovăz certificați gluten-free sau quinoa expandată."
+  ],
+  "page": 162,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "TERCI DE OVAZ CU UNT DE ARAHIDE",
+  "servings": 2,
+  "minutes": 10,
+  "kcal": 245,
+  "description": "Un desert cremos, cald și super decadent — terci de ovăz cu unt de arahide, perfect pentru pofta de ceva dulce, fin și sănătos.",
+  "ingredients": [
+   "50 g fulgi de ovăz",
+   "200 ml lapte degresat",
+   "1 lingură (15 g) unt de arahide natural",
+   "Îndulcitor (după gust)"
+  ],
+  "steps": [
+   "Fierbe ovăzul în lapte 6–8 minute până devine cremos.",
+   "Adaugă untul de arahide și îndulcitorul.",
+   "Amestecă bine și servește cald."
+  ],
+  "portion": "~200 g",
+  "protein": 8.5,
+  "carbs": 29.0,
+  "fat": 10.0,
+  "allergens": "gluten (ovăz), lactoză (lapte), arahide",
+  "variants": "Pentru o variantă fără lactoză, folosește lapte vegetal (migdale sau ovăz).",
+  "tips": [
+   "Adaugă 1 linguriță semințe de chia pentru un plus de fibre și efect de sațietate.",
+   "Pentru o variantă fără arahide, folosește unt de migdale sau tahini în aceeași cantitate."
+  ],
+  "page": 163,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "PRĂJITURĂ CU OVĂZ, OU ȘI UNT DE ARAHIDE",
+  "servings": 2,
+  "minutes": 30,
+  "kcal": 105,
+  "description": "O prăjitură moale, aromată și natural dulce — combinația perfectă dintre ovăz, banană și unt de arahide, pentru un desert sănătos și super satisfăcător.",
+  "ingredients": [
+   "40 g fulgi ovăz",
+   "1 ou",
+   "80 g banana",
+   "10 g unt arahide",
+   "50 g iaurt grecesc praf de copt"
+  ],
+  "steps": [
+   "Pasează banana și amestec-o cu oul și untul de arahide",
+   "Adaugă ovăzul, praful de copt și iaurtul",
+   "Pune în formă mică și coace 20–25 min la 180°C"
+  ],
+  "portion": "~200 g",
+  "protein": 4.5,
+  "carbs": 13.0,
+  "fat": 4.5,
+  "allergens": "gluten (ovăz), lactoză (iaurt), ou, arahide",
+  "variants": "Pentru o variantă fără lactoză, folosește iaurt vegetal proteic.",
+  "tips": [
+   "Poți adăuga 1 linguriță cacao sau esență de vanilie pentru un plus de aromă.",
+   "Pentru o variantă fără gluten, înlocuiește ovăzul cu făină de migdale sau ovăz certificat gluten-free."
+  ],
+  "page": 164,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "CLĂTITE DULCI CU BRÂNZĂ ȘI MERE COAPTE",
+  "servings": 2,
+  "minutes": 15,
+  "kcal": 210,
+  "description": "Clătite fine, umplute cu brânză dulce și mere coapte aromate — un desert cald, reconfortant și natural dulce, perfect pentru orice poftă.",
+  "ingredients": [
+   "1 ou",
+   "30g făină de ovăz",
+   "100ml lapte",
+   "60g brânză dulce 5%",
+   "100g măr scorțișoară"
+  ],
+  "steps": [
+   "Amestecă oul, făina și laptele și gătește 2 clătite.",
+   "Coace mărul și pasează-l cu scorțișoară.",
+   "Umple clătitele cu brânză și piureul de măr."
+  ],
+  "portion": "~200 g",
+  "protein": 13.0,
+  "carbs": 23.0,
+  "fat": 7.0,
+  "allergens": "gluten (făină de ovăz), lactoză (lapte, brânză), ou",
+  "variants": "Pentru o variantă fără lactoză, folosește lapte vegetal și brânză proteică din soia.",
+  "tips": [
+   "Pentru un gust intens de toamnă, presară puțin ghimbir pudră peste mere.",
+   "Pentru o variantă fără gluten, înlocuiește făina de ovăz cu făină de migdale sau cocos."
+  ],
+  "page": 165,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "NEGRESĂ PROTEICĂ CU BRÂNZĂ DULCE ȘI BANANĂ",
+  "servings": 6,
+  "minutes": 30,
+  "kcal": 95,
+  "description": "O negresă proteică, cremoasă și intens ciocolatoasă — îndulcită natural cu banană și brânză dulce, pentru un desert sănătos și super delicios.",
+  "ingredients": [
+   "1 ou",
+   "80g banană",
+   "70g brânză dulce 5%",
+   "10g cacao",
+   "30g făină de ovăz",
+   "10g miere"
+  ],
+  "steps": [
+   "Pasează banana și amestec-o cu oul.",
+   "Adaugă brânza, cacao, făina și mierea.",
+   "Omogenizează și toarnă într-o formă mică.",
+   "Coace 25 min la 180°C."
+  ],
+  "portion": "~200 g",
+  "protein": 5.8,
+  "carbs": 12.5,
+  "fat": 3.2,
+  "allergens": "ouă, lactoză (brânză), gluten (făină de ovăz)",
+  "variants": "Fără lactoză: folosește brânză vegetală proteică sau iaurt din soia.",
+  "tips": [
+   "Poți adăuga și câteva picături de esență de rom sau vanilie pentru aromă extra.",
+   "Fără gluten: înlocuiește făina de ovăz cu făină de migdale sau cocos."
+  ],
+  "page": 166,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "TARTĂ CU IAURT ȘI PIURE DE PERE",
+  "servings": 6,
+  "minutes": 30,
+  "kcal": 85,
+  "description": "O tartă lejeră și aromată, cu bază cremoasă din iaurt și ovăz, completată de un piure fin de pere — desert simplu, sănătos și elegant.",
+  "ingredients": [
+   "150g iaurt grecesc 2%",
+   "1 ou",
+   "35g fulgi de ovăz",
+   "100g pară scorțișoară"
+  ],
+  "steps": [
+   "Rade para și fierbe-o 5–6 min apoi paseaz-o.",
+   "Amestecă iaurtul cu oul și ovăzul.",
+   "Pune compoziția într-o formă și coace 20 min.",
+   "Adaugă piureul de pară deasupra."
+  ],
+  "portion": "~200 g",
+  "protein": 5.4,
+  "carbs": 10.2,
+  "fat": 2.8,
+  "allergens": "ouă, lactoză (iaurt), gluten (fulgi de ovăz)",
+  "variants": "Fără lactoză: folosește iaurt vegetal (ex. soia sau cocos proteic).",
+  "tips": [
+   "Servește cu o lingură de iaurt rece și scorțișoară pentru extra proteine și gust cremos.",
+   "Fără gluten: înlocuiește fulgii de ovăz cu făină de migdale sau cocos."
+  ],
+  "page": 167,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "GRIS CU LAPTE, BRÂNZĂ ȘI SOS DE FRUCTE",
+  "servings": 2,
+  "minutes": 15,
+  "kcal": 160,
+  "description": "Un desert clasic reinterpretat — griș cu lapte cremos, brânză dulce și un sos proaspăt de fructe, pentru o combinație fină și ușor dulce.",
+  "ingredients": [
+   "30g griș",
+   "150ml lapte 1.5%",
+   "60g brânză dulce 5%",
+   "50g afine",
+   "5g miere"
+  ],
+  "steps": [
+   "Fierbe grișul în lapte până se îngroașă.",
+   "Încorporează brânza după ce s-a răcit ușor.",
+   "Pasează afinele cu miere și toarnă sosul deasupra."
+  ],
+  "portion": "~200 g",
+  "protein": 9.5,
+  "carbs": 20.0,
+  "fat": 4.5,
+  "allergens": "lactoză (lapte, brânză), gluten (griș)",
+  "variants": "Fără lactoză: folosește lapte vegetal și brânză vegetală proteică.",
+  "tips": [
+   "Fără gluten: înlocuiește grișul cu griș de porumb fin sau făină de orez."
+  ],
+  "page": 168,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "MUFFIN CU MORCOV, MĂR ȘI IAURT",
+  "servings": 2,
+  "minutes": 30,
+  "kcal": 160,
+  "description": "Muffinuri aromate, pufoase și natural dulci — combinația perfectă dintre morcov, măr și iaurt pentru un desert sănătos și plin de savoare.",
+  "ingredients": [
+   "40g morcov",
+   "50gmăr",
+   "1 ou",
+   "50g iaurt grecesc 2%",
+   "30g făină integrală scorțișoară"
+  ],
+  "steps": [
+   "Fierbe grișul în lapte până se îngroașă.",
+   "Încorporează brânza după ce s-a răcit ușor.",
+   "Pasează afinele cu miere și toarnă sosul deasupra."
+  ],
+  "portion": "~200 g",
+  "protein": 9.5,
+  "carbs": 20.0,
+  "fat": 4.5,
+  "allergens": "lactoză (lapte, brânză), gluten (griș)",
+  "variants": "Fără lactoză: folosește lapte vegetal și brânză vegetală proteică.",
+  "tips": [
+   "Fără gluten: înlocuiește grișul cu griș de porumb fin sau făină de orez."
+  ],
+  "page": 169,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "ÎNGHEȚATĂ CU BANANE, IAURT GRECESC ȘI UNT DE ARAHIDE",
+  "servings": 2,
+  "minutes": 10,
+  "kcal": 140,
+  "description": "O înghețată cremoasă, fresh și super sănătoasă — realizată din banane congelate, iaurt grecesc și unt de arahide, pentru un desert răcoritor și natural dulce.",
+  "ingredients": [
+   "120g Banana bine coaptă",
+   "200g Iaurt grecesc 2%",
+   "10g Unt de arahide",
+   "5g Fulgi de migdale",
+   "Extract de vanilie + scorțișoară (opțional)"
+  ],
+  "steps": [
+   "Taie banana rondele și congeleaz-o minimum 4 ore.",
+   "Pune banana congelată și iaurtul într-un blender.",
+   "Adaugă untul de arahide și vanilia.",
+   "Mixează până devine cremoasă.",
+   "Servește imediat cu migdalele presărate deasupra sau congeleaz-o ușor pentru consistență fermă."
+  ],
+  "portion": "~200 g",
+  "protein": 9.0,
+  "carbs": 15.0,
+  "fat": 5.0,
+  "allergens": "lactoză (iaurt), arahide, migdale (nuci)",
+  "variants": "Fără lactoză: folosește iaurt vegetal proteic.",
+  "tips": [
+   "Pentru o textură de gelato, mixează compoziția din nou după 30 min de congelare.",
+   "Fără arahide: înlocuiește cu unt de migdale sau semințe de floarea-soarelui.",
+   "Fără migdale: folosește fulgi de cocos sau semințe de dovleac."
+  ],
+  "page": 170,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "ÎNGHEȚATĂ CU CĂPȘUNI, COTTAGE CHEESE ȘI MIERE",
+  "servings": 2,
+  "minutes": 10,
+  "kcal": 140,
+  "description": "O înghețată fresh și super cremoasă, făcută din căpșuni congelate, cottage cheese și un strop de miere — un desert proteic, răcoritor și gata în câteva clipe.",
+  "ingredients": [
+   "150g Căpșuni congelate",
+   "200g Cottage cheese light",
+   "10g Miere",
+   "15g Fulgi de ovăz",
+   "Coajă rasă de lămâie (opțional)"
+  ],
+  "steps": [
+   "Pune căpșunile congelate, brânza și mierea într-un blender.",
+   "Mixează bine până devine o cremă fină.",
+   "Adaugă fulgii de ovăz și mixează scurt pentru textură.",
+   "Servește imediat sau lasă la congelator 1 oră pentru fermitate."
+  ],
+  "portion": "~200 g",
+  "protein": 13.0,
+  "carbs": 12.0,
+  "fat": 4.0,
+  "allergens": "lactoză (cottage cheese), ovăz (gluten)",
+  "variants": "Fără lactoză: folosește brânză vegetală proteică sau iaurt vegetal gros.",
+  "tips": [
+   "Poți înlocui căpșunile cu afine sau zmeură pentru un profil antioxidant diferit.",
+   "Fără gluten: înlocuiește fulgii de ovăz cu semințe de chia sau migdale măcinate."
+  ],
+  "page": 171,
+  "category": "Deserturi fără regrete"
+ },
+ {
+  "title": "ÎNGHEȚATĂ CU MANGO ȘI IAURT DE CAPRĂ",
+  "servings": 2,
+  "minutes": 10,
+  "kcal": 130,
+  "description": "O înghețată fresh, exotică și super cremoasă, cu mango bine copt și iaurt de capră — un desert light, răcoritor și plin de aromă tropicală.",
+  "ingredients": [
+   "100g Mango bine copt (sau congelat)",
+   "200g Iaurt de capră 3%",
+   "10g Semințe de floarea-soarelui",
+   "5g Miere",
+   "Vanilie sau zeamă de lămâie (opțional)"
+  ],
+  "steps": [
+   "Taie mango cuburi și congelează-l 2–3 ore.",
+   "Pune mango și iaurtul într-un blender.",
+   "Adaugă mierea și vanilia.",
+   "Mixează până obții o cremă.a",
+   "Presară semințele deasupra și servește imediat sau ușor congelat."
+  ],
+  "portion": "~200 g",
+  "protein": 9.0,
+  "carbs": 13.0,
+  "fat": 4.0,
+  "allergens": "lactoză (iaurt), semințe (floarea-soarelui)",
+  "variants": "Fără lactoză: folosește iaurt vegetal sau brânză proteică fără lactoză.",
+  "tips": [
+   "Dacă folosești mango congelat, nu mai e nevoie să îl congelezi din nou.",
+   "Fără semințe: înlocuiește cu 5 g fulgi de cocos sau migdale măcinate."
+  ],
+  "page": 172,
+  "category": "Deserturi fără regrete"
+ }
+]
