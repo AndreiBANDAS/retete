@@ -38,6 +38,7 @@ completate manual în `FIXUPS`.
 | câmp | tip | exemplu |
 |---|---|---|
 | `title` | string | `"SALATĂ DE BOEUF LIGHT"` |
+| `image` | string | `"img/050.jpg"` — poza rețetei, sau `""` |
 | `category` | string | `"Aperitive și gustări fresh"` |
 | `page` | number | `50` — pagina din PDF, pentru verificare |
 | `servings` | number | `6` |
@@ -58,6 +59,7 @@ Câmpurile care lipsesc în original sunt `""` sau `null`, niciodată inventate.
 
 - Textul, structura și valorile nutriționale aparțin autorului și editurii.
   Pagina este o copie personală, neindexată, cu atribuire.
-- Imaginile din carte nu au fost extrase.
+- Pozele rețetelor sunt extrase din PDF în `img/`, câte una per rețetă, la
+  rezoluția din carte (~700×400). Aparțin autorului, la fel ca textul.
 - Extragerea automată a rețetelor a fost verificată manual; cele patru rețete cu
   probleme sunt corectate explicit în `extract.py`.

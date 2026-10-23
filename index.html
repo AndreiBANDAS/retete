@@ -29,6 +29,15 @@
     }
   }
   * { box-sizing: border-box; }
+  html { scrollbar-gutter: stable; scrollbar-color: var(--line) transparent; }
+  * { scrollbar-width: thin; }
+  ::-webkit-scrollbar { width: 12px; height: 12px; }
+  ::-webkit-scrollbar-track { background: transparent; }
+  ::-webkit-scrollbar-thumb {
+    background: var(--line); border: 3px solid var(--paper);
+    background-clip: padding-box; border-radius: 99px;
+  }
+  ::-webkit-scrollbar-thumb:hover { background: var(--muted); background-clip: padding-box; }
   body {
     margin: 0;
     background: var(--paper);
@@ -104,9 +113,15 @@
   @media (min-width: 720px) { ul.list { grid-template-columns: 1fr 1fr; } }
   ul.list li { margin: 0; }
   .card {
-    display: block; width: 100%; height: 100%; text-align: left;
+    display: flex; align-items: center; justify-content: space-between;
+    gap: 16px; width: 100%; height: 100%; text-align: left;
     background: var(--paper); border: 0; border-radius: 0;
-    padding: 18px 20px 16px; cursor: pointer;
+    padding: 14px 16px 14px 20px; cursor: pointer;
+  }
+  .card .txt { min-width: 0; }
+  .thumb {
+    flex: none; width: 104px; height: 62px; object-fit: cover;
+    border-radius: 2px; background: var(--chip);
   }
   .card:hover { background: var(--chip); }
   .kicker {
@@ -130,8 +145,16 @@
     padding: 0; border: 1px solid var(--line);
     border-radius: 3px; background: var(--paper); color: var(--ink);
   }
-  dialog::backdrop { background: rgba(0, 0, 0, .42); }
-  .sheet { padding: 26px 26px 30px; }
+  dialog::backdrop {
+    background: rgba(18, 17, 15, .34);
+    backdrop-filter: blur(6px) saturate(.85);
+    -webkit-backdrop-filter: blur(6px) saturate(.85);
+  }
+  .hero {
+    display: block; width: 100%; aspect-ratio: 16 / 9;
+    object-fit: cover; background: var(--chip);
+  }
+  .sheet { padding: 24px 26px 30px; }
   .sheet .top { display: flex; justify-content: space-between; gap: 16px; align-items: start; }
   .sheet h2 {
     font-family: var(--serif); font-size: clamp(24px, 4vw, 33px);
@@ -194,6 +217,7 @@
 </div>
 
 <dialog id="detail">
+  <img class="hero" id="d-img" alt="">
   <div class="sheet">
     <div class="top">
       <div>
@@ -283,13 +307,20 @@ function render() {
       <h2 class="sect">${c}<span>${rs.length}</span></h2>
       <ul class="list">${rs.map(r => `<li>
         <button class="card" type="button" data-id="${r.id}">
-          <h3>${sent(r.title)}</h3>
-          <span class="meta">${metaLine(r)}</span>
+          <span class="txt">
+            <h3>${sent(r.title)}</h3>
+            <span class="meta">${metaLine(r)}</span>
+          </span>
+          ${r.image ? `<img class="thumb" src="${r.image}" alt="" loading="lazy" width="104" height="62">` : ""}
         </button></li>`).join("")}</ul>
     </section>`).join("");
 }
 
 function open(r) {
+  const hero = $("d-img");
+  hero.hidden = !r.image;
+  hero.src = r.image || "";
+  hero.alt = r.title.toLowerCase();
   $("d-cat").textContent = r.category;
   $("d-title").textContent = sent(r.title);
   $("d-desc").textContent = r.description;

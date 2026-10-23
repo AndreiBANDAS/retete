@@ -9,9 +9,12 @@ instructions right) and a lower block (macros left, tips right).
 """
 import html
 import json
+import os
 import re
+import shutil
 import subprocess
 import sys
+import tempfile
 
 LINE_TOL = 3.5   # word baselines within this distance share a line
 COL_GAP = 4      # gap before the right column's left edge
@@ -122,9 +125,10 @@ def split_items(line):
             if m:
                 rest = line[m.end():].lstrip()
                 # a quantity followed by a lowercase noun starts a new item
-                before = re.sub(r"[^\w]+$", "", line[start:i])
-                if (rest[:1].islower() and not before.endswith(("sau", "și", "cu", "de", "la"))
-                        and not before.endswith(("-", "–"))):
+                raw = line[start:i].strip()
+                before = re.sub(r"[^\w]+$", "", raw)
+                if (rest[:1].islower() and not raw.endswith(("-", "–", "/"))
+                        and not before.endswith(("sau", "și", "cu", "de", "la"))):
                     out.append(line[start:i].strip(" ,"))
                     start, i = i, m.end()
                     continue
@@ -234,6 +238,25 @@ def parse_recipe(words):
     }
 
 
+def extract_images(pdf, pages, outdir):
+    """One photo per recipe page, kept at the resolution embedded in the PDF."""
+    tmp = tempfile.mkdtemp()
+    try:
+        run(["pdfimages", "-j", pdf, os.path.join(tmp, "im")])
+        order = [int(l.split()[0]) for l in run(["pdfimages", "-list", pdf]).splitlines()[2:]
+                 if l.strip()]
+        os.makedirs(outdir, exist_ok=True)
+        made = {}
+        for i, page in enumerate(order):
+            src = os.path.join(tmp, f"im-{i:03d}.jpg")
+            if page in pages and os.path.exists(src):
+                shutil.move(src, os.path.join(outdir, f"{page:03d}.jpg"))
+                made[page] = f"img/{page:03d}.jpg"
+        return made
+    finally:
+        shutil.rmtree(tmp, ignore_errors=True)
+
+
 def is_recipe(words):
     joined = " ".join(w["t"] for w in words)
     return "INGREDIENTE" in joined and "INSTRUCȚIUNI" in joined
@@ -251,6 +274,8 @@ def main(pdf, out):
     dividers = {p: chapter_title(pdf, p) for p in range(2, 205)
                 if p not in recipe_pages and p + 1 in recipe_pages}
 
+    images = extract_images(pdf, set(recipe_pages), os.path.join(os.path.dirname(out) or ".", "img"))
+
     recipes, warnings = [], []
     for page in recipe_pages:
         r = parse_recipe(pages[page])
@@ -259,6 +284,7 @@ def main(pdf, out):
         chapter = [d for d in dividers if d < page]
         r["page"] = page
         r["category"] = dividers[max(chapter)] if chapter else None
+        r["image"] = images.get(page, "")
         if page in FIXUPS:
             r["ingredients"] = FIXUPS[page]
         recipes.append(r)
