@@ -19,7 +19,7 @@ UNITS = r"(?:g|kg|ml|l|buc|bucăți|linguriță|linguri|lingură|căni|cană|fel
 
 QTY = re.compile(r"(?<![\d.,])(\d+(?:[.,]\d+)?)\s*" + UNITS + r"\b")
 
-# Three pages run several ingredients together in one flowed paragraph; the
+# A few pages run several ingredients together in one flowed paragraph; the
 # source text is unrecoverable by layout, so their lists are spelled out here.
 FIXUPS = {
     85: ["600 g carne de vită extra slabă, tăiată cubulețe (ex. pulpă de vită, mușchi)",
@@ -43,6 +43,28 @@ FIXUPS = {
          "1–2 căței de usturoi dați pe răzătoare",
          "opțional: fulgi de chilli sau ghimbir ras"],
     116: ["2 avocado", "4 ouă", "rozmarin"],
+    60: ["2.25 kg piept de pui (cuburi, fără piele/os)", "Condimente:",
+         "1 linguriță sare", "1½ linguriță boia afumată", "1 linguriță usturoi pudră",
+         "1 linguriță ceapă pudră", "1 linguriță mix ierburi italiene",
+         "zeama de ½ lămâie", "Oregano uscat + pătrunjel uscat (pentru topping)",
+         "6 căței usturoi tocați", "500 ml lapte evaporat light (sau 1.5% redus pe foc)",
+         "80 g cremă de brânză light", "40 g parmezan ras", "100 g cașcaval light ras",
+         "15 lipii mici/medii", "300 g mozzarella light rasă (≈20 g/lipie)"],
+    141: ["Baza:", "40 g fulgi de ovăz", "100 ml apă",
+          "50 g lapte 1.5% sau vegetal (ex. migdale, ovăz)", "1 praf de sare",
+          "[Opțional] îndulcitor lichid sau stevia după gust", "După fierbere:",
+          "150 g iaurt grecesc 2%", "15 g unt de arahide natural",
+          "15 g lapte praf (sau pudră proteică vanilie/cacao – opțional)",
+          "Pentru topping:", "20 g stevia sau 1 linguriță îndulcitor lichid pudră (sau 20 g miere)",
+          "25 ml lapte", "15 g cacao pudră"],
+    145: ["2 ouă întregi, 3 albușuri", "200 ml lapte 1.5%", "2 lingurițe cafea instant",
+          "40 g cacao pudră neîndulcită",
+          "250 g brânză cottage slabă (sau brânză de vaci granulată fin)",
+          "150 g fulgi de ovăz", "5 g praf de copt", "2 g sare", "2 g esență de vanilie",
+          "Crema:",
+          "200 g iaurt grecesc (ex. Hercules sau alt iaurt cu gust neutru, nu acrișor)",
+          "1 linguriță cafea instant",
+          "Îndulcitor natural (stevia, eritritol) – după gust, dar dulce intens"],
 }
 
 TIPS = re.compile(r"^(Alergeni|Variante|Alternative|Trebuie|Poți|Se|Pentru|Alege|Dacă"
@@ -100,7 +122,8 @@ def split_items(line):
             if m:
                 rest = line[m.end():].lstrip()
                 # a quantity followed by a lowercase noun starts a new item
-                if rest[:1].islower():
+                before = re.sub(r"[^\w]+$", "", line[start:i])
+                if rest[:1].islower() and not before.endswith(("sau", "și", "cu", "de", "la")):
                     out.append(line[start:i].strip(" ,"))
                     start, i = i, m.end()
                     continue
@@ -115,6 +138,7 @@ def join_items(lines):
     for ln in lines:
         for part in split_items(ln):
             if items and (re.match(r"^[a-zăâîșț(]", part)
+                          or re.search(r"\b(sau|și|cu|de|la)$", items[-1])
                           or items[-1].count("(") > items[-1].count(")")):
                 items[-1] += " " + part
             else:
@@ -163,10 +187,11 @@ def parse_recipe(words):
         return float(m.group(1)) if m else None
 
     kcal = macro("Calorii") or (int(kcal_top.group(1)) if kcal_top else None)
-    portion = next((m.group(1) for m in
-                    (re.search(r"\(\s*([^)]*(?:g|gr|ml|buc)[^)]*)\)", t)
-                     for _, t in macro_rows + below)
-                    if m), "")
+    parens = [m.group(1).strip() for m in
+              (re.search(r"\(\s*([^)]*)\)", t) for _, t in macro_rows + below) if m]
+    parens = [p for p in parens if not p.lower().startswith("din care")]
+    portion = next((p for p in parens if re.search(r"\d\s*(?:g|gr|ml|buc)", p)),
+                   parens[0] if parens else "")
     ingredients = join_items([t for _, t in left
                               if not re.match(r"^(C|P)alorii|^(Proteine|Carbohidra|Gr[ăa]simi"
                                               r"|MACRO|\(din care|\(~|\()", t)])

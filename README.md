@@ -28,7 +28,7 @@ ale paginii: ingrediente în stânga, instrucțiuni în dreapta. Nu are nevoie d
 OCR — PDF-ul are text selectabil.
 
 La finalul rulării afișează rețetele cu câmpuri lipsă, ca să poți verifica.
-Trei pagini au ingredientele scrise într-un singur paragraf în original și sunt
+Câteva pagini au ingredientele scrise într-un singur paragraf în original și sunt
 completate manual în `FIXUPS`.
 
 ## Structura datelor
